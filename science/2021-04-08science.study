@@ -37,7 +37,7 @@ Quelles sont les 8 planètes et leurs propriétés (nom, propriétés)? .
 5. Jupiter|| ||Plus grosse planète du système solaire|| ||Atmosphère de H (21% hydrogène), He (24% hélium)|| ||Atmosphère turbulente, tache rouge (cyclone)|| ||Fins anneaux peu visibles|| ||L'object le plus brillant après le Soleil, la Lune, Vénus
 6. Saturne|| ||Atmosphère de H (hydrogène), He (Hélium)|| ||Anneax composé de glace, poussières, 7 principales (composé de milliers de petits anneaux)|| ||Satellite, Titan plus gros que Mercure (possède une atmosphère)
 7. Uranus|| ||Géante de glace|| ||Diamètre 4 fois celle de la Terre|| ||Atmosphère de H (hydrogène), He (Hélium)|| ||Des anneaux, peu visibles|| ||Invisible à l'oeil nu|| ||Première planète découverte à l'aide d'un téléscope|| ||Inclinaison de l'axe de rotation est plus de 90 degrées
-8. Neptune|| ||Géante de glace|| ||Atmosphère de H (hydrogène), He (Hélium)|| ||Surface glaciale|| ||Invisible à l'oeil nu
+8. Neptune|| ||Géante de glace|| ||Atmosphère de H (hydrogène), He (Hélium)|| ||Surface glaciale|| ||Invisible à l'oeil nu|| ||Anneaux
 Pourquoi l'eau de la Terre est bleue? Elle réflecte le ciel qui décompose les couleurs du soleil, le bleu est celui qui est le plus lent (donc plus apparente).
 Quel est le sens de révolution des planètes? Sens antihoraire sur leur orbite autour du soleil.
 Quel est le sens de rotation des planètes? Sens antihoraire, sauf Uranus et Vénus.
@@ -70,7 +70,7 @@ Quelles sont les 4 composantes d'une comète lorsqu'elle est proche du soleil (c
 De ou proviennent les comètes? La ceinture de Kuiper et le nuage de Oort (l'extrême limite du système solaire).
 Quelles types de trajectoire ont les comètes? Trajectoires elliptiques.
 Qu'est ce qui arrive à chaque passage de la comète près du soleil? Elle perd un peu de sa matière, elle disparaîtra éventuellement.
-Peut on voir des comètes régulièrement à l'oeil nu? Non.
+Peut on voir des comètes régulièrement à l'oeil nu? Non, mais certains sont visibles lorsqu'ils sont très proches du Soleil.
 Pourquoi la queue de la comète apparaît seulement lorsqu'elle est près du soleil? C'est seulement lorsque la comète s'approche du Soleil que la glace se sublime.
 
 !Impacts météoritiques
@@ -91,11 +91,15 @@ Comment appelle-ton les cratères formées par les impacts météoritiques? Astr
 !Aurores polaires
 Dans quelle couche de l'atmosphère se produit les aurores boréales? La thermosphère.
 Quand se produit les aurores polaires? Lorsque les particules du vent solaire interagissent avec les particules de gaz dans la haute atmosphère (thermosphère).
+Quelles sont les 2 facteurs de formation d'un aurore polaire? Les gaz dans la haure atmosphère|| ||Vents solaires
+Qu'est ce qui nous permet de voir les aurores polaires? Le champ magnétique.
 Quels types de gaz créent les différents couleurs? L'azote crée les teintes de bleu et de rouge, l'oxygène crée les teintes vertes et roses.
 Quels sont les deux différentes formes qu'un aurore polaire peut prendre? Forme d'arcs (vent solaire peu intense), bandes / rideaux (plus intenses)
 Ou se produisent les aurores polaire? Aux pôles Nord et Sud.
-Pourquoi? Le champ magnétique de la Terre, le magnétosphère dévie les particules du vent solaire vers les deux pôles.
+Pourquoi? Le champ magnétique de la Terre, dévie les particules du vent solaire vers les deux pôles.
+Quel est le nom donné au champ magnétique terrestre? Le magnétosphère.
 Pourquoi la Terre est-elle magnétique? Son noyau est fait de fer et nickel, qui ont des propriétés magnétiques.
 Comment appelle-t-on les aurores polaires aux deux pôles? Aurore boréale - Hémisphère Nord|| ||Aurore australe - Hémisphère Sud
 Quel est un autre facteur qui cache les aurores polaires? La pollution lumineuse des zones urbaines.
 Pourquoi est-il impossible d'observer une aurore boréale au Sud? Les aurores boréales se produisent au Nord du globe.
+Pourquoi ne peut-on pas obverver des aurores polaires sur la Lune? Pas d'atmophère, pas de champ magnétique.
