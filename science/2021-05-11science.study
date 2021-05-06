@@ -8,23 +8,23 @@ Effect des forces (Catégorie, Sous catérogie). .
 -. De l'état de repos
 -. Du mouvement
 Types de contraintes (Contrainte, Symbole). .
-1. Compression (link)
-2. Tension (link)
-3. Torsion (link)
-4. Flexion (link)
-5. Cisaillement (link)
+1. Compression|| ||https://github.com/ThatAquarel/StudyGuides/blob/main/science/2021-05-11science/compression.PNG
+2. Tension|| ||https://github.com/ThatAquarel/StudyGuides/blob/main/science/2021-05-11science/tension.PNG
+3. Torsion|| ||https://github.com/ThatAquarel/StudyGuides/blob/main/science/2021-05-11science/torsion.PNG
+4. Flexion|| ||https://github.com/ThatAquarel/StudyGuides/blob/main/science/2021-05-11science/flexion.PNG
+5. Cisaillement|| ||https://github.com/ThatAquarel/StudyGuides/blob/main/science/2021-05-11science/cisaillement.PNG
 Types de mouvement (Mouvement, Symbole). .
-1. Translation (unidirectionnelle, bidirectionnelle)
-2. Rotation (unidirectionnelle, bidirectionnelle)
-3. Hélicoïdale (bidirectionnelle)
+1. Translation (unidirectionnelle, bidirectionnelle)|| ||https://github.com/ThatAquarel/StudyGuides/blob/main/science/2021-05-11science/translation.PNG
+2. Rotation (unidirectionnelle, bidirectionnelle)|| ||https://github.com/ThatAquarel/StudyGuides/blob/main/science/2021-05-11science/rotation.PNG
+3. Hélicoïdale (bidirectionnelle)|| ||https://github.com/ThatAquarel/StudyGuides/blob/main/science/2021-05-11science/helicoidal.PNG
 Liaisons (Liaison)
 1. Démontable
 2. Indémontable
 Guidages (Guidage, Symbole)
-1. En translation
-2. En rotation
-3. Hélicoïdale
-4. Mixte
+1. En translation|| ||https://github.com/ThatAquarel/StudyGuides/blob/main/science/2021-05-11science/translation_guidage.png
+2. En rotation|| ||https://github.com/ThatAquarel/StudyGuides/blob/main/science/2021-05-11science/rotation_guidage.PNG
+3. Hélicoïdale|| ||https://github.com/ThatAquarel/StudyGuides/blob/main/science/2021-05-11science/helicoidal_guidage.PNG
+4. Mixte|| ||https://github.com/ThatAquarel/StudyGuides/blob/main/science/2021-05-11science/mixte_guidagePNG.PNG
 Matière première. Substance naturelle qui nécéssite une transformation.
 Matériau. Substance obtenu suite à une transformation d'une matière première.
 Matériel. Outil / Équipement nécéssaire à la construction d'un object technique.
@@ -35,12 +35,14 @@ Object technique. Objet conçu pour combler à un besoin.
 3. Nom de chaque pièce
 4. Forces nécessaires pour faire fonctionner l'objet
 5. Mouvements entraînés par les forces
+Example. https://github.com/ThatAquarel/StudyGuides/blob/main/science/2021-05-11science/principe.PNG
 Éléments du schéma de construction
 1. Titre du schéma
 2. Dessin réaliste de l'objet technique
 3. Nom de chacune des pièces
 4. Identification des matériaux utilisés à l'aide d'une légende de couleure
 5. Organes de liaison et guidages lorsque nécéssaire
+Example. https://github.com/ThatAquarel/StudyGuides/blob/main/science/2021-05-11science/construction.PNG
 
 !Machines simples
 Qu'est ce qu'une machine simple? Dispositif élémentaire pour faciliter le travail, en modifiant l'intensité / l'orientation de la force.
@@ -80,6 +82,7 @@ Quelles sont les 5 caractéristiques (caractéristique, description)? .
 3. Commandes|| ||Dispositifs qui permettent de contrôler le système.
 4. Procédés|| ||Méthodes employés pour éxécuter des actions, transformation d'énergie, transmission, etc.
 5. Extrants|| ||Tous les éléments (matière, énergie, information) qui sortent du système.
+Example grille-pain. https://github.com/ThatAquarel/StudyGuides/blob/main/science/2021-05-11science/grille_pain.PNG
 
 !Composantes d'un système technologique
 Qu'est ce qui est une composante? Éléments (systèmes, mécanismes, sous-systèmes) qui composent un système technologique.
