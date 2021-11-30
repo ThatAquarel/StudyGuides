@@ -1,0 +1,24 @@
+#Math Exam 2021-09-23
+!Terminology
+Extension. x ∈ {0, 1, 2, ..., 12, 13, 14}
+Intervalle. x ∈ ]-∞, +∞[
+Compréhension. {x ∈ R | 0 ≤ x ≤ 10}
+
+!Number sets
+Réels (all numbers that are not imaginary). R
+Rationnel (numbers that can be represented as a/b for integer a and b). Q
+Entiers (integers, positive and negative). Z
+Naturel (integers that aren't negative). N
+Number sets of discrete numbers. N and Z
+Representation type of discrete numbers. {}, extension
+Numeric line of discrete numbers. Dots
+Number set of continuous numbers. R
+Representation type of continuous numbers. [], interval
+Numeric line of continuous numbers. Line
+
+!Reminders
+. Read the question correctly.
+. Define variables.
+. Measuring units on intervals and extensions.
+Write x ∈ ]10, +∞[ in as an extension. x ∈ {11, 12, 13, ...}
+Write x ∈ ]-∞, 10[ in as an extension. x ∈ {..., 7, 8, 9}
