@@ -1,0 +1,39 @@
+#Math Exam 2022-02-08
+!Terminology
+Domaine. Ensembles des valeurs de X
+Image. Ensembles des valeurs de Y
+Maximum. Plus grande valeur des Y
+Minimum. Plus petite valeur des Y
+Abscisses à l'origine. Quand Y=0, que vaut X? (peut avoir plusieurs)
+Ordonnée à l'origine. Quand X=0, que vaut Y? (pas plusieurs, sinon pas une fonction)
+Signe Positive. Ensemble des valeurs de X quand Y est >= que 0.
+Signe Négative. Ensemble des valeurs de X quand Y est <= que 0.
+Croissance. Ensemble des valeurs de X quand X et Y sont en croissance.
+Décroissante. Ensemble des valeurs de X quand X est croissant et Y en décroissance.
+Constante. Ensemble des valeurs de X quand Y ne varie pas.
+Image d'une valeur. Que vaut Y quand X est la valeur.
+Triplet pythagoricien. a^2 + b^2 = c^2, quand a,b,c ∈ N.
+Réels (all numbers that are not imaginary). R
+Rationnel (numbers that can be represented as a/b for integer a and b). Q
+Irrationnel (numbers that cannot be represented as a/b for integer a and b). Q'
+Entiers (integers, positive and negative). Z
+Naturel (integers that aren't negative). N
+Number sets of discrete numbers. N and Z
+Extension. x ∈ {0, 1, 2, ..., 12, 13, 14}
+Intervalle. x ∈ ]-∞, +∞[
+Compréhension. {x ∈ R | 0 ≤ x ≤ 10}
+Droite numérique. 10 < x
+. --o---------------->
+. --|------------------------>
+. --10
+
+!Common mistakes (^ is exponentiation, /= means not equal)
+x^0 = 1. Tout nombre exposant 0 est égal à 1.
+x^(a+b) /= x^a + x^b. x^(a+b) est égal à x^a * x^b (multiplication).
+x>y>z. Mettre les symboles de comparaison entre nombres comparés.
+x^(-1). Mettre les exposants négatifs.
+x^a * y^a = (x*y)^a. Multiplication de deux bases avec le même exposant.
+Write x ∈ ]10, +∞[ as an extension. x ∈ {11, 12, 13, ...} cm
+Write x ∈ ]-∞, 10[ as an extension. x ∈ {..., 7, 8, 9} cm1
+Write x < 5 as an interval. x ∈ ]-∞, 5[
+Équation. y = ax + b
