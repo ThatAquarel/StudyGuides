@@ -51,8 +51,44 @@ Qu'est ce qui arrive lors qu'elle rencontre un obstacle? Absorbée / réfléchie
 
 !Réflexion
 Définition. Rayons rencontrent une surface plane réfléchissante (miroir), rebondissent.
+&./2022-04-25science/reflexion.png
+Rayon A. Rayon incident.
+Rayon B. Rayon réfléchi.
+Angle A. Angle d'incidence.
+Angle B. Angle de réflexion.
+Direction A. Normale.
 
-&./science/2022-04-25science/reflexion.png
-A. sdfajdfklj
-B. dslkfjakfl
-C. dslkafjdlf
+!Réfraction
+Définition. Lumière déviée lors qu'elle passe d'un milieu transparent à un autre.
+Quels sont les 2 facteurs qui varient la déviation?.
+1. L'Angle d'incidence.
+Relation. Plus dévié avec plus grand angle par rapport à la normale.
+2. Nature de la substance.
+Relation. Plus dévié dans une plus grande densité.
+
+&./2022-04-25science/refraction.png
+Rayon A. Rayon incident 1 (angle moins élevé par rapport à la normale).
+Rayon B. Rayon réfracté 1 (moins de déviation).
+Rayon C. Rayon incident 2 (angle plus élevé par rapport à la normale).
+Rayon C. Rayon réfracté 2 (plus de déviation).
+Angle A. Angle d'incidence 2.
+Angle B. Angle de réfraction.
+Direction A. Normale.
+
+!Lentilles
+De quel principe se sert les lentilles? La réfraction.
+Qu'est ce qu'est une lentille? Milieu transparent comportant une ou deux surfaces courbes.
+Que cause la courbature des lentilles? .
+1. Lentille frappés par les rayons avec des angles d'incidences différents.
+2. Réfractés selon des angles de réfraction différentes.
+Quels sont les 2 types de lentilles?.
+1. Convergentes.
+Définition. Convexes.
+Effet. Rayons lumineux parallèles convergent vers le foyer.
+Distance focale. Distance entre le centre de la lentille et son foyer.
+Relation courbature. + de courbature, - de distance entre le foyer.
+2. Divergentes.
+Définition. Concave.
+Effet. Rayons lumineux parallèles s'éloignent après la lentille.
+Foyer. Prolongement des rayons réfractés, devant la lentille.
+Quel est l'utilité des pointillés? De montrer un prolongement des rayons.
