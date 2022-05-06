@@ -4,8 +4,8 @@
 -. Present Progressive
 2. Simple Past
 -. Past Progressive
-3. 
--.
+3. Present Perfect
+-. Present Perfect Progressive
 4.
 -.
 
@@ -30,3 +30,23 @@ Warning. Specific time indicator required.
 Uses. .
 1. Action in progress at a specific moment in the past.
 2. Main action in progress WHILE another action happened the past.
+
+!Present Perfect
+Pattern. Have/has + past participle.
+Uses. .
+1. Action experienced MORE than once in the past.
+2. Action started in the past and CONTINUES until the present (unspecified duration).
+3. REGULAR (daily) activities or habits
+Keywords (keyword, use case)..
+1. Ever (Question)
+2. Never (Not done yet)
+3. Already (Already done)
+4. Yet (Not done yet, Question)
+Warning. Over a long period of time.
+
+!Present Perfect Progressive
+Pattern. Have been/has been + verb -ing
+Uses. .
+1. Action started in the past and CONTINUES until the present (emphasis on duration).
+2. REGULAR (daily) activities or habits
+Warning. More recent actions than present perfect.
