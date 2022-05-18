@@ -1,0 +1,41 @@
+#Math Exam 2022-05-20
+!Géométrie
+Triplet pythagoricien. a^2 + b^2 = c^2, quand a,b,c ∈ N.
+List of units (descending order). km, hm, dam, m, dm, cm, mm
+1 litre =. 1 dm^3
+1 mL =. 1 cm^3
+Aire. A
+Apothème. a
+Circonférence. C
+Côté. c 
+
+!Algèbre
+x^0 = 1. Tout nombre exposant 0 est égal à 1.
+x^(a+b) /= x^a + x^b. x^(a+b) est égal à x^a * x^b (multiplication).
+x>y>z. Mettre les symboles de comparaison entre nombres comparés.
+x^(-1). Mettre les exposants négatifs.
+x^a * y^a = (x*y)^a. Multiplication de deux bases avec le même exposant.
+Binôme au carré. a^2 + 2ab + b^2.
+
+!Fonctions
+Domaine. Ensembles des valeurs de X
+Image. Ensembles des valeurs de Y
+Maximum. Plus grande valeur des Y
+Minimum. Plus petite valeur des Y
+Abscisse à l'origine. Quand Y=0, que vaut X? (peut avoir plusieurs)
+Ordonnée à l'origine. Quand X=0, que vaut Y? (pas plusieurs, sinon pas une fonction)
+Signe Positive. Ensemble des valeurs de X quand Y est >= que 0.
+Signe Négative. Ensemble des valeurs de X quand Y est <= que 0.
+Croissance. Ensemble des valeurs de X quand X et Y sont en croissance.
+Décroissante. Ensemble des valeurs de X quand X est croissant et Y en décroissance.
+Constante. Ensemble des valeurs de X quand Y ne varie pas.
+Image d'une valeur. Que vaut Y quand X est la valeur.
+
+!Common mistakes
+Area formulas for triangle / regular polygons. Divide by 2 (can/2).
+Volume formulas for pyramid / sphere. Divide by 2 (Ab*h/3)
+Rapport de similitude. Use correct exponent (k^3, k^2, K)
+Usage d'un rapport de similitude. Use similar sides, order matters (small/large, large/small).
+Answer. Use correct units.
+General rule. A prism is not a pyramid (take a guess at why this is here).
+Unit conversion. Multiply / divide by correct ten's power (10, 100, 1000) (I don't want to talk about it).
