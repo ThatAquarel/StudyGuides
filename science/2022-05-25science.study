@@ -7,6 +7,14 @@ Quels sont les trois rôles du système nerveux? .
 Quelle est la distinction en le SNC et le SNP?.
 SNC. Analyse l'information et génère une réaction.
 SNP. Transport de l'information.
+&./2022-05-25science/0_snc.png
+A. Cerveau
+B. Cervelet
+C. Tronc cérébral
+E. Moelle épinière
+D. SNC
+F. Nerfs
+G. SNP
 
 !Neurone (ADN 150-152)
 Qu'est ce qu'est un neurone? Cellule spécialisé du système nerveux.
@@ -30,13 +38,15 @@ Quels sont les 3 types de neurones? .
 -. Exclusivement dans le SNC, relais entre sensitif et moteurs.
 3. Moteurs.
 -. SNC vers muscles et glandes.
-&./2022-05-25science/neurone.png
-A.
-B.
-C.
-D.
-E.
-F.
+&./2022-05-25science/1_neurone.png
+A. Dendrites (amènent l'info vers le corps cellulaire)
+B. Membrane cellulaire
+C. Cytoplasme
+D. Noyau
+E. Corps cellulaire
+F. Axone (achemine l'info vers les cellules voisines, ramifie en plusieurs terminaisons)
+G. Terminaison nerveuse.
+H. Gaine de myéline (augmenter la vitesse de transmission)
 
 !Synapse (ADN 151)
 Qu'est ce qu'une synapse? Zone de communication entre les terminaisons nerveuses d'un neurone et les dendrites d'autres neurones.
@@ -46,12 +56,13 @@ Quels sont les étapes de fonctionnement d'une synapse? .
 2. Libération de neurotransmetteurs.
 3. Neurotransmetteurs captés par la cellule avoisinante.
 4. Formation d'un nouvel influx nerveux.
-&./2022-05-25science/synapse.png
-A.
-B.
-C.
-D.
-E.
+&./2022-05-25science/2_synapse.png
+A. Influx nerveux
+B. Terminaison nerveuse
+C. Neurotransmetteurs
+D. Dendrite
+E. Synapses libèrent les neurotransmetteurs.
+F. Neurotransmetteurs captés par la cellule avoisinante.
 
 !Système nerveux central (ADN 152-155)
 Quelles sont les trois parties de l'encéphale? .
@@ -59,13 +70,14 @@ Quelles sont les trois parties de l'encéphale? .
 2. Cervelet.
 3. Tronc cérébral.
 Ou se situe l'encéphale? Dans la tête.
-&./2022-05-25science/encephale.png
-A.
-B.
-C.
-D.
-E.
-F.
+&./2022-05-25science/3_encephale.png
+B. Cerveau
+D. Cervelet
+E. Cervelet
+F. Tronc cérébral
+G. Augmentation de la surface, même volume.
+K. Substance grise (cortex) (maj. corps cellulaires des neurones)
+L. Substance blanche (axones des neurones)
 Qu'est ce qui fait partie de la SNC, mais pas de l'encéphale? La moelle épinière.
 Quelles sont les structures de protection de l'encéphale? .
 1. Os de la boîte crânienne.
@@ -87,13 +99,12 @@ Quels sont les fonctions principales du tronc cérébral? .
 Quels sont les fonctions principales de la moelle épinière? .
 1. Relayer l'information entre l'encéphale et le reste du corps.
 2. Certains réflexes.
-Fonctions principales du cerveau, du cervelet, du tronc cérébral, moelle épinière
 &./2022-05-25science/moelle_epiniere.png
-A.
-B.
-C.
-D.
-E.
+A. Moelle épinière (dans le canal vertébral, jusqu'au premières vertèbres lombaires)
+B. Vertèbre (os troué au centre)
+C. Nerf
+E. Moelle épinière
+F. Nerf rachidien
 
 !Système nerveux périphérique (ADN 156-157)
 De quoi est composé un nerf? Regroupement d'axones.
@@ -130,11 +141,190 @@ Arc réflexe. Neurones sensitifs, association (moelle épinière), moteurs, musc
 Exemples. Retirer sa main suite à une brûlure, Retirer son pied lors du contact d'un objet coupant.
 
 !L'Oeil (ADN 163-168)
+&./2022-05-25science/5_oeil.png
+A. Sclérotique.
+B. Pupille.
+C. Iris.
+D. Cornée.
+E. Humeur aqueuse.
+F. Pupille.
+G. Iris.
+H. Cristallin.
+I. Corps vitré.
+J. Sclérotique.
+K. Choroïde.
+L. Rétine.
+M. Tache jaune.
+N. Nerf optique (système nerveux).
+O. Tache aveugle.
+De quoi est essentiellement formé l'extérieur l'oeil? Trois couches (tuniques).
+1. Sclérotique (sclère)
+Description. Enveloppe externe, membrane blanche, opaque, brillante.
+Fonction. Protection, forme, ancrage des muscles.
+2. Choroïde
+Description. Membrane brun foncé.
+Fonction. Chambre noir, vaisseaux sanguins (nutriments pour les tuniques).
+3. Rétine
+Description. Tapisse fond de l'oeil.
+Fonction. Énergie lumineuse en influx nerveux.
+Composantes. Photorécepteurs (récepteurs sensoriels sensitifs à la lumière).
+Quels sont les types de photorécepteurs? .
+1. Cônes
+Fonction. Couleurs en pleine lumière.
+Emplacement. Concentrés dans la partie centrale de la rétine, la tache jaune (macula).
+2. Bâtonnets
+Fonction. Sensibles pour vision nocturne.
+Quantité. 20 fois + nombreux que les cônes.
+À quoi est liée chacun des récepteurs sensoriels? Neurone sensitif (se rejoignent à la tache aveugle, nerf optique).
+Quels sont les milieux que la lumière traverse? Milieux transparents.
+1. Cornée
+2. Humeur aqueuse
+Fonction. Nutriments, oxygène au cristallin, cornée, rétine.
+3. Cristallin
+Description. Lentille biconvexe, fines couches de cellules superposés.
+Fonction. S'accommoder pour former une image nette.
+4. Corps vitré
+Description. Gélatineux.
+Fonction. Amortit les chocs, maintient de la forme, pression sur rétine.
+Quels sont les structures annexes de l'oeil? .
+1. Sourcils, cils
+Fonction. Empêchent la poussière, sueur.
+2. Paupières
+Fonction. Replis de peau.
+3. Conjonctive
+Fonction. Recouvrir la sclérotique.
+4. Glandes lacrymales.
+Fonction. Lubrifier, humidifier, nettoyer (protéines anti-bactériennes).
+Quels sont les étapes pour la formation de l'image? .
+1. Lumière traverse multiples structures (cornée, humeur aqueuse, cristallin, corps vitré).
+2. Atteint la rétine -- influx nerveux.
+3. Atteint l'aire visuelle du cerveau par le nerf optique.
+4. Analyze des influx -- perçoit l'image.
+Que doit faire le cristallin pour une image nette? L'accommodation, pour converger les rayon sur la rétine.
+&./2022-05-25science/6_cristallin.png
+Objet rapproché..
+A. Rétine
+B. Image sur rétine
+C. Rayons lumineux divergents
+D. Cornée
+E. Cristallin bombé
+Objet éloigné..
+H. Rayons lumineux presque parallèles
+J. Cristallin aplati
+Quels sont les troubles de vision? .
+1. Myopie
+Symptôme. Vision floue de loin.
+Point focal. Avant la rétine.
+Correction. Lentille divergente.
+2. Hypermétropie.
+Symptôme. Vision floue de près.
+Point focal. Après la rétine.
+Correction. Lentille convergente.
+3. Presbytie
+Symptôme. Vieillissement du cristallin.
+Correction. Lentille convergente.
+4. Astigmatisme
+Symptôme. Cristallin irrégulier.
+Correction. Lentille particulière.
 
 !Oreille (ADN 173-176)
+&./2022-05-25science/7_oreille.png
+A. Oreille externe.
+Fonction. Amplifier les sons, bloquer les éléments indésirables.
+-D. Pavillon de l'oreille (cartilage) (language courant).
+-E. Grandes à cérumen.
+-F. Poils.
+-G. Conduit auditif.
+-M. Os temporal.
+B. Oreille moyenne.
+Fonction. Transmission des vibrations du tympan à la cochlée.
+-H. Tympan (vibre sous la pression des ondes sonores).
+-I. Osselets (marteau, enclume, étrier) (tympan au vestibule via la fenêtre ovale).
+-U. Trompe d'eustache (équilibrer la pression -- vers pharynx).
+C. Oreille interne (labyrinthe).
+Fonction. 
+-Q. Vestibule (rencontre de la cochlée, canaux semi-circulaires).
+-R. Cochlée (vibration des cils -- transformation en influx nerveux).
+-N. Canaux semi-circulaires.
+-O. Nerf vestibulaire.
+-P. Nerf cochléaire.
+Quels sont les étapes pour l'audition? .
+1. Sons amplifiés par le pavillon -- dirigés vers le canal auditif
+2. Tympans bouge, transmission des vibrations par les osselets.
+3. Cochlée vibre -- transformation en influx nerveux.
+4. Nerf cochléaire -- aire auditive du cerveau, interprétation des sons.
 
-!Nez (ADN 179)
-
-!Langue (ADN 180-182)
+!Nez et langue (ADN 179 - 182)
+&./2022-05-25science/8_nez.png
+A. Cornets (Réchauffer l'air -- tourbillons, Mucus, Poils, Cils - filtrent l'air).
+B. Nerf olfactif.
+E. Bulbe olfactif.
+F. Ethmoïde (haut des fosses nasales).
+G. Axone (nerf olfactif).
+H. Cellule olfactif (récepteur sensoriel captant les molécules odorantes).
+C. Tache olfactive et mucus (lient les molécules odorantes).
+J. Cils olfactifs.
+&./2022-05-25science/9_langue.png
+A. Papilles foliées.
+B. Papilles fongiformes.
+C, D. Papilles caliciformes.
+E. Nerf crânien.
+F. Cellule gustative (bourgeon gustatif).
+G. Pore gustatif, poils gustatifs (capter les molécules chimiques sapides).
+Quels sont les rôles de la langue? Mastication, déglutition, sons, goût.
+Ou sont situés les papilles gustatives? Langue, palais mou, joues, pharynx, épiglotte.
+Quels sont les molécules détectés par le nez et la langue? .
+Nez. Molécules odorantes.
+1. Volatiles.
+2. Soluble dans le mucus.
+Langue. Molécules sapides.
+1. Contenus dans les aliments.
+2. Soluble dans la salive.
+Quels est la caractéristique commune des 2 types de molécules? Doivent être en quantité suffisante.
+De quoi est influencé le goût? L'information des autres récepteurs (odeur, texture, température, etc.). Saveurs amplifiés par les molécules odorantes.
+Quels sont les 5 types de saveurs? .
+1. Acide.
+2. Sucré.
+3. Amer.
+4. Salé.
+5. Umami.
 
 !Peau (ADN 187-190)
+&./2022-05-25science/10_peau.png
+H. Épiderme (couche supérieure de la peau).
+-L. Couche cornée (cellules mortes, se détachent).
+-M. Cellules produisant la kératine.
+-N. Granes de mélanine.
+-O. Mélanocytes.
+I. Derme (sous l'épiderme, résistant / flexible).
+-B. Glande sébacée (sécrétion du sébum).
+-C. Muscle horripilateur.
+-D. Follicule pileux (formation de poils).
+-E. Vaisseaux sanguins.
+-F. Neurone sensitif.
+-K. Glandes sudoripares (sécrétion de sueur).
+J. Hypoderme (pas partie de la peau).
+-G. Tissu adipeux.
+Quels sont les rôles de la peau? .
+1. Maintient de la température
+. Froid = frissons.
+. Chaud = sueur.
+2. Protection
+. Glandes sébacés produisant du sébum (anti-bactéries).
+. Phagocytes.
+. Cicatriser.
+. Cellules produisant la kératine (imperméabilité).
+. Mélanocytes activé par UV, production la mélanine (pigments absorbant les UV).
+3. Synthèse
+. Vitamine D avec les UV.
+4. Absorption
+. Absorber les agents médicamenteux.
+5. Excrétion.
+. Sueur, élimine les déchets.
+&./2022-05-25science/11_récepteurs.png
+A. Terminaisons nerveux libres.
+Fonctions. Température, Douleur, Pression.
+B. Disque.
+C, D, E. Corpuscles.
+Fonctions. Pression, Vibration, Étirement, Texture.
+Quels sont les zones les plus sensibles? Zones avec une forte concentration de récepteurs.
