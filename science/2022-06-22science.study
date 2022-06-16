@@ -122,6 +122,15 @@ Définition. Diminue la friction, facilite les mouvements.
 4. Étanchéité
 Définition. Organe empêchant une substance de s'échapper.
 
+!Caractéristiques des liaisons (p312-341)
+1. Directe / Indirecte
+-. Organe de liaison?
+2. Démontable / Indémontable
+3. Rigide / Élastique
+-. Déformation de la liaison?
+4. Complète / Partielle
+-. Mouvement possible?
+
 !Mécanismes de mouvement (p312-341)
 Quel est le premier type de mécanisme de mouvements? Mécanisme de transmission.
 Définition. Mouvement de l'organe mené différent de l'organe moteur.
@@ -189,6 +198,13 @@ Quels sont les 2 types de division cellulaire? .
 Que deviendront ces cellules soeurs? Spermatozoïdes et Ovules.
 Qu'est ce qui arrive à la mitose lors du vieillissement? La mitose est moins rapide et présente (ralentit en vieillissant).
 Quelles cellules ne se divisent pas après leur formation? La majorité des cellules nerveuses.
+
+!Diversité génétique (o31-38)
+Définition. Variété des gènes parmi les individus d'une même espèce.
+Facteurs..
+1. Mutations génétique.
+2. Recombinaison génétique.
+3. Reproduction entre populations différentes.
 
 !Tissus, Organes, Systèmes et Organismes (p31-58)
 De quoi sont formés les tissus? Un ensemble de cellules d'une même origine qui effectuent une fonction similaire.
@@ -303,7 +319,7 @@ Glande. Intestinal (intégrée).
 I. Colon.
 
 !Digestion (p82-104)
-Processus..
+Fonctions..
 1. Ingestion.
 2. Digestion.
 3. Absorption.
@@ -440,6 +456,38 @@ C. Artères, artérioles, capillaires.
 D. Veines caves.
 E. Oreillette droite.
 
+&./2022-02-15science/2_circulatory_whole.png
+Étapes de la circulation sanguine.. 
+1. Entrée du sang dans le coeur par les oreillettes, contraction pour envoyer le sang dans les ventricules.
+2. Contraction des ventricules, envoient le sang dans 2 circuits.
+3. Fermeture des valves auriculo-ventriculaires, pour empêcher le sang de revenir dans les oreillettes.
+4. Fermeture des valves artérielles, pour empêcher le sang de revenir dans les ventricules.
+
+&./2022-02-15science/2_circulatory_pulmonary.png
+L'anatomie de la circulation pulmonaire (nom). .
+A. Artère pulmonaire droite.
+B. Artère pulmonaire gauche.
+C. Capillaires pulmonaires droites.
+D. Capillaires pulmonaires gauches.
+E. Tronc pulmonaire.
+F. Veines pulmonaire droit (2 mais une seule visible).
+G. Veines pulmonaire gauche (2 mais une seule visible).
+H. Oreillette gauche.
+I. Ventricule droit.
+J. Ventricule gauche.
+
+&./2022-02-15science/2_circulatory_systemic.png
+L'anatomie de la circulation systémique (nom). .
+A. Capillaires supérieurs (des organes).
+B. Veine cave supérieur.
+C. Aorte.
+D. Oreillette droite.
+E. Ventricule droit.
+F. Ventricule gauche.
+G. Veine cave inférieur.
+H. Certains veines empêchent le sang de revenir en arrière par des valves.
+I. Capillaires inférieurs. 
+
 &./2022-02-15science/2_circulatory_heart.png
 L'anatomie du coeur (nom, description). .
 C. Oreillette gauche
@@ -526,6 +574,63 @@ Que produit la dégradation des protéines? L'urée (déchets azotés).
 Quel organe élimine l'urée du sang? Les reins (urine), glandes sudoripares.
 Que contient l'urine? Eau, substances en excès (sels, etc.).
 Quels sont les concentrations importantes du sang? Minéraux, pH, volume d'eau.
+Quels sont les organes qui maintiennent ces concentrations? Reins, glandes sudoripares, poumons.
+
+&./2022-06-22science/2_excreteur.png
+A. Reins.
+B. Uretères.
+C. Vessie.
+D. Urètre.
+
+!Concentration et dilution (p237-251)
+Solution. Mélange homogène.
+Soluté. Substance dissoute.
+Solvant. Substance dans laquelle se fait la dissolution.
+Dissolution. Dissoudre une substance dans une autre. 
+Formule. C=m/V
+Dilution. Ajout du solvant pour diminuer la concentration.
+Formule. C1*V2 = C2*V2
+Solubilité. Quantité maximale de soluté pouvant être dissoute dans une volume de solvant.
+Saturation. Solution qui atteint sa limite de solubilité.
+Solubilité des substances solides. Augmente avec la température.
+Solubilité des substances gazeuses. Diminue avec la température.
+Concentration. Quantité de soluté par la quantité totale de solution.
+g/L. Grammes par litre.
+%m/V. g par 100mL.
+%V/V. mL par 100mL.
+%m/m. g par 100g.
+
+!Démarches (p237-251)
+Étapes..
+1. Données
+2. Formule
+3. Calcul
+4. Réponse
+Données volume d'eau ajout au mélange. .
+. C1 = 10g/L
+. V1 = 5mL = 0.005L
+. C2 = 2.5g/L
+. V2 = V1 + Veau
+. Veau = ?
+Conversion %m/V à g/L. .
+. 5%m/V = 
+. 5g/100mL = 
+. (5g * 10)/(100mL * 10) =
+. 50g/1000mL =
+. 50g/L
+Conversion g/L à %m/V. .
+. 50g/L = 
+. 5g/1000mL = 
+. (50g / 10)/(1000mL / 10) =
+. 5g/100mL
+. Donc, 5%m/V
+Manipulations simplifiées dilution. .
+1. Transvider X mL de soluté concentré à Y g/L dans un contenant.
+2. Ajouter du solvant pour compléter la solution jusqu'à X mL.
+Manipulations simplifiées dissolution. .
+1. Peser X g de soluté avec la balance à fléaux par diff. de pesée.
+2. Transvider tout le soluté dans un contenant.
+2. Ajouter du solvant pour compléter la solution jusqu'à X mL.
 
 !Ondes
 Définition. Perturbation qui se déplace.
