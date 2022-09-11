@@ -1,0 +1,173 @@
+#Science Exam 2022-09-19
+!Populations (326-327)
+Population. .
+. Ensemble des individus d'une même espèce.
+. Vivant simultanément dans la même région.
+Taille. Nb d'individus qui composent la population.
+Facteurs qui influencent la taille. .
+1. Taux de natalité.
+2. Mortalité.
+3. Immigration.
+4. Émigration.
+Estimer la taille d'une population. .
+1. Comptage direct.
+2. Échantillonage.
+3. Capture-recapture.
+3-1 Formule. Individus marqués / Population = Individus recapturés marqués / Individus recapturés.
+3-2 Démarche. .
+3-2-1. Ind. marqués / Population = Ind. Recap. Marqués / Ind Recap.
+3-2-2. x/P = y/z.
+3-2-3. P = x*z/y = w individus.
+Densité. = Nb d'individus sur le terr. / Aire du terr.
+Démarche afin de calculer la densité. .
+1. Taille échantillon = x + y + z = Σ individus.
+2. Densité = Σ individus / aire m^2 = w espèce/m^2. 
+Mode de distribution. Répartition des individus sur le terr.
+1. Uniforme.
+1-Description. Régulière / égale (compétition de ressources). 
+1-Exemple. (Rare) Fous de bassan (oiseaux).
+2. En agrégats.
+2-Description. Regroupés dans des régions précises (ressources). 
+2-Exemple. Banc de poissons, les Québécois.
+3. Aléatoire.
+3-Description. Hasard. 
+3-Exemple. Pissenlits.
+Facteur écologique. Élément du milieu qui a un impact sur:
+. La population.
+. Son cycle biologique.
+Types de facteurs. .
+1. Abiotiques.
+1-1. Température .
+1-2. Ensoleillement.
+1-3. Humidité.
+1-4. Vent.
+1-5. Précipitations.
+1-6. pH du sol.
+1-7. Présence de minéraux.
+2. Biotiques.
+2-1. Prédation.
+2-2. Maladie.
+2-3. Parasitisme.
+2-4. Compétition.
+2-5. Proximité des humains.
+2-6. Proximité de nourriture.
+Facteur limitant. Facteur écologique freinant la croissance de la population.
+Cycle biologique. Séquence aux cours laquelle la taille de la population varie à intervalle régulier.
+&./2022-09-19/cycle.png
+Quel est le type d'interaction entre ces deux espèces. Prédation.
+A. Diminution prédateur ∴ augmentation proie.
+B. Augmentation proie ∴ augmentation prédateur.
+C. Augmentation prédateur ∴ diminution proie.
+D. Diminution proie ∴ diminution prédateur.
+
+!Communautés et la biodiversité (328-329)
+Communauté. .
+. Ensemble des populations.
+. Vivent sur un même territoire.
+. Interagissent ensemble.
+Principales composantes de la biodiversité..
+1. Richesse spécifique.
+Description. Nb d'espèces différentes.
+2. Abondance relative.
+Description. Nb d'individus / ensemble %.
+Types d'interactions entre les espèces d'une communauté. .
+1. Compétition.
+Description. Espèces ayant besoin des mêmes ressources.
+Espèce A. (-) Compétiteur.
+Espèce B. (-) Compétiteur.
+Exemple. Cerfs, Végétaux.
+2. Parasitisme.
+Description. Profiter/nuire à l'autre.
+Espèce A. (+) Parasite.
+Espèce B. (-) Hôte.
+Exemple. Ruce, Chenille/Arbre.
+3. Prédation.
+Description. Consomme une autre.
+Espèce A. (+) Prédateur.
+Espèce B. (-) Proie.
+Exemple. Lion/gazelle, Héron/poisson.
+4. Mutualisme.
+Description. Coopération (protection, déplacement).
+Espèce A. (+) Coopérateur.
+Espèce B. (+) Coopérateur.
+Exemple. Abeille/fleur.
+5. Symbiose.
+Description. Coopération dont la survie en dépend.
+Espèce A. (+) Coopérateur.
+Espèce B. (+) Coopérateur.
+Exemple. Lichen (Champinon/algue).
+6. Commensalisme.
+Description. Avantage sans nuire.
+Espèce A. (+) Commsensal.
+Espèce B. (0) Hôte.
+Exemple. Oiseau/branche.
+
+!Écosystèmes et relations trophiques (333-337)
+Écosystème. .
+. Ensemble d'une communauté.
+. Interaction avec le milieu (facteurs abiotiques).
+Relations trophiques. Lien de nature alimentaire entre les espèces d'un même écosystème.
+Réseau trophique. Graphique directionel représentant plusieurs chaînes alimentaires reliées dans un écosystème.
+Chaine alimentaire. Représentation des relations trophiques (suite de consommation).
+Niveau trophique. Position d'une espèce dans la chaîne alimentaire.
+1. Producteurs.
+Synonyme. Autotrophe.
+Définition. Organismes capable de produire de la matière organique à partie de matière inorganique.
+2. Consommateurs.
+Synonyme. Hétérotrophe.
+Définition. Organismes qui se nourrissent d'autres organismes vivants.
+3. Décomposeurs.
+Synonyme. Hétérotrophe.
+Définition. Organismes qui puisent leur énergie dans la décomposition de la matière/déchet organique en matière inorganique.
+
+!Circulation de la matière et de l'énergie (335)
+Catégories de la matière. .
+1. Organique.
+Définition. Matière fabriquée par les vivants et qui composent le svivants.
+2. Inorganique.
+Définition. Matière qui ne provient pas du vivant.
+Flux de matière/énergie. Circulation de la matière/énergie d'un niveau trophique à l'autre.
+1. Flux de matière.
+Définition. Boucle fermée.
+2. Flux de énergie.
+Définition. Boucle ouverte.
+Quelle est la conséquence de la boucle ouverte du flux d'énergie? Un apport constant d'énergie est nécessaire (soleil).
+Comment est-ce-que l'énergie se perd? Par la consommation et par le transfert entre niveaux trophiques.
+Recyclage chimique. Processus naturel de transformation de la matière organique en matière inorganique par les décomposeurs.
+&./2022-09-19sct/flux_matière.png
+A. Matière inorganique.
+B. Matière organique.
+C. Décomposeurs.
+D. Détritus (déchets).
+E. Consommateurs.
+F. Producteurs.
+G. Milieu.
+
+Biomasse. Masse totale de toute la matière organique présente dans une écosystème à un moment précis.
+Comment est-ce-que la quantité de biomasse varie? Par une différence entre le taux de décomposition et de production de matière organique.
+Productivité primaire. La quantité de nouvelle biomasse obtenue par l'action des produceurs de l'écosystème.
+Facteurs qui influencent la productivité primaire. .
+1. Quantité de lumière.
+2. Quantité d'eau disponible.
+3. Accès aux nutriments.
+4. Température.
+Perturbation. Événement qui cause des dommages temporaires/durables à un milieu.
+Succession écologique. Processus d'évolution graduelle de la composition d'une communauté à la suite d'une perturbation.
+Types de perturbations. .
+1. Naturelles.
+1-1. Tempête.
+1-2. Sécheresse.
+1-3. Éruption volcanique.
+1-4. Feux de forêt.
+2. Antropiques.
+2-1. Coupe à blanc.
+2-2. Déversement de pétrole.
+2-3. Introduction de nouvelles espèces.
+
+!Influcence de l'homme (342)
+Empreinte écologique. Estimation de la surface (terrestre/aquatique) nécessaire pour permettre à un individu/population de maintenir un mode de vie.
+Quels sont les facteurs qui influencent l'empreinte écologique? .
+1. Surfaces occupés par la population.
+2. Surface de production de ressources.
+3. Surface d'élimination de déchets.
+Hectare globaux (hag). 100m^2 dont la productivité est égale à la productivité moyenne.
