@@ -6,7 +6,10 @@ Chromosome. Bâtonnet formé par l'ADN enroulé sur lui-même.
 Gène. Portion de l'ADN qui porte le code d'une caractéristique particulière de l'organisme.
 Allèles. Versions différentes de même gène.
 Que retrouve-t-on sur le chromosome 9? Gène pour le groupe sanguin.
-Quelle sont les allèles différentes pour ce gène? A, B, O.
+Quelle sont les allèles différentes pour ce gène?
+1. A: Groupe Sanguin A.
+2. B: Groupe Sanguin B.
+3. O: Groupe Sanguin O.
 Combien d'allèles différents a chaque gène? 2 ∵ 2 chromosomes homologues.
 1. Homozygote.
 1-Définition. 2 allèles identiques.
@@ -97,3 +100,25 @@ Génotype homme. XY (gamètes XY).
 Quelle est la cause des maladies héréditaires? Présence de gènes anormaux.
 Quelle est la conséquence? Codent pour des protéines anormales et défectueuses.
 En moyenne, combien de gènes anormaux récessifs a chaque être humain? 200-300.
+Calculation probabilité indépendante. P = P(1) * P(2)
+
+!Maladies associées aux chromosomes sexuels (23e)
+Identification des allèles (daltonisme).
+1. Normal: X^D.
+2. Anormal: X^d.
+Quelles sont les conditions pour qu'un homme biologique soit atteint? Mère transmette l'allèle anormale, car XY.
+Quelles sont les conditions pour qu'une femme biologique soit atteinte? 2 parents transmettent l'allèle anormale, car XX.
+Nom d'une femme biologique ayant un chromosome X atteint. Porteuse.
+2.
+2-Mère. X^d X^d.
+2-Père. X^D Y.
+4.
+4-Columns. X^d, X^d.
+4-Rows. X^D, Y.
+4-Combinations. X^D X^d, X^D, X^d, X^d Y, X^d Y.
+4-Génotypes.
+4-1. X^D X^d.
+4-2. X^d Y.
+4-Phénotypes.
+4-1. 50% fille biologique porteuse.
+4-1. 50% gars biologique atteint.
