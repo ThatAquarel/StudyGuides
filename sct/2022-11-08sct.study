@@ -1,0 +1,32 @@
+# Science Exam 2022-11-08
+!Mole
+Mole. Quantité qui correspond à 6.02x10^23 particules
+Symbole. n
+Unité. mol
+Nombre d'Avogadro. le nombre de particules présente dans une mole.
+Na. 6.02x10^23
+Formule d'une mole. n = N/Na
+n. Nombre de moles (mol).
+N. Nb de particules.
+Na. Nb d'avogadro.
+
+!Masse molaire
+Masse molaire. Masse d'une mole de cette substance (g/mol).
+Formule de la masse molaire. M = m/n
+M. masse molaire (g/mol).
+m. Masse de la substance (g).
+n. Nombre de moles de substance (mol).
+
+!Exemples
+Masse molaire MgCl2.
+1-Formule. M(MgCl2) = M(Mg) + 2M(Cl).
+2-Valeur numériques. = 24.3g/mol + 2 * 35.5g/mol
+3-Réponse. 95.3g/mol
+Calculation masse molaire.
+1-Variables.
+1-M. ?
+1-m=100g.
+1-n=5mol.
+2-Formule. M = m/n
+3-Valeur numériques. M = 100g/5mol
+4-Réponse. M = 20g/mol
