@@ -28,5 +28,11 @@
 		  "∵"
 		],
 		"description": ""
+	},
+	"ArrowRight": {
+		"prefix": "rightarrow",
+		"body": [
+			"→"
+		]
 	}
 }
