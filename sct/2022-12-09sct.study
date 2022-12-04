@@ -1,0 +1,103 @@
+# Science Exam 2022-12-09
+!Solution
+Solution. Mélange homogène (soluté dissoute dans le solvant).
+Aqueuse. Solvant = eau.
+Concentration. Concentration = Quantité de soluté / Quantité de solution.
+Quantité de solution. Quantité soluté + Quantité solvant.
+Conc g/L. C = m/V.
+Conc %. %m/V, %V/V, %m/m.
+- Définition. Soluté / 100mL.
+Conc ppm. mg/L, mg/Kg.
+- Définition. Soluté / 1 million de particules de solution.
+Conc mol/L. C = n/V.
+- Définition. Moles de soluté / 1 Litre de solution.
+
+!Électrolytes
+Types de dissolution.
+1. Dissolution ionique.
+- Type de liaison. Ionique.
+- Définition. Dissociation électrolytique.
+- Conséquence. AB → A+ + B-.
+- Équation NaCl. NaCl(s) → Na+(aq) + CL-(aq).
+- Équation MgCl2. MgCl2(s) → Mg2+(aq) + 2Cl-(aq).
+2. Dissolution moléculaire.
+- Type de liaison. Covalente.
+- Conséquence. CD → CD.
+- Équation C12H22O11. C12H22O11(s) → C12H22O11(aq).
+- Équation O2. O2(g) → O2(aq).
+- Équation CO2. CO2(g) → CO2(aq).
+Électrolyte. Substance qui subit une dissociation électrolytique en solution aqueuse (conductrice).
+Non-Électrolyte. Ne rend pas la solution conductrice.
+
+!Force des électrolytes
+Différentes forces d'électrolytes. Taux de dissociation électrolitique (ionique).
+1. Forte.
+- Exemple. HCl.
+- Dissociation. Complète.
+- Conductibilité électrique. Forte.
+- Caractéristiques. Beaucoup d'ions et peu de molécules.
+2. Faible.
+- Exemple. HF.
+- Dissociation. Partielle.
+- Conductibilité électrique. Faible
+- Caractéristiques. Moins d'ions et plus de molécules.
+3. Non-Électrolyte.
+- Exemple. Sucre.
+- Conductibilité électrique. Nulle.
+Comparer la force des électrolytes. Conc. molaire identique.
+
+!Types d'électrolytes
+Types d'électrolytes.
+1. Acides.
+- Définition. Libère des ions H+ en solution.
+- Formule chimique. H et Non-Métal.
+- Exceptions. H2O (pas acide), CH3COOH (acide).
+- Propriétés.
+- 1. Papier tournesol devient rouge.
+- 2. Conduit l'électricité en solution.
+2. Bases.
+- Définition. Libère des ions OH- en solution.
+- Formule chimique. Métal et OH-.
+- Exceptions. CH3OH (alcool).
+- Propriétés.
+- 1. Papier tournesol devient bleu.
+- 2. Conduit l'électricité en solution.
+3. Sels.
+- Définition. Liaison entre un ion métallique et un ion non-métallique (autre que H+ et OH-).
+- Formule chimique. Métal+ et Non-métal-.
+- Propriétés.
+- 1. Pas de changement de couleur.
+- 2. Conduit l'électricité en solution.
+Quelle est la dépendance pour la conductibilité? Doivent être dissous dans l'eau pour permettre la mobilité des charges.
+Non-électrolytes. Demeures sous-formes de molécules.
+- Liaisons. Covalentes.
+- Dissociation. Aucune.
+- Conductibilité. Aucune.
+
+!pH
+Acronyme. Puissance hydrogène.
+Définition. Concentration en ions H+ libres, distinguer les solutions acides, basiques et neutres.
+Eau pure. [H+] = [OH-] = 1x10^-7 mol/L.
+Ajout de HCL.
+- Ions H+. Surplus.
+- Conc. [H+] > [OH-].
+- pH. Acide.
+Ajout de NaOH.
+- Ions OH-. Surplus.
+- Conc. [H+] < [OH-].
+- pH. Basique.
+Ajout de NaCl.
+- Conc. [H+] = [OH-].
+- ph. Neutre.
+Échelle de pH.
+pH < 7. Acide.
+- Conc H+. 1x10^0 mol/L.
+- Conc OH-. 1x10^-14 mol/L.
+pH = 7. Neutre.
+- Conc H+. 1x10^-7 mol/L.
+- Conc OH-. 1x10^-7 mol/L.
+pH > 7. Base.
+- Conc H+. 1x10^-14 mol/L.
+- Conc OH-. 1x10^0 mol/L.
+
+
