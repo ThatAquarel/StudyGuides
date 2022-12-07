@@ -100,4 +100,42 @@ pH > 7. Base.
 - Conc H+. 1x10^-14 mol/L.
 - Conc OH-. 1x10^0 mol/L.
 
+!Variables
+Règle générale. Variables mesurées en laboratoire.
+pH.
+1. pH selon l'indicateur universel.
+2. pH selon le papier pH.
+conductibilité.
+1. Conductibilité électrique.
+volume.
+1. v: volume des solutions 1 à X (mL).
 
+!Relations
+Règle générale. Toutes les relations (même dans les calculs préalables)
+
+!Dissolution
+1. Peser par diff. de pesée (A) g de (B) à l'aide de la balance à fléaux.
+2. Verser le soluté dans une bécher de (C) mL.
+3. Mesurer (D) mL d'eau à l'aide du cyl. grad. de (E) mL et transvider dans le bécher de (C) mL.
+4. Agiter avec un agitateur jusqu'à dissolution complète.
+5. Transvider la sol. du bécher de (C) mL dans une cyl. grad. de (F) mL et ajouter de l'eau jusqu'à (G) mL à l'aide du flacon laveur.
+6. Transvider dans un bécher de (H) mL.
+7. Agiter avec un agitateur jusqu'à dissolution complète.
+8-mesure. Transvider la sol. dans la cuvette et mesurer la conc. à l'aide fu spectrophotomètre.
+
+!Dilution
+1. Mesurer (A) mL de la sol. conc. à (B) mol/L à l'aide du cyl. grad. de (C) mL.
+2. Transvider la sol. conc. à (B) mol/L dans un cyl. grad. de (D) mL.
+3. Ajouter de l'eau à (D) mL à l'aide du flacon laveur.
+4. Transvider la sol. dy cyl. gra.d dans le bécher de (E) mL.
+5. Agiter avec un agitateur jusqu'à dissolution complète.
+6-mesure. Transvider la sol. dans la cuvette et mesurer la conc. à l'aide fu spectrophotomètre.
+
+!Analyse.
+1. Mentionner les variables.
+2. Expliquations en premier.
+
+!Causes d'erreur
+1. Eau du robinet contaminée.
+2. Gouttes restantes sur les parois.
+3. Homogénisation de la solution.
