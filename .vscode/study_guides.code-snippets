@@ -34,5 +34,11 @@
 		"body": [
 			"→"
 		]
+	},
+	"EmptySet": {
+		"prefix": "null",
+		"body": [
+			"Ø"
+		]
 	}
 }
