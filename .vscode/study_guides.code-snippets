@@ -40,5 +40,11 @@
 		"body": [
 			"Ø"
 		]
+	},
+	"Where": {
+		"prefix": "where",
+		"body": [
+			"Où"
+		]
 	}
 }
