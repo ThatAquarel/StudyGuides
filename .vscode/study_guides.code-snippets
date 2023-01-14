@@ -46,5 +46,11 @@
 		"body": [
 			"Où"
 		]
+	},
+	"MultiplyDot": {
+		"prefix": "dot",
+		"body": [
+			"·"
+		]
 	}
 }
