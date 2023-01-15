@@ -1,0 +1,144 @@
+# Science Exam 2023-01-18
+!Ions polyatomiques
+H3O +. Oxonium (Hydronium).
+NH4 +. Ammonium.
+CH3COO -. Acétate.
+OH -. Hydroxyde.
+NO3 -. Nitrate.
+CO3 2-. Carbonate.
+SO4 2-. Sulphate.
+PO4 3-. Phosphate.
+
+!Variables
+Règle générale. Variables mesurées en laboratoire.
+pH.
+1. pH selon l'indicateur universel.
+2. pH selon le papier pH.
+3 Spécifique. pH initial de la solution de HCl selon le papier pH.
+4 pH avant/après. pH initial/final de la solution de X selon Y.
+Conductibilité.
+1 Détecteur de conductibilité. Conductibilité électrique.
+2 Sonde de conductibilité. Conductibilité électricité (μS/cm).
+Volume.
+1 Plusieurs. v: volume des solutions 1 à X (mL).
+2 Spécifique. v: volume de la solution de HCl conc. à 0.5mol/L (mL).
+Masse.
+1. m: masse de Na2CO3 (g).
+Concentration.
+1. C: conc. molaire pratique de la sol. (mol/L).
+Nombre.
+1 Liquide. Nb de gouttes de X (nécessaire à atteindre la neutralité).
+2 Solide. Nb de pastilles/doses de Y (nécessaire à atteindre la neutralité).
+
+!Relations
+Règle générale. Inclure toutes les relations:
+1. Calculs préalables.
+2. Traitement des résultats.
+Formules.
+1 Conc molaire. C=n/V.
+2 Conc. C=m/V.
+3 Moles. M=m/n.
+4 Pourcentage d'erreur. pourcentage = |(val expérimentale - val théorique)/valeur théorique| · 100%.
+Produits croisés.
+1 Masses. Calcul de la masse de X et de Y par proportion.
+2 Doses. Calcul du nb de doses pour 180mL par proportion.
+
+!Papier pH
+1. Déposer 1-2 gouttes de la sol. à une extrémité du papier pH déposé sur un essuie-tout, attendre 15 secondes et comparer la couleur au spectre de référence sur la bouteille.
+2. Tremper une extrémité du papier dans la sol. puis le sortir immédiatement, attendre 15 secondes et comparer la couleur au spectre de référence sur la bouteille.
+
+!Différence de pesée
+1. Peser par différence de pesée (A)g de (F) à l'aide de la balance à quadruple fléaux, la nacelle de pesée et la spatule.
+
+!Mesure volume d'un liquide
+1. Mesurer (A) mL de la solution de (B) à l'aide du cylindre gradué de (C) mL.
+2. Transvider la solution de (B) du cylindre gradué de (C) mL dans un bécher de (D) mL.
+
+!Indicateur phénolphtaléine.
+1. Déposer 2 gouttes de l'ind. phénolphtaléine dans la solution (A) en tenant la pipette verticalement.
+2. Observer la couleur de la solution afin de déterminer s'il y a eu réaction.
+
+!Réaction magnésium
+1. Déposer le morceau de magnésium dans la solution (A) à l'aide des pinces.
+2. Attendre 60 secondes et observer la réaction du magnésium.
+3. Retirer le magnésium de la solution, rincer avec de l'eau abondamment et assécher.
+
+!Dissolution
+1. Peser par diff. de pesée (A) g de (B) à l'aide de la balance à fléaux.
+2. Verser le soluté dans une bécher de (C) mL.
+3. Mesurer (D) mL d'eau à l'aide du cyl. grad. de (E) mL et transvider dans le bécher de (C) mL.
+4. Agiter avec un agitateur jusqu'à dissolution complète.
+5. Transvider la sol. du bécher de (C) mL dans une cyl. grad. de (F) mL et ajouter de l'eau jusqu'à (G) mL à l'aide du flacon laveur.
+6. Transvider dans un bécher de (H) mL.
+7. Agiter avec un agitateur jusqu'à dissolution complète.
+8-mesure. Transvider la sol. dans la cuvette et mesurer la conc. à l'aide du spectrophotomètre.
+
+!Dilution
+1. Mesurer (A) mL de la sol. conc. à (B) mol/L à l'aide du cyl. grad. de (C) mL.
+2. Transvider la sol. conc. à (B) mol/L dans un cyl. grad. de (D) mL.
+3. Ajouter de l'eau à (D) mL à l'aide du flacon laveur.
+4. Transvider la sol. dy cyl. gra.d dans le bécher de (E) mL.
+5. Agiter avec un agitateur jusqu'à dissolution complète.
+6-mesure. Transvider la sol. dans la cuvette et mesurer la conc. à l'aide du spectrophotomètre.
+
+!Neutralisation avec papier pH
+1. Mesurer (A) mL du liquide gastrique à l'aide du cylindre gradué de (B) mL.
+2. Transvider le liquide gastrique du cylindre gradué de (B) mL dans le bécher de (C) mL.
+3. Répéter les étapes 1 à 2 dans une autre bécher de (C) mL.
+4. (Reference to papier pH) mesurer le pH initial du liquide gastrique.
+5. Ajouter 1/4 de pastille de (D) dans le premier bécher de (C) mL et agiter à l'aide de l'agitateur jusqu'à la fin de la réaction.
+6. (Reference to papier pH) mesurer le pH de la solution suite à l'ajout de (D).
+7. (Reference to diff de pesée) mesurer (E)g de (F).
+8. Transvider le (F) de la nacelle dans le deuxième bécher de (C) mL et agiter à l'aide de l'agitateur jusqu'à la fin de la réaction.
+9. (Reference to papier pH) mesurer le pH de la solution suite à l'ajout de (F).
+10. Recommencer les étapes 5 à 9 jusqu'à l'obtention d'un pH de 7 dans l'un des béchers et ensuite déterminer le nb de doses nécessaires.
+
+!Neutralisation avec indicateur tournesol
+1. Préparer le témoin en déposant 10 gouttes de solution tampon pH7 dans la 1re éprouvette et en ajoutant 2 gouttes d'ind. tournesol.
+2. Déposer 10 gouttes de solution acide dans la 2e éprouvette.
+3. Ajouter 2 gouttes d'ind. tournesol dans la 2e éprouvette.
+4. Ajouter une goutte de solution basique dans la 2e éprouvette puis agiter l'éprouvette doucement pendant 5 secondes.
+5. Répéter l'étape 4 jusqu'à ce que la solution résultante ait la couleur du témoin.
+6. Compter le nb de gouttes de solution basique nécessaire pour atteindre la neutralité.
+
+!Comparaison du pouvoir neutralisant
+1. (Reference to papier pH) Mesurer le pH initial de la solution de (A).
+2. (Reference to diff de pesée) Mesurer (B)g de (C).
+3. Transvider le (C) dans un bécher de (D) mL.
+4. Mesurer (E) mL de la solution de (A) à l'aide du cylindre gradué de (F) mL.
+5. Transvider la solution de (A) dans le bécher de (D) mL et agiter avec la tige jusqu'à dissolution complète.
+6. (Reference to papier pH) Mesurer le pH final de la solution de (A).
+7. Rincer le matériel et répéter les étapes 3 à 6 avec les pastilles de (G).
+
+!Déterminer le pH avec l'indicateur de pH universel
+1. Déposer dans la 1re alvéole d'une des plaques à titrage, 5 gouttes de la sol. tampon de pH 2 en tenant le compte-goutte à la verticale.
+2. Répéter l'étape 1 pour les sol.s tampons de pH 3 à 11 dans des alvéoles différentes.
+3. Déposer 1 goutte d'ind. universel dans chacune des alvéoles contenant les sol.s tampons. Conserver pour fin de comparaison.
+4. Déposer 5 gouttes de solution (A) conc. à (B) mol/L dans une alvéole de la seconde plaque à titrage.
+5. Déposer 1 goutte de l'ind. universel dans la sol. (A) conc. à (B). Attendre 20 secondes.
+6. Déterminer le pH de la solution (A) conc. à (B) en observant la couleur obtenue et en comparant avec les solutions tampons.
+7. Répéter les étapes 4 à 6 avec les autres solutions.
+8-1. Nettoyer les 2 plaques à titrage.
+8-2. Disposer de leur contenu, rincer à l'eau.
+8-3. Réposer 2 gouttes de méthanol dans chacune des alvéoles et assécher en essuyant.
+
+!Conductibilité électricique et électrolytes
+1. (Reference to mesure liquide) Mesurer (A) mL de la solution (B), verser dans bécher de (C) mL.
+2. Plonger les électrodes du détecteur de conductibilité afin de vérifier la conductibilité électrique de la solution.
+3-1. Disposer de la solution.
+3-2. Rincer abondamment à l'eau du robinet le cylindre gradué de (A) mL, le bécher de (C) mL, et les électrodes.
+3-3. Assécher pour éviter la contamination.
+4. Répéter les étapes 1 à 3 avec les solutions 2 à 10.
+
+!Tableaux
+1. Numérotés.
+2. Titre spécifique.
+
+!Analyse.
+1. Mentionner les variables et les tests.
+2. Expliquations en premier.
+
+!Rangement
+Spatule. Tiroir.
+Nacelle de pesée. Panier.
+Béchers. Asséchés dans le tiroir.
