@@ -52,5 +52,11 @@
 		"body": [
 			"·"
 		]
+	},
+	"Micro": {
+		"prefix": "micro",
+		"body": [
+			"μ"
+		]
 	}
 }
