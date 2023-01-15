@@ -58,5 +58,23 @@
 		"body": [
 			"μ"
 		]
+	},
+	"CylindreGrad": {
+		"prefix": "cylgrad",
+		"body": [
+			"cylindre gradué de $1 mL"
+		]
+	},
+	"Becher": {
+		"prefix": "bécher",
+		"body": [
+			"bécher de $1 mL"
+		]
+	},
+	"BalanceFleaux": {
+		"prefix": "balance",
+		"body": [
+			"balance à quadruple fléaux"
+		]
 	}
 }
