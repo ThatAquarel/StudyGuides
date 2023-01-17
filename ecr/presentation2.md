@@ -49,9 +49,13 @@ T
 F
     Et finalement, ses actions sont reconnus mondialement comme étant une lutte pour les droits de l'homme de l'égalité. Il prône également la non-violence.
 T   
-    L'expression de ses idées témoignent bien-sur du concept de désobéissance.
-    Il ne se soumet pas au Parti National, le gouvernement qui met en place l'Apartheid.
-    Avec 10000 autres manifestants, ils ont comme un but commun de réduire les inégalités.
+    L'expression de ses idées témoignent bien-sur du concept de désobéissance civile.
+    
+    Il s'agit d'un acte responsable, car Nelson reconnaît les risques,
+    tels que ses 27 ans d'emprisonnement
+    C'est aussi un acte désintéressé et de résistance collective, puisque aller à l'encontre des lois de l'Apartheid avec 10 000 autres militants, c'est pour le bien commun de la société.
+
+    Bien sur, il agit en toute toute transparence en étant le chef des protestations de la campagne finale, un acte ultime 
 F
     Il exprime ainsi sa dissidence, il consteste les politiques racistes mises en place par le gouvernement de son pays. Ses idées sont séparés et opposés à celles du gouvernement.
 T
