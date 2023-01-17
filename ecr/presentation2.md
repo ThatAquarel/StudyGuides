@@ -5,10 +5,7 @@ T
     L'année connue comme étant la fin de la première guerre mondiale.
 F
     C'est peut-être un symbole d'espoir en soi, mais ce qui le souligne encore plus, c'est la naissance de Nelson Mandela
-T
-    durant la même année.
-F
-    Et bien, simplement dit, Nelson Mandela est le père de l'Afrique du Sud.
+    Et bien, simplement dit, il est le père de l'Afrique du Sud.
 T
     Père d'un pays plus démocratique qu'avant.
 F
