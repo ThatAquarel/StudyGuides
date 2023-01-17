@@ -59,6 +59,18 @@
 			"μ"
 		]
 	},
+	"Degree": {
+		"prefix": "degree",
+		"body": [
+			"°"
+		]
+	},
+	"Delta": {
+		"prefix": "delta",
+		"body": [
+			"Δ"
+		]
+	},
 	"CylindreGrad": {
 		"prefix": "cylgrad",
 		"body": [
