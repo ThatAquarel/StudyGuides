@@ -19,7 +19,7 @@ F
     En voici un exemple: une zone de baignade limitée et une pancarte de ségrégation.
 T
     C'est ainsi qu'il commence ses actes de militantisme.
-    Il rejoint le Congrès National Africain, engagés à prendre le dessus du gouvernement actuel, qui a mis en place ces lois.
+    Il rejoint le Congrès National Africain, engagés à prendre le dessus du gouvernement actuel.
 
     Faisant partie du groupe, il exprime ses idées pacifiquement et ensuite par des manifestations.
 
@@ -41,11 +41,11 @@ F
     et gagne le prix nodel de la paix.
 T
     Pour son pays à court terme, il gagne les premières élections démocratiques et met fin à l'Apartheid.
-    Il révolutionne la politique de l'Afrique du Sud et met fin à l'Apartheid.
+    Il révolutionne la politique de l'Afrique du Sud.
 F 
     D'un moyen terme, pour contrer les problèmes sociaux qui datent de plusieurs décennies, durant son mandat, le pays devient démocratique et multiethnique avec son nouveau gouvernement, pacifié et non-racial.
 T
-    Ces changements font en sorte que le pays est désignée la nation arc-en-ciel. Les différentes couleurs symboliques des différentes ethnicités qui se côtoient.
+    Ces changements font en sorte que le pays est désignée la nation arc-en-ciel. Les différentes couleurs sont symboliques des différentes ethnicités qui se côtoient.
 F
     Et finalement, ses actions sont reconnus mondialement comme étant une lutte pour les droits de l'homme de l'égalité. Il prône également la non-violence.
 T   
