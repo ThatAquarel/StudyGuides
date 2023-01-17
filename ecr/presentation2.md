@@ -55,11 +55,12 @@ T
     tels que ses 27 ans d'emprisonnement
     C'est aussi un acte désintéressé et de résistance collective, puisque aller à l'encontre des lois de l'Apartheid avec 10 000 autres militants, c'est pour le bien commun de la société.
 
-    Bien sur, il agit en toute toute transparence en étant le chef des protestations de la campagne finale, un acte ultime 
+    Bien sur, il agit en toute toute transparence en étant le chef des protestations de la campagne finale, un acte ultime pour le changement.
+
 F
     Il exprime ainsi sa dissidence, il consteste les politiques racistes mises en place par le gouvernement de son pays. Ses idées sont séparés et opposés à celles du gouvernement.
 T
-    Engagé, avec beaucoup d'autres militants, Nelson Mandela fait une lutte de 56 ans contre la ségrégation, tout au nom de la justice sociale. C'est bien sur du militantisme.
+    Engagé, avec beaucoup d'autres militants, Nelson Mandela fait une lutte contre la ségrégation, tout au nom de la justice sociale. C'est bien sur du militantisme.
 F
     Ce militantisme, laisse une marque profonde encore aujourd'hui, 10 ans après son décès.
 TF
