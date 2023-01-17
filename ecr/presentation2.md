@@ -14,7 +14,7 @@ T
 F
     et enfin, père de la bataille contre la ségrégation raciale.
 T
-    Dans son temps, les lois de l'Apartheid avaient été mises en places, qui séparaients les personnes selon leur ethnicités.
+    Dans son temps, ils vivaient sous un régime très raciste, les lois de l'Apartheid avaient été mises en places, qui séparaients les personnes selon leur ethnicités.
 F
     En voici un exemple: une zone de baignade limitée et une pancarte de ségrégation.
 T
@@ -25,19 +25,25 @@ T
 
     C'est ce qui entraîne à son arrestation en 1962 et son séjour de 27 ans en prison. 
 F
+    27 ans en prison seulement à cause qu'il avait exprimé ses idées.
+
     MAIS MÊME À ÇA! IL CONTINUE DE SE DÉDIER À LA CAUSE.
-    C'est ainsi qu'il gagne le prix nobel de la paix
+    À sa sortie, sa lutte continue, et il gagne le prix nobel de la paix en 1993
     et se fait choisir comme président, le PREMIER ÉLU DÉMOCRATIQUEMENT.
+    C'est 56 ans dédiés à l'égalité de 1943 à 1999.
 T
     Et bien-sur ses idées sont majoritairements centrés sur l'Afrique du Sud, mais il est reconnu à l'international, étant même un porte-parole des nations unis.
 F
-    C'est exact, ses actions on eu un impact profond puisqu'il est resté fidèle pour 27 ans à sa cause.
+    C'est exact, ses actions on eu un impact profond, 
+    donc voici les conséquences
+    
+    Personellement, il reste fidèle pour 56 ans à sa cause.
     et gagne le prix nodel de la paix.
 T
-    Comme mentionné avant, il gagne les premières élections démocratiques et met fin à l'Apartheid.
-    Il révolutionne la politique de l'Afrique du Sud.
+    Pour son pays à court terme, il gagne les premières élections démocratiques et met fin à l'Apartheid.
+    Il révolutionne la politique de l'Afrique du Sud et met fin à l'Apartheid.
 F 
-    Durant son mandat, le pays devient démocratique et multiethnique avec son nouveau gouvernement, pacifié et non-racial.
+    D'un moyen terme, pour contrer les problèmes sociaux qui datent de plusieurs décennies, durant son mandat, le pays devient démocratique et multiethnique avec son nouveau gouvernement, pacifié et non-racial.
 T
     Ces changements font en sorte que le pays est désignée la nation arc-en-ciel. Les différentes couleurs symboliques des différentes ethnicités qui se côtoient.
 F
@@ -47,7 +53,7 @@ T
     Il ne se soumet pas au Parti National, le gouvernement qui met en place l'Apartheid.
     Avec 10000 autres manifestants, ils ont comme un but commun de réduire les inégalités.
 F
-    Il exprime ainsi sa dissidence, il consteste les politiques racistes mises en place par le gouvernement de son pays.
+    Il exprime ainsi sa dissidence, il consteste les politiques racistes mises en place par le gouvernement de son pays. Ses idées sont séparés et opposés à celles du gouvernement.
 T
     Engagé, avec beaucoup d'autres militants, Nelson Mandela fait une lutte de 56 ans contre la ségrégation, tout au nom de la justice sociale. C'est bien sur du militantisme.
 F
