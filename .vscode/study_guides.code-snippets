@@ -29,10 +29,28 @@
 		],
 		"description": ""
 	},
+	"ArrowDown": {
+		"prefix": "downarrow",
+		"body": [
+			"↓"
+		]
+	},
+	"ArrowUp": {
+		"prefix": "uparrow",
+		"body": [
+			"↑"
+		]
+	},
 	"ArrowRight": {
 		"prefix": "rightarrow",
 		"body": [
 			"→"
+		]
+	},
+	"ArrowLeft": {
+		"prefix": "leftarrow",
+		"body": [
+			"←"
 		]
 	},
 	"EmptySet": {
