@@ -106,5 +106,11 @@
 		"body": [
 			"balance à quadruple fléaux"
 		]
+	},
+	"Omega": {
+		"prefix": "omega",
+		"body": [
+			"Ω"
+		]
 	}
 }
