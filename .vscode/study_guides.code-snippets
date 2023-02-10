@@ -112,5 +112,11 @@
 		"body": [
 			"Ω"
 		]
+	},
+	"Tolerance": {
+		"prefix": "plusminus",
+		"body": [
+			"±"
+		]
 	}
 }
