@@ -1,0 +1,85 @@
+# Chapitre 15
+!Circuit électrique
+Types de courants électriques.
+1. Courant continu.
+- Définition. Électrons circulent continuellement dans une seule direction.
+- Exemple. Objets portables → piles.
+2. Courant alternatif.
+- Définition. Électrons circulent en un mvmt de va-et-vien régulier.
+- Exemple. Prises électriques.
+
+!Composantes
+Composantes d'un circuit électrique.
+1. Source de courant.
+2. Interrupteur.
+3. Ampoule.
+&./chapitre-15/symbols_images.png
+A. Source de courant continu.
+B. Source de courant alternative.
+C. Pile électrique.
+D. Cellule photoélectrique.
+E. Interrupteur (ouvert).
+F. Prise électrique.
+G. Fil électrique.
+H. Fusible.
+I. Dispositif de protection (fusible / disjoncteur).
+J. Résistance / appareil consommant de l'électricité.
+K. Ampoule.
+L. Condensateur.
+M. Diode.
+N. Diode électroluminescente (DEL).
+O. Transistor.
+P. Disjoncteur.
+&./chapitre-15/symbols_text.png
+
+!Types de circuits
+1. Simple.
+- Définition. 1 seul élément relié directement à une source l'électricité.
+2. Série.
+- Définition. 2 ou + éléments reliés uns à la suite de l'autre (1 parcours).
+3. Parallèle.
+- Définition. 2 ou + éléments reliés aux 2 extrémités (autant de parcours que d'éléments).
+
+!Fonctions électriques
+Fonction électrique. Rôle joué par une composante d'un circuit électrique.
+1. Alimentation.
+- Description. Fournissant de l'énergie électrique nécessaire à la production de courant électrique.
+- Exemple. Pile.
+2. Conduction.
+- Description. Assurent le passage du courant électrique d'un point à une autre.
+- Exemple. Fils électriques.
+3. Isolation.
+- Description. Matériaux empêchant le passage du courant électrique hors du circuit.
+- Exemple. Gaine de caoutchouc.
+4. Commande.
+- Description. Contrôlent le passage du courant électrique en ouvrant ou fermant un circuit.
+- Exemple. Interrupteur.
+5. Transformation.
+- Description. Transformer l'énergie électrique en une autre forme d'É.
+- Exemple. Ampoule.
+6. Protection.
+- Description. Dispositifs servant à interrompre ou à limiter le courant lors d'un défaut électrique.
+- Exemples. Fusible, disjoncteur.
+
+!Défauts de circuit électriques
+Types de défauts électriques
+1. Court-circuit.
+- Cause. Mise en contact involontaire ou accidentelle de 2 éléments d'un circuit qui ne devraient pas être reliés.
+- Conséquence. Décharge électrique entre les deux.
+2. Surcharge électrique.
+- Cause. Trop grand nombre d'appareils sont reliées à une source d'alimentation.
+- Conséquence. Courant plus grand que ce que les fils peuvent supporter.
+
+!Dispositifs de protection
+1. Fusible.
+- Description. Mince filament conducteur où passe le courant électrique.
+- Mode d'interruption. Surcharge électrique → Augmentation de la T° → Fonte du filament → Interruption du courant.
+- Nombre d'utilisations. Une fois.
+2. Disjoncteur.
+- Description. Réagit aux surchages par un interrupteur qui s'ouvre mécaniquement.
+- Mode d'interruption. Surcharge électrique → Ouverture de l'interrupteur → Interruption du courant.
+- Nombre d'utilisations. Réutilisable.
+
+!Résistance
+Résistance. Propriété physique d'un matériau qui limite le passage du courant.
+Unité. Ohm (Ω).
