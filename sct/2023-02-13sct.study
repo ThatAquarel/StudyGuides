@@ -184,17 +184,20 @@ Schémas.
 
 !Projections
 Projection. Représentation d'un objet 3D sur une surface 2D.
-1. Vues multiples.
-- Description. Au moins 3 vues pour représenter l'objet dans l'ensemble.
-- Avantages. Ø Déformations, + Détails.
-- Désavantages. Difficile d'imaginer.
-2. Oblique.
-3. Isométrique.
+1. Oblique.
+2. Isométrique.
 - Description. Perspective.
 - Avantages. 3 dimensions en une seule vue.
 - Désavantages. Déformer l'objet et/ou dimensions.
-4. Perspective
+3. Point de fuite 
 - Description. À point de fuite.
+Dessin d'ensemble.
+1. Dessin à vue éclatée.
+2. Projection orthogonale.
+- Description. Au moins 3 vues pour représenter l'objet dans l'ensemble.
+- Avantages. Ø Déformations, + Détails.
+- Désavantages. Difficile d'imaginer.
+3. Dessin de détail.
 &./2023-02-13sct/vues.png
 A. Gauche.
 B. Dessus.
@@ -208,7 +211,6 @@ F. Face.
 4. Face.
 5. Dessous.
 6. Droite.
-
 !Tolérances dimensionnelles
 Tolérance dimensionelle. Indication sur un dessin techinque de l'écart maximal entre:
 1. Une mesure indiquée sur un dessin et;
