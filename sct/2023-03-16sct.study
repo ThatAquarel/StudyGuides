@@ -30,6 +30,7 @@ Qu'est ce qui permet de visualiser les champs. Limaille de fer.
 Directions des flèches. Par convention:
 - Pôles Nords. Flèches s'éloignent.
 - Pôles Suds. Flèches se rapprochent.
+&./2023-03-16sct/magnetic_field.png
 
 !Champ magnétique terrestre
 Qu'est ce qui crée le champ magnétique terrestre? Le noyau de la Terre.
@@ -111,19 +112,19 @@ Types de matière.
 - Définition. Matériau laissant circuler les charges électriques.
 - Comportement lorsqu'électrisé. Charges - se dispersent uniformément dans tous l'objet ∴ nouvel équilibre.
 - Exemples. Métaux, solutions électrolytiques.
-Méthodes pour électriser la matière.
+&./2023-03-16sct/charge_transfer.png
 1. Frottement.
-- Avant. 2 objets neutres.
-- Pendant. Transfer d'e- de l'un à l'autre.
-- Après. 2 objets de charges contraires.
+- A. A(0), B(0) → 2 objets neutres.
+- B. Transfer d'e- de l'un à l'autre.
+- C. A(+), B(-) → 2 objets de charges contraires.
 2. Conduction.
-- Avant. Objet chargé et objet neutre.
-- Pendant. Objet chargé partage sa charge.
-- Après. 2 objets de charges identiques.
+- D. A(+), B(0) → Objet chargé et objet neutre.
+- E. Objet chargé partage sa charge.
+- F. A(+), B(+) → 2 objets de charges identiques.
 3. Induction.
-- Avant. Objet chargé et objet neutre.
-- Pendant. Proximité avec l'objet chargé provoque une nouvelle répartition des charges dans l'objet neutre.
-- Après. Objet chargé et objet polarisé.
+- G. A(+), B(0) → Objet chargé et objet neutre.
+- H. Proximité avec l'objet chargé provoque une nouvelle répartition des charges dans l'objet neutre.
+- I. A(+), B(/) → Objet chargé et objet polarisé.
 
 !Frottement
 Déterminant de la direction du transfert des charges négatives. Affinité des substances à recevoir ou à donner des électrons.
@@ -141,6 +142,7 @@ Types d'interactions.
 - Description. Pôles contraires.
 2. Répulsion.
 - Description. Pôles identiques.
+&./2023-03-16sct/electric_field.png
 
 !Loi de Coulomb
 Loi de Coulomb. Calcul de la valeur de la force électrique (attraction / répulsion) entre:
