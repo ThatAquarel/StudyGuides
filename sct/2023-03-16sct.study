@@ -1,0 +1,156 @@
+# Science Exam 2023-03-16
+!Magnétisme
+Magnétisme. Propriété caractéristique d'une substance qui a la capacité d'être attirée ou repoussée par un aimant.
+Caractéristiques d'un matériau magnétisé. Orientation de rotation précise des électrons qui le constituent.
+Conséquence. Création d'un pôle Nord et Sud.
+Catégories de substances.
+1. Magnétique.
+- Type. Aimant permanent.
+- Description. Attire et repousse les autres aimants, champ magnétique.
+- Exemples. Aimant au néodyme, magnétite.
+2. Ferromagnétique.
+- Type. Aimant temporaire.
+- Description. Temporairement un aimant sous l'influence d'un champ magnétique.
+- Exemples. Co-Ni-Fer.
+3. Non-magnétique.
+- Description. Non influencée par les aimants / champs magnétiques.
+- Exemples. Bois, plastique, aluminium, cuivre.
+Rémanence magnétique. Capacité d'une substance ferromagnétique de conserver temporairement les propriétés d'un aimant.
+- Haute rémanence. Nécessite beaucoup de temps pour s'aimanter; reste aimanté pour longtemps.
+- Faible rémanence. Nécessite peu de temps pour s'aimanter; reste aimanté pour peu de temps.
+Types d'interactions.
+1. Attraction.
+- Description. Pôles contraires.
+2. Répulsion.
+- Description. Pôles identiques.
+
+!Champs magnétiques
+Champ magnétique. Représentation des forces magnétiques qu'exerce un aimant autour.
+Qu'est ce qui permet de visualiser les champs. Limaille de fer.
+Directions des flèches. Par convention:
+- Pôles Nords. Flèches s'éloignent.
+- Pôles Suds. Flèches se rapprochent.
+
+!Champ magnétique terrestre
+Qu'est ce qui crée le champ magnétique terrestre? Le noyau de la Terre.
+À quel aimant ressemble-t-il? Aimant droit.
+Nord géographique. Sud magnétique.
+Sud géographique. Nord magnétique.
+Fonctionnement d'un aimant. Le côté Nord pointe vers le Sud magnétique, donc Nord géographique.
+
+!Électromagnétisme
+Qu'est ce qui engendre un champ magnétique? Toute charge en mouvement.
+Courant électrique. Déplacement d'électrons.
+Sens conventionnel. Positif à négatif.
+Règles de la main droite.
+1. Fil conducteur.
+- Pouce. Sens du courant.
+- Doigts. Sens du champs magnétique.
+2. Solénoïde.
+- Pouce. Pôle Nord.
+- Doigts. Sens du courant.
+
+!Électroaimants
+Électroaimant. Solénoïde avec un noyau ferromagnétique (à faible rémanence).
+But du noyau ferromagnétique. Amplifier le champ magnétique.
+Facteurs qui influencent le champ magnétique d'un électroaimant.
+1. Nombre de tours (spires).
+- Description. +tours ∴ +champ.
+2. Intensité du courant.
+- Description. +intensité ∴ +champ.
+3. Nature du noyau.
+- Description. Matériau du noyau (fer doux → faible rémanence).
+
+!Électricité
+Électricité. Énergie associé au charges électriques (mouvement ou non).
+1. Électricité statique.
+- Description. Associé aux phénomènes de charges électriques au repos.
+2. Électricité dynamique.
+- Description. Associé aux phénomènes de charges électriques en mouvement.
+
+!Charge électrique
+Particules qui portent une charge électrique.
+1. Proton (+).
+2. Électron (-).
+Qu'est ce qui permet les charges portées par ces particules? Exercer ou subir des forces électriques.
+Charge électrique.
+- Variable. q.
+- Unité de mesure. 1 coulomb (C) = 1 Ampère seconde (As).
+- Définition. Nombre d'électrons gagnés ou perdus par un corps.
+- Types de charges d'un corps.
+- 1. Positif ∴ déficit d'électrons.
+- 2. Négatif ∴ surplus d'électrons.
+Charge élémentaire.
+- Variable. e.
+- Définition. Grandeur de la charge que possède un p+ ou un e-.
+- Proton. q(proton) = e = 1.602x10^-19 C.
+- Électron. q(électron) = -e = 1.602x10^-19 C.
+- À combien d'électrons équivaut un Coulomb? 1C = 6.25x10^18 e-.
+
+!Forces électriques
+Types de forces électriques.
+1. Attraction.
+- Définition. Charges électriques de signes opposés.
+2. Répulsion.
+- Définition. Charges électriques de signes identiques.
+Loi de la conservation de la charge. Charges électriques ne peuvent être:
+1. Ni crées,
+2. Ni déruites,
+3. Seulement transférées d'un corps à un autre.
+
+!Électrisation de la matière
+État initial de la matère. Électriquement neutres ∴ autant de charges positives que négatives.
+Électrisation. Déséquilibre des charges dans la matière.
+Qu'est ce qui peut être transféré? Seulement les charges négatives (e-).
+Types de matière.
+1. Isolant.
+- Définition. Matériau ne laisant pas circuler les charges électriques.
+- Comportement lorsqu'électrisé. Charges - ne se dispersent pas aisément ∴ création d'une zone non-neutre sur le matériau.
+- Exemples. Bois, verre, air, plastiques.
+2. Conducteur.
+- Définition. Matériau laissant circuler les charges électriques.
+- Comportement lorsqu'électrisé. Charges - se dispersent uniformément dans tous l'objet ∴ nouvel équilibre.
+- Exemples. Métaux, solutions électrolytiques.
+Méthodes pour électriser la matière.
+1. Frottement.
+- Avant. 2 objets neutres.
+- Pendant. Transfer d'e- de l'un à l'autre.
+- Après. 2 objets de charges contraires.
+2. Conduction.
+- Avant. Objet chargé et objet neutre.
+- Pendant. Objet chargé partage sa charge.
+- Après. 2 objets de charges identiques.
+3. Induction.
+- Avant. Objet chargé et objet neutre.
+- Pendant. Proximité avec l'objet chargé provoque une nouvelle répartition des charges dans l'objet neutre.
+- Après. Objet chargé et objet polarisé.
+
+!Frottement
+Déterminant de la direction du transfert des charges négatives. Affinité des substances à recevoir ou à donner des électrons.
+Échelle. Capteurs d'électrons (charge -) à donneur d'électrons (charge +).
+
+!Champs électriques
+Champ électrique. Région de l'espace dans laquelle
+1. Une charge électrique peut exercer une force à distance sur
+2. D'autres charges électriques.
+Direction des flèches. Par convention:
+- Charges positives. Flèches s'éloignent.
+- Charges négatives. Flèches se rapprochent.
+Types d'interactions.
+1. Attraction.
+- Description. Pôles contraires.
+2. Répulsion.
+- Description. Pôles identiques.
+
+!Loi de Coulomb
+Loi de Coulomb. Calcul de la valeur de la force électrique (attraction / répulsion) entre:
+1. 2 corps chargés;
+2. Et immobiles.
+En quoi varie cette force?
+1. Charge des deux corps → directement proportionelle.
+2. Distance entre les deux corps → inversement proportionelle au carré.
+Formule. F = k|q1 q2| / d^2
+- F. Force électrique (N).
+- k. Constante de proportionalité 9x10^9 (Nm^2 / C^2).
+- q1, q2. Charge de chaque objet (C).
+- d. Distance entre les deux objets (m).
