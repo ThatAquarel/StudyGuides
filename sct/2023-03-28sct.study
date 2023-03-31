@@ -1,0 +1,205 @@
+# Science Exam 2023-03-28
+!Composantes
+Composantes d'un circuit électrique.
+1. Source de courant.
+2. Interrupteur.
+3. Ampoule.
+&./chapitre-15/symbols_images.png
+A. Source de courant continu.
+B. Source de courant alternative.
+C. Pile électrique.
+D. Cellule photoélectrique.
+E. Interrupteur (ouvert).
+F. Prise électrique.
+G. Fil électrique.
+H. Fusible.
+I. Dispositif de protection (fusible / disjoncteur).
+J. Résistance / appareil consommant de l'électricité.
+K. Ampoule.
+L. Condensateur.
+M. Diode.
+N. Diode électroluminescente (DEL).
+O. Transistor.
+P. Disjoncteur.
+&./chapitre-15/symbols_text.png
+
+!Fonctions électriques
+Fonction électrique. Rôle joué par une composante d'un circuit électrique.
+1. Alimentation.
+- Description. Fournissant de l'énergie électrique nécessaire à la production de courant électrique.
+- Exemple. Pile.
+2. Conduction.
+- Description. Assurent le passage du courant électrique d'un point à une autre.
+- Exemple. Fils électriques.
+3. Isolation.
+- Description. Matériaux empêchant le passage du courant électrique hors du circuit.
+- Exemple. Gaine de caoutchouc.
+4. Commande.
+- Description. Contrôlent le passage du courant électrique en ouvrant ou fermant un circuit.
+- Exemple. Interrupteur.
+5. Transformation.
+- Description. Transformer l'énergie électrique en une autre forme d'É.
+- Exemple. Ampoule.
+6. Protection.
+- Description. Dispositifs servant à interrompre ou à limiter le courant lors d'un défaut électrique.
+- Exemples. Fusible, disjoncteur.
+
+!Contraintes
+Contrainte. Effet qu'une force extérieure exerce sur un matériau.
+Conséquence. Tend à déformer.
+&./2023-02-13sct/contraintes.png
+A. Compression.
+- Description. Comprimer, écraser.
+B. Tension / traction.
+- Description. Étirer.
+C. Torsion.
+- Description. Tordre.
+D. Flexion.
+- Description. Courber.
+E. Cisaillement.
+- Description. Découper.
+
+!Types de déformations
+1. Élastique.
+- Description. Changement temporaire de la forme ou des dimensions du matériau, le matériau reprend ensuite sa forme.
+2. Permanente.
+- Description. Changement permanente de la forme ou des dimensions du matériau.
+3. Rupture.
+- Description. Contrainte si intense que le matériau se casse.
+
+!Propriétés mécaniques
+Propriétés mécaniques. Comportement d'un matériau lorsqu'il est soumis à un ou plusieurs contraintes mécaniques.
+1. Dureté.
+- Définition. Résistance à la pénétration et à la rayure.
+- Exemple. Diamant.
+2. Malléabilité.
+- Catégorie de matériau spécifique. Métaux.
+- Définition. Capacité à être aplati en feuilles.
+- Exemple. Paper d'aluminium.
+3. Ductilité.
+- Catégorie de matériau spécifique. Métaux.
+- Définition. Capacité à être étiré en fil.
+- Exemple. Fils électriques.
+4. Élasticité.
+- Définition. Capaciter à retrouver sa forme initiale à la suite d'une déformation.
+- Exemple. Ressorts, matelas.
+5. Rigidité.
+- Définition. Résistance à la déformation (garder sa force face à des contraintes).
+- Opposé. Flexibilité.
+- Exemple. Tablier d'un pont.
+6. Résilience.
+- Définition. Résistance aux chocs (absorber de l'E) sans se rompre.
+7. Tenacité.
+- Définition. Résistance à la rupture (fissures) sous des contraintes intenses et prolongés.
+- Opposé. Fragilité.
+- Contre-exemples. Vitre, céramique.
+Dégradation des matériaux. Diminution de certaines de leur propriétés due au milieu ambiant.
+Protection des matériaux. Usage de procédés qui empêchent ou retardent leur dégradation.
+
+!Autres propriétés
+1. Résistance à la chaleur ou la corrosion.
+- Définition. Résister à la chaleur ou l'action de substances corrosives.
+- Exemples de substances corrosives. Sels, produits chimiques.
+2. Conductibilité électrique ou thermique.
+- Définition. Laisser passer du courant ou transmettre de la chaleur.
+3. Neutralité chimique.
+- Définition. Matériau non chimiquement actif, résistence aux agents chimiques.
+
+!Fonctions mécaniques élémentaires.
+Organe. Pièce ou fluide qui accomplit une fonction mécanique.
+1. Liaison.
+2. Guidage.
+3. Étanchéité.
+4. Lubrification.
+
+!Liaisons
+Liaison. Permet de maintenir ensemble 2 ou + pièces dans un même objet.
+Quelle type de pièce accomplit la fonction liaison? Un organe de liaison.
+&./2023-02-13sct/liaisons.png
+A. Encastrement.
+B. Glissière.
+C. Pivot.
+D. Pivot glissant.
+E. Hélicoïdale.
+F. Rotule.
+Caractéristiques des liaisons.
+1. Directe / indirecte.
+- Description. Organe de liaison?
+2. Rigide / Élastique.
+- Description. Déformation?
+- Exemples. Ressort, caoutchouc.
+3. Démontable / indémontable.
+- Description. Séparation des pièces sans endommager?
+- Vue éclaté. Liaisons indémontables restent ensemble.
+4. Complète (totale) / partielle.
+- Description. Mouvement indépendant des pièces liés par rapport à l'autre?
+
+!Guidages
+Guidage. Dirige le mouvement indépendant de 1+ pièces.
+Quelle type de pièce accomplit la fonction guidage? Un organe de guidage.
+&./2023-02-13sct/guidages.png
+A. Aucun guidage (liaison complète / totale)
+B. Translation.
+C. Rotation.
+D. Mixte.
+E. Hélicoïdale.
+F. Rotule.
+
+!Degrées de liberté
+Degré de liberté. Mouvemnt indépendants possibles pour une pièce dans un objet technique.
+&./2023-02-13sct/axes.png
+x, y, z. Axes perpendiculaires X, Y et Z.
+Rx, Ry, Rz. Rotation selon les axes X, Y et Z.
+Tx, Ty, Tz. Translation selon les axes X, Y, et Z.
+
+!Systèmes de transmission de mouvement
+Transmission du mouvement. Communiquer un mvmt d'une pièce à une autre sans modifier la nature.
+Quelles pièces accomplissent la fonction de transmettre un mouvement? Système de transmission de mouvement.
+Types d'organes d'un système mécanique.
+1. Organe moteur.
+2. Organe mené.
+3. Organe intermédiaire.
+Réversibilité. Pouvoir changer l'organe moteur et mené.
+&./2023-02-13sct/transmission.png
+A. Roue de friction.
+- Mouvement transmis. Rotation.
+- Réversibilité. Réversible.
+B. Poulies et courroie.
+- Mouvement transmis. Rotation.
+- Réversibilité. Réversible.
+C. Roues dentées.
+- Mouvement transmis. Rotation.
+- Réversibilité. Réversible.
+D. Roues dentées et chaine.
+- Mouvement transmis. Rotation.
+- Réversibilité. Réversible.
+E. Roue dentée et vis sans fin.
+- Mouvement transmis. Rotation.
+- Réversibilité. Irréversible.
+
+!Systèmes de transformation de mouvement
+Transformation du mouvement. Communiquer un mvmt d'une pièce à une autre en modifiant la nature.
+&./2023-02-13sct/transformation.png
+A. Pignon et crémaillère.
+- Mouvement transformé. Rotation ←→ Translation.
+- Réversibilité. Réversible.
+B. Vis sans fin et crémaillère.
+- Mouvement transformé. Rotation → Translation.
+- Réversibilité. Irréversible.
+C. Vis et écrou (Type I et II).
+- Mouvement transformé. Rotation → Translation.
+- Réversibilité. Irréversible.
+- Type I Organe moteur. Vis ∴ Rotation.
+- Type I Organe mené. Écrou ∴ Translation.
+- Type II Organe moteur. Écrou ∴ Rotation.
+- Type II Organe mené. Vis ∴ Translation.
+D. Bielle et manivelle.
+- Mouvement transformé. Rotation ←→ Translation va-et-vient.
+- Réversibilité. Réversible.
+E. Came et tige-poussoir.
+- Mouvement transformé. Rotation → Translation va-et-vient.
+- Réversibilité. Irréversible.
+F. Roue eccentrique.
+- Mouvement transformé. Rotation → Translation va-et-vient.
+- Réversibilité. Irréversible.
+- Amplitude de déplacement. Double de la distance entre le centre géométrique du cercle et le centre de l'axe.
