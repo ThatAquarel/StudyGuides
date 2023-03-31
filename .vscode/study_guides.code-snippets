@@ -118,5 +118,17 @@
 		"body": [
 			"±"
 		]
+	},
+	"Proportional":{
+		"prefix": "proportional",
+		"body": [
+			"∝"
+		]
+	},
+	"Sum":{
+		"prefix": "sum",
+		"body": [
+			"Σ"
+		]
 	}
 }
