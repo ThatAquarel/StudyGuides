@@ -1,0 +1,1509 @@
+# 2023-06 Science Ministry Exam
+!Populations (326-327)
+Population. .
+. Ensemble des individus d'une même espèce.
+. Vivant simultanément dans la même région.
+Taille. Nb d'individus qui composent la population.
+Facteurs qui influencent la taille. .
+1. Taux de natalité.
+2. Mortalité.
+3. Immigration.
+4. Émigration.
+Estimer la taille d'une population. .
+1. Comptage direct.
+2. Échantillonage.
+3. Capture-recapture.
+3-1 Formule. Individus marqués / Population = Individus recapturés marqués / Individus recapturés.
+3-2 Démarche. .
+3-2-1. Ind. marqués / Population = Ind. Recap. Marqués / Ind Recap.
+3-2-2. x/P = y/z.
+3-2-3. P = x*z/y = w individus.
+Densité. = Nb d'individus sur le terr. / Aire du terr.
+Démarche afin de calculer la densité. .
+1. Taille échantillon = x + y + z = Σ individus.
+2. Densité = Σ individus / aire m^2 = w espèce/m^2. 
+Mode de distribution. Répartition des individus sur le terr.
+1. Uniforme.
+1-Description. Régulière / égale (compétition de ressources). 
+1-Exemple. (Rare) Fous de bassan (oiseaux).
+2. En agrégats.
+2-Description. Regroupés dans des régions précises (ressources). 
+2-Exemple. Banc de poissons, les Québécois.
+3. Aléatoire.
+3-Description. Hasard. 
+3-Exemple. Pissenlits.
+Facteur écologique. Élément du milieu qui a un impact sur:
+. La population.
+. Son cycle biologique.
+Types de facteurs. .
+1. Abiotiques.
+1-1. Température .
+1-2. Ensoleillement.
+1-3. Humidité.
+1-4. Vent.
+1-5. Précipitations.
+1-6. pH du sol.
+1-7. Présence de minéraux.
+2. Biotiques.
+2-1. Prédation.
+2-2. Maladie.
+2-3. Parasitisme.
+2-4. Compétition.
+2-5. Proximité des humains.
+2-6. Proximité de nourriture.
+Facteur limitant. Facteur écologique freinant la croissance de la population.
+Cycle biologique. Séquence aux cours laquelle la taille de la population varie à intervalle régulier.
+&./2022-09-19sct/cycle.png
+Quel est le type d'interaction entre ces deux espèces. Prédation.
+A. Diminution prédateur ∴ augmentation proie.
+B. Augmentation proie ∴ augmentation prédateur.
+C. Augmentation prédateur ∴ diminution proie.
+D. Diminution proie ∴ diminution prédateur.
+
+!Communautés et la biodiversité (328-329)
+Communauté. .
+. Ensemble des populations.
+. Vivent sur un même territoire.
+. Interagissent ensemble.
+Principales composantes de la biodiversité..
+1. Richesse spécifique.
+Description. Nb d'espèces différentes.
+2. Abondance relative.
+Description. Nb d'individus / ensemble %.
+Types d'interactions entre les espèces d'une communauté. .
+1. Compétition.
+Description. Espèces ayant besoin des mêmes ressources (intra-interspécifique).
+Espèce A. (-) Compétiteur.
+Espèce B. (-) Compétiteur.
+Exemple. Cerfs, Végétaux.
+2. Parasitisme.
+Description. Profiter/nuire à l'autre.
+Espèce A. (+) Parasite.
+Espèce B. (-) Hôte.
+Exemple. Ruce, Chenille/Arbre.
+3. Prédation.
+Description. Consomme une autre.
+Espèce A. (+) Prédateur.
+Espèce B. (-) Proie.
+Exemple. Lion/gazelle, Héron/poisson.
+4. Mutualisme.
+Description. Coopération (protection, déplacement).
+Espèce A. (+) Coopérateur.
+Espèce B. (+) Coopérateur.
+Exemple. Abeille/fleur.
+5. Symbiose.
+Description. Coopération dont la survie en dépend.
+Espèce A. (+) Coopérateur.
+Espèce B. (+) Coopérateur.
+Exemple. Lichen (Champinon/algue).
+6. Commensalisme.
+Description. Avantage sans nuire.
+Espèce A. (+) Commsensal.
+Espèce B. (0) Hôte.
+Exemple. Oiseau/branche.
+
+!Écosystèmes et relations trophiques (333-337)
+Écosystème. .
+. Ensemble d'une communauté.
+. Interaction avec le milieu (facteurs abiotiques).
+Relations trophiques. Lien de nature alimentaire entre les espèces d'un même écosystème.
+Réseau trophique. Graphique directionel représentant plusieurs chaînes alimentaires reliées dans un écosystème.
+Chaine alimentaire. Représentation des relations trophiques (suite de consommation).
+Niveau trophique. Position d'une espèce dans la chaîne alimentaire.
+1. Producteurs.
+Synonyme. Autotrophe.
+Définition. Organismes capable de produire de la matière organique à partie de matière inorganique.
+2. Consommateurs.
+Synonyme. Hétérotrophe.
+Définition. Organismes qui se nourrissent d'autres organismes vivants.
+3. Décomposeurs.
+Synonyme. Hétérotrophe.
+Définition. Organismes qui puisent leur énergie dans la décomposition de la matière/déchet organique en matière inorganique.
+
+!Circulation de la matière et de l'énergie (335)
+Catégories de la matière. .
+1. Organique.
+Définition. Matière fabriquée par les vivants et qui composent le svivants.
+2. Inorganique.
+Définition. Matière qui ne provient pas du vivant.
+Flux de matière/énergie. Circulation de la matière/énergie d'un niveau trophique à l'autre.
+1. Flux de matière.
+Définition. Boucle fermée.
+2. Flux de énergie.
+Définition. Boucle ouverte.
+Quelle est la conséquence de la boucle ouverte du flux d'énergie? Un apport constant d'énergie est nécessaire (soleil).
+Comment est-ce-que l'énergie se perd? Par la consommation et par le transfert entre niveaux trophiques.
+Recyclage chimique. Processus naturel de transformation de la matière organique en matière inorganique par les décomposeurs.
+&./2022-09-19sct/flux_matière.png
+A. Matière inorganique.
+B. Matière organique.
+C. Décomposeurs.
+D. Détritus (déchets).
+E. Consommateurs.
+F. Producteurs.
+G. Milieu.
+Biomasse. Masse totale de toute la matière organique présente dans une écosystème à un moment précis.
+Comment est-ce-que la quantité de biomasse varie? Par une différence entre le taux de décomposition et de production de matière organique.
+Productivité primaire. La quantité de nouvelle biomasse obtenue par l'action des produceurs de l'écosystème.
+Facteurs qui influencent la productivité primaire. .
+1. Quantité de lumière.
+2. Quantité d'eau disponible.
+3. Accès aux nutriments.
+4. Température.
+Perturbation. Événement qui cause des dommages temporaires/durables à un milieu.
+Succession écologique. Processus d'évolution graduelle de la composition d'une communauté à la suite d'une perturbation.
+Types de perturbations. .
+1. Naturelles.
+1-1. Tempête.
+1-2. Sécheresse.
+1-3. Éruption volcanique.
+1-4. Feux de forêt.
+2. Antropiques.
+2-1. Coupe à blanc.
+2-2. Déversement de pétrole.
+2-3. Introduction de nouvelles espèces.
+
+!Influcence de l'homme (342)
+Empreinte écologique. Estimation de la surface (terrestre/aquatique) nécessaire pour permettre à un individu/population de maintenir un mode de vie.
+Quels sont les facteurs qui influencent l'empreinte écologique? .
+1. Surfaces occupés par la population.
+2. Surface de production de ressources.
+3. Surface d'élimination de déchets.
+Hectare globaux (hag). 100m^2 dont la productivité est égale à la productivité moyenne.
+
+!ADN, gènes, allèles.
+Hérédité. Trasmission des caractères génétiques d'une génération à l'autre au sein d'une espèce.
+Ou se trouve notre bagage génétique? ADN dans le noyau de chacun des cellules.
+Chromosome. Bâtonnet formé par l'ADN enroulé sur lui-même.
+Gène. Portion de l'ADN qui porte le code d'une caractéristique particulière de l'organisme.
+Allèles. Versions différentes de même gène.
+Que retrouve-t-on sur le chromosome 9? Gène pour le groupe sanguin.
+Quelle sont les allèles différentes pour ce gène?
+1. A: Groupe Sanguin A.
+2. B: Groupe Sanguin B.
+3. O: Groupe Sanguin O.
+Combien d'allèles différents a chaque gène? 2 ∵ 2 chromosomes homologues.
+1. Homozygote.
+1-Définition. 2 allèles identiques.
+1-Exemple. bleu/bleu ∴ yeux bleus.
+2. Hétérozygote.
+2-Définition. 2 allèles différentes.
+2-Exemple. bleu/vert ∴ yeux bleus.
+Caryotype. Représentation ordonnée des chromosomes d'un individu.
+1. Regroupement en paires homologues (même longueur).
+2. Décroissante (sauf 23e paire).
+
+!Mécanismes de l'hérédité
+Génotype. Description des allèles de l'individu.
+Phénotype. Caractéristiques observables / exprimés.
+Quelles sont les différents capacités pour que les allèles s'expriment?
+1. Dominant.
+1-Définition. S'exprime dans le phénotype même avec un seul exemplaire (hétérozygote).
+1-Identification. Lettre majuscule du caractère dominant.
+2. Récessif.
+2-Définition. S'exprime que s'il y a un autre allèle récessif (homozygote).
+2-Identification. Première lettre minuscule du caractère dominant.
+
+!Grille de Punnett
+Définition. Prévoire le génotype / phénotype des descendants d'un croisement.
+Étapes.
+1. Identifier les allèles dominants et récessifs.
+2. Identifier les génotypes des parents.
+3. Identifier les possibilités de gamètes.
+4. Remplir la grille et identifier les génotypes / phénotypes des descendants.
+Croisement monohybride. 1 caractère.
+Exemple. Homme homozygote aux yeux verts, femme hétérozygote aux yeux bruns.
+1. 
+1-1. Yeux bruns: B
+1-2. Yeux verts: b.
+2. 
+2-Père. bb.
+2-Mère. Bb.
+3. 
+3-Père. 100% b.
+3-Mère. 50% B et 50% b.
+4. 
+4-Columns. B, b.
+4-Rows. b, b.
+4-Combinations. Bb, Bb, bb, bb.
+4-Results. 2/4 = 50% brun, 2/4 = 50% vert.
+Croisement dihybride. 2 caractères.
+Exemple. Femme hétérozygote cheveux bruns frisés, Homme hétérozygote cheveux bruns lisses.
+1.
+1-1. Brun: B.
+1-2. Blond: b
+1-3. Frisés: F
+1-4. Lisses: f.
+2. 
+2-Père. Bbff.
+2-Mère. BbFf.
+3.
+3-Père. 50% Bf, 50% bf.
+3-Mère. 25% BF, 25% Bf, 25% bF, 25% bf.
+4.
+4-Columns. BF, Bf, bF, bf.
+4-Rows. Bf, bf.
+4-Combinations. BBFf, BBff, BbFf, Bbff, BbFf, Bbff, bbFf, bbff.
+4-Génotypes.
+4-1. BBFf 1/8.
+4-2. BBff 1/8.
+4-3. BbFf 2/8 = 1/4.
+4-4. Bbff 2/8 = 1/4.
+4-5. bbFf 1/8.
+4-6. bbff 1/8.
+4-Phénotypes.
+4-1. Brun frisés = 3/8.
+4-2. Brun lisses = 3/8.
+4-3. Blond frisés = 1/8.
+4-4. Blond lisses = 1/8.
+Codominance. Deux allèles ont le même taux d'expression (aucun domine l'autre).
+Groupes sanguins. A et B (dominants), O (récessif).
+Phénotypes et génotypes.
+A. AA, AO.
+B. BB, BO.
+AB. AB.
+O. OO.
+
+!Détermination du sexe
+Génotype femme. XX (gamètes XX).
+Génotype homme. XY (gamètes XY).
+
+!Maladies héréditaires (chromosomes 1-22)
+Quelle est la cause des maladies héréditaires? Présence de gènes anormaux.
+Quelle est la conséquence? Codent pour des protéines anormales et défectueuses.
+En moyenne, combien de gènes anormaux récessifs a chaque être humain? 200-300.
+Calculation probabilité indépendante. P = P(1) * P(2)
+
+!Maladies associées aux chromosomes sexuels (23e)
+Identification des allèles (daltonisme).
+1. Normal: X^D.
+2. Anormal: X^d.
+Quelles sont les conditions pour qu'un homme biologique soit atteint? Mère transmette l'allèle anormale, car XY.
+Quelles sont les conditions pour qu'une femme biologique soit atteinte? 2 parents transmettent l'allèle anormale, car XX.
+Nom d'une femme biologique ayant un chromosome X atteint. Porteuse.
+2.
+2-Mère. X^d X^d.
+2-Père. X^D Y.
+4.
+4-Columns. X^d, X^d.
+4-Rows. X^D, Y.
+4-Combinations. X^D X^d, X^D, X^d, X^d Y, X^d Y.
+4-Génotypes.
+4-1. X^D X^d.
+4-2. X^d Y.
+4-Phénotypes.
+4-1. 50% fille biologique porteuse.
+4-1. 50% gars biologique atteint.
+
+!Évolution du modèle atomique
+1. Dalton.
+1-Atome. Bille solide et indivisible.
+1-Éléments. Différents tailles / propriétés pour chaque élément.
+1-Molécules. Combinaisons d'atomes.
+2. Thomson.
+2-Atome. Bille chargé positivement avec électrons autour (donc neutre), Indivisible.
+2-Électrons. Particules négatives.
+3. Rutherford.
+3-Atome. Noyau = charge positive (Expérience de la feuille d'or), Électrons = Charge négative autour.
+4. Rutherford-Bohr.
+4-Atome. Noyau = protons, Électrons = gravitent sur différents niveaux.
+5. Simplifié.
+5-Atome. Noyau = protons/neutrons (force nucléaire annule la répulsion).
+
+!Modèle atomique simplifé
+Atome. Plus petite particule de matière invisible par des moyens chimiques.
+Proton. Sous-particules constituant le noyau de l'atome (Positif).
+Neutron. Sous-particules constituant le noyau de l'atome (Pas de charge).
+Électron. Sous-particules constituant l'atome (Négatif).
+&./2022-10-26sct/atome.png
+A. Nuage électronique.
+B. Niveau d'énergie / Couche électronique.
+C. Noyau.
+E. Proton.
+F. Électron.
+G. Neutron.
+Particules.
+1-Électron. e- (0.00055u)
+2-Proton. p+ (1.007u)
+3-Neutron. n0 (1.008u)
+Noyau. Quasi-totalité de l'atome.
+Nb de protons et d'électrons. Égal.
+&./2022-10-26sct/notation.png
+A. Nombre de masse (nb de particules dans le noyau).
+B. Symbole chimique.
+C. Numéro atomique (nb de protons).
+Trouver le nombre de neutrons d'un atome. n0=A-Z.
+Exemple: Chlore. 35,17 Cl
+1. p+ = 17
+2. e- = 17
+3. n0 = A-Z = 35-17 = 18
+
+!Représentation des atomes
+&./2022-10-26sct/representations.png
+Limite des électrons de valence de la dernière couche. 8
+Nombre maximal d'électrons par niveau. 2n^2
+Règle pour remplir les niveaux. Saturer un niveau inférieur avant de passer au supérieur.
+
+!Tableau périodique
+Tableau périodique. Représentation d'éléments regroupés seulon leurs propriétés.
+Période. Une rangée (horizontale) du tableau périodique, nb de niveaux énergétiques.
+Famille. Une colonne (verticale) du tableau périodique, nb d'électrons de valences des atomes.
+Électrons de valence. Électrons qu'on retrouve sur le niveau d'énergie le plus élevé (éloigné du noyau).
+
+!Propriétés des catégories
+1. Métaux.
+1-Endroit. Gauche du TPE, sauf H.
+1-1. Conducteurs électriques et thermiques.
+1-2. Éclat métallique.
+1-3. Ductile (subir tension) et malléables (courber) ∴ déformables.
+1-4. Réagissent au contact de l'acide.
+1-5. Solide à température ambiante, sauf Hg.
+2. Non-métaux.
+2-Endroit. Droit du TPE, avec H.
+2-1. Mauvais conducteurs.
+2-2. Cassante et ternes.
+2-3. Friables (devient en poudre lors d'une compression).
+2-4. Majorité sont gazeux à température ambiante.
+3. Métalloïdes.
+3-Endroit. Escaler (B, Si, Ge, As, Sb, Te, Po).
+3. Semi-métaux (propriétés métalliques et non métalliques).
+
+!Propriétés de quelques familles d'éléments
+1. Alcalins.
+1-Endroit. Première colonne. 
+1-Électrons de valence. 1e-.
+1-1. Métaux mous (facile à couper).
+1-2. Hautement réactifs à l'eau (pas pur à naturellement) ∴ Conservés dans l'huile.
+2. Alcalino terreux.
+2-Endroit. Deuxième colonne.
+2-Électrons de valence. 2e-.
+2-1. Métaux avec propriétés semblables aux alcalins, mais atténués.
+2-2. Abondant dans la croûte terrestre (composé rocheux).
+3. Halogènes.
+3-Endroit. Septième colonne.
+3-Électrons de valence. 7e-.
+3-1. Non-métaux générateurs de sels lorsque liés à un métal.
+3-2. Très réactifs (donne du sel avec du métal ∴ acides).
+3-3. Généralement toxiques / propriétés désinfectantes.
+4. Gaz inertes.
+4-Endroit. Huitième colonne.
+4-Électrons de valence. 8e-.
+4-1. Non-métaux gazeux (incolore et inodore).
+4-2. Très stables (ne réagissent jamais), car dernier niveau saturé.
+4-Exemple. Ampoule incandescente pour évite d'oxyder le tungstène.
+
+!Masse atomique relative et isotopes
+Masse atomique relative. Masse d'un atome (en u) en comparaison avec un élément de référence (carbone 12).
+Égalités à 1u.
+1. Masse d'un atome d'hydrogène (1p+).
+2. Nucléon (p+ ou n0).
+3. 1/12 de la masse de carbone 12 (6p+ + 6n0 = 12u).
+Isotope. Atomes d'un même élément chimique (même nb de protons et d'électrons), mais nb différent de neutrons.
+Exemple: Oxygène 16 (99,8%), 17 (0,04%), 18 (0,16%).
+1-Similitudes. 8p+ et 8e-.
+2-Différences. 8n0, 9n0, 10n0.
+3-Masse atomique moyenne. 16u * 99.8% + 17u * 0.04% + 18u * 0.16% = 16.0036u.
+Masee atomique moyenne. Différents isotopes avec abondance relative.
+1-Calculation masse atomique des isotopes (Cu 29p+, 34n0). 29p+ + 34n0 = 63u (63, 29 Cu).
+2-Calculation masse atomique des isotopes (Cu 29p+, 36n0). 29p+ + 36n0 = 65u (65, 29 Cu).
+3-Calculation masse atomique moyenne (Cu 63: 69,17%, Cu 65: 30,83%). 63u * 69,17% + 65u * 30,83% = 63,62u.
+
+!Ions
+Principe de stabilité chimique. Tendence des atomes à adopter la configuration électronique du gaz inerte le plus proche (à 8 ou 2 électrons de valence).
+Ion. Atome plus électroniquement neutre ∵ Gagné ou perdu des électrons.
+1. Positive = Cathion.
+1-Électrons. Gagne (reçoit e-).
+1-Catégorie. Non-métal.
+1-Charge. Négatif.
+2. Négatif = Anion.
+2-Électrons. Perte (donne e-).
+2-Catégorie. Métal.
+2-Charge. Positif.
+Familles et électrons de valence.
+I A.
+- Nb d'électrons de valence. 1
+- Tendence. Perdre 1e-.
+- Nb de liens chimiques possibles. 1
+- Exemple (Lithium). Li+
+II A.
+- Nb d'électrons de valence. 2
+- Tendence. Perdre 2e-.
+- Nb de liens chimiques possibles. 2
+- Exemple (Béryllium). Be2+ 
+III A.
+- Nb d'électrons de valence. 3
+- Tendence. Perdre 3e-.
+- Nb de liens chimiques possibles. 3
+- Exemple (Bore). B3+
+IV A.
+- Nb d'électrons de valence. 4
+- Tendence. Gagner ou perdre 4e-.
+- Nb de liens chimiques possibles. 4
+- Exemple (Carbone). C4- ou C4+
+V A.
+- Nb d'électrons de valence. 5
+- Tendence. Gagner 3e-.
+- Nb de liens chimiques possibles. 3
+- Exemple (Azote). N3-
+VI A.
+- Nb d'électrons de valence. 6
+- Tendence. Gagner 2e-.
+- Nb de liens chimiques possibles. 2
+- Exemple (Oxygène). O2-
+VII A.
+- Nb d'électrons de valence. 7
+- Tendence. Gagner 1e-.
+- Nb de liens chimiques possibles. 1
+- Exemple (Fluor). F-
+VIII A.
+- Nb d'électrons de valence. 8
+- Tendence. Rien.
+- Nb de liens chimiques possibles. 0
+- Exemple (Néon). Ne
+
+!Liaisons chimiques
+Molécule. Groupe d'atomes liés chimiquement et électriquement neutre.
+Élément. Atomes identiques.
+Composé. Molécule constituée d'atomes différents.
+Composé binaire. Molécule consituté de 2 sorte d'atomes (ou d'ions).
+Liaison chimique. Lien entre deux atomes créé par un transfert ou un partage d'un ou plusieurs électrons de valence.
+1. Ionique.
+Particules. Formation d'ions.
+Cause. Transfert d'e-.
+Types. Entre métal et non-métal.
+2. Covalente.
+Particules. Pas d'ions.
+Cause. Partage d'e-.
+Types. Entre 2 non-métaux.
+Familles des métaux. IA, IIA, IIIA, IVA (Sn et Pb).
+Familles des non-métaux. IVA (C, Si et Pb), VA, VIA, VIIA.
+Hydrogène.
+1. Métal ∵ Début formule chimique (sauf H2O).
+2. Non-métal ∵ Ailleurs dans une formule.
+Étapes.
+1. Liaison covalente ou ionique.
+2. Famille (charge et nb de liens).
+3. Nb d'atomes de chaque sorte.
+4. Formule chimique.
+&./2022-10-26sct/composes_binaires.png
+
+!Nomenclature
+Début d'une formule. Élément le moins électronégatif (capacité à attirer les électrons) ∴ Toujours l'élément métallique.
+Nb d'atomes de chaque élément. Indice.
+Étapes.
+1. Élément à la fin (avec suffixe "ure")
+1-Exeptions
+1-1. H = Hydrure.
+1-2. O = Oxyde.
+1-3. N = Nitrure.
+1-4. S = Sulfure.
+1-5. C = Carbure.
+1-6. P = Phosphure.
+2. "de"
+3. Élément du début.
+Préfixes du nb d'éléments.
+1. Mono-
+2. Di-
+3. Tri-
+4. Tétra-
+5. Penta-
+6. Hexa-
+7. Hepta-
+8. Octa-
+9. Nona-
+10. Déca-
+Éléments polyatomiques. Conserve leur nom + préfixes.
+Exemples.
+H2. Dihydrogène.
+O2. Dioxygène.
+
+!Mole
+Mole. Quantité qui correspond à 6.02x10^23 particules
+Symbole. n
+Unité. mol
+Nombre d'Avogadro. le nombre de particules présente dans une mole.
+Na. 6.02x10^23
+Formule d'une mole. n = N/Na
+n. Nombre de moles (mol).
+N. Nb de particules.
+Na. Nb d'avogadro.
+
+!Masse molaire
+Masse molaire. Masse d'une mole de cette substance (g/mol).
+Formule de la masse molaire. M = m/n
+M. masse molaire (g/mol).
+m. Masse de la substance (g).
+n. Nombre de moles de substance (mol).
+
+!Solution
+Solution. Mélange homogène (soluté dissoute dans le solvant).
+Aqueuse. Solvant = eau.
+Concentration. Concentration = Quantité de soluté / Quantité de solution.
+Quantité de solution. Quantité soluté + Quantité solvant.
+Conc g/L. C = m/V.
+Conc %. %m/V, %V/V, %m/m.
+- Définition. Soluté / 100mL.
+Conc ppm. mg/L, mg/Kg.
+- Définition. Soluté / 1 million de particules de solution.
+Conc mol/L. C = n/V.
+- Définition. Moles de soluté / 1 Litre de solution.
+
+!Électrolytes
+Types de dissolution.
+1. Dissolution ionique.
+- Type de liaison. Ionique.
+- Définition. Dissociation électrolytique.
+- Conséquence. AB → A+ + B-.
+- Équation NaCl. NaCl(s) → Na+(aq) + CL-(aq).
+- Équation MgCl2. MgCl2(s) → Mg2+(aq) + 2Cl-(aq).
+2. Dissolution moléculaire.
+- Type de liaison. Covalente.
+- Conséquence. CD → CD.
+- Équation C12H22O11. C12H22O11(s) → C12H22O11(aq).
+- Équation O2. O2(g) → O2(aq).
+- Équation CO2. CO2(g) → CO2(aq).
+Électrolyte. Substance qui subit une dissociation électrolytique en solution aqueuse (conductrice).
+Non-Électrolyte. Ne rend pas la solution conductrice.
+
+!Force des électrolytes
+Différentes forces d'électrolytes. Taux de dissociation électrolitique (ionique).
+1. Forte.
+- Exemple. HCl.
+- Dissociation. Complète.
+- Conductibilité électrique. Forte.
+- Caractéristiques. Beaucoup d'ions et peu de molécules.
+2. Faible.
+- Exemple. HF.
+- Dissociation. Partielle.
+- Conductibilité électrique. Faible
+- Caractéristiques. Moins d'ions et plus de molécules.
+3. Non-Électrolyte.
+- Exemple. Sucre.
+- Conductibilité électrique. Nulle.
+Comparer la force des électrolytes. Conc. molaire identique.
+
+!Types d'électrolytes
+Types d'électrolytes.
+1. Acides.
+- Définition. Libère des ions H+ en solution.
+- Formule chimique. H et Non-Métal.
+- Exceptions. H2O (pas acide), CH3COOH (acide).
+- Propriétés.
+- 1. Papier tournesol devient rouge.
+- 2. Conduit l'électricité en solution.
+2. Bases.
+- Définition. Libère des ions OH- en solution.
+- Formule chimique. Métal et OH-.
+- Exceptions. CH3OH (alcool).
+- Propriétés.
+- 1. Papier tournesol devient bleu.
+- 2. Conduit l'électricité en solution.
+3. Sels.
+- Définition. Liaison entre un ion métallique et un ion non-métallique (autre que H+ et OH-).
+- Formule chimique. Métal+ et Non-métal-.
+- Propriétés.
+- 1. Pas de changement de couleur.
+- 2. Conduit l'électricité en solution.
+Quelle est la dépendance pour la conductibilité? Doivent être dissous dans l'eau pour permettre la mobilité des charges.
+Non-électrolytes. Demeures sous-formes de molécules.
+- Liaisons. Covalentes.
+- Dissociation. Aucune.
+- Conductibilité. Aucune.
+
+!pH
+Acronyme. Puissance hydrogène.
+Définition. Concentration en ions H+ libres, distinguer les solutions acides, basiques et neutres.
+Eau pure. [H+] = [OH-] = 1x10^-7 mol/L.
+Ajout de HCL.
+- Ions H+. Surplus.
+- Conc. [H+] > [OH-].
+- pH. Acide.
+Ajout de NaOH.
+- Ions OH-. Surplus.
+- Conc. [H+] < [OH-].
+- pH. Basique.
+Ajout de NaCl.
+- Conc. [H+] = [OH-].
+- ph. Neutre.
+Échelle de pH.
+pH < 7. Acide.
+- Conc H+. 1x10^0 mol/L.
+- Conc OH-. 1x10^-14 mol/L.
+pH = 7. Neutre.
+- Conc H+. 1x10^-7 mol/L.
+- Conc OH-. 1x10^-7 mol/L.
+pH > 7. Base.
+- Conc H+. 1x10^-14 mol/L.
+- Conc OH-. 1x10^0 mol/L.
+
+!Conservation de la matière
+Types de changements.
+1. Physiques.
+- Définition. Généralement 1 substance, Modifie pas la nature de la substance.
+- Trois types.
+- 1. Changement d'état.
+- 2. Changement de forme.
+- 3. Préparation / séparation de mélanges.
+- Exemple. H2O(l) → H2O(g).
+2. Chimiques.
+- Définition. Au moins 2 substances qui réagissent, Modifie la nature.
+- Exemple. 2 H2(g) + O2(g) → 2 H2O(l).
+Loi de la conservation de la matière. Aucune matière n'est créée ni détruite (masse et qty identique).
+
+!Stoechiométrie
+Stoechiométrie. Planifier une réaction à l'aide d'une EQN chimique balancée (qty de réactifs et produits).
+
+!Catégories de réactions chimiques
+1. Précipitation.
+2. Synthèse / Décomposition.
+3. Endothermique / Exothermique.
+4. Oxydation / Combustion.
+5. Respiration cellulaire / Photosynthèse.
+6. Neutralisation acidobasique / Carbonate / Métal.
+
+!Précipitation
+Précipitation. Formation d'un précipité à partir de 2 substances non-solides.
+
+!Synthèse / Décomposition
+Synthèse.
+- Définition. Formation de molécules complexes à partir de molécules simples.
+- Équation générale. A + B → AB.
+Décomposition.
+- Définition. Séparation de molécules complexes en molécules plus simples.
+- Équation générale. AB → A + B.
+
+!Endothermique / Exothermique
+Endothermique.
+- Définition. Réaction qui absorbe de l'énergie.
+- Équation générale. Réactifs + Énergie → Produits.
+- Graphique. Croissante.
+- Exemple. Photosynthèse (6 CO2 + 6 H2O + Énergie → 6 O2 + C6H12O6).
+Exothermique.
+- Définition. Réaction qui dégage de l'énergie.
+- Équation générale. Réactifs → Produits + Énergie.
+- Graphique. Décroissante.
+- Exemple. Rouille (4 Fe + 3 O2 → 2 Fe2O3 + Énergie).
+- Formes d'énergie dégagée. Chaleur, lumière, etc.
+
+!Oxydation / Combustion
+Oxydation.
+- Définition. Réaction chimique impliquant de l'oxygène comme réactif.
+Combustion.
+- Définition. Réaction d'oxydation qui dégage beaucoup d'énergie.
+- Produits (généralement). CO2 et H2O.
+Conditions nécessaires à la combustion.
+1. Comburant.
+- Définition. Substance qui entretient la combustion.
+- Exemples. Souvent O2, Sinon O3 et halogènes.
+2. Combustible.
+- Définition. Capable de réagir avec le comburant pour produire de l'énergie.
+- Exemples. Bois, Essence, Propane, Glucose, Charbon.
+3. Énergie d'activation.
+- Définition. Énergie qui amorce la combustion. Doit être suffisante pour entretenir la réaction.
+Types de combustion.
+1. Lente.
+- Définition. Longue période de temps, Énergie dissipée graduellement, Pas de flamme.
+- Exemples. Respiration cellulaire, Oxydation (pomme), Rouille.
+2. Vive.
+- Définition. Courte période de temps, Beaucoup d'énergie (lumière/chaleur).
+- Exemples. Feu de camp, bougie, chandelle.
+3. Spontanée.
+- Définition. Combustion vive dont le combustible s'enflamme sans apport d'Énergie extérieure.
+- Condition. Temp i'ignition < Temp ambiante.
+- Exemples. Phosphore lorsque Temp air > 30C.
+
+!Respiration cellulaire / Photosynthèse
+Respiration cellulaire.
+- Définition. Réaction de combustion ayant lieu dans les mitochondries des cellules qui permet de transformer le glucose en énergie.
+- Équation chimique. C6H12O6 + 6 O2(g) → 6 CO2(g) + 6 H2O(l) + Énergie.
+Photosynthèse.
+- Définition. Réaction de synthèse qui permet aux plantes de produire du glucose grâce à l'énergie solaire.
+- Équation chimique. 6 CO2(g) + 6 H2O(l) → C6H12O6 + 6 O2(g).
+
+!Neutralisation acidobasique / Carbonate / Métal
+Neutralisation acidobasique.
+- Définition. Annuler les propriétés d'une substance acide en y ajoutant une substance basique (ou l'inverse).
+- Équation chimique. Acide(aq) + Base(aq) → Sel(aq) + Eau(l).
+- Exemple H2S(aq) + 2 KOH(aq) →. K2S(aq) + 2 H2O(l).
+Équations de dissociation.
+- Acide. H non-métal → H+ + Non-métal.
+- Base. Métal OH → Métal + OH-.
+Équation de neutralisation. H non-métal + Métal OH → Métal non-métal + H2O.
+Neutralisation par un carbonate.
+- Équation générale. Acide + Carbonate → Sel + CO2 + H2O.
+- Exemple 2 HCl(aq) + CaCO3(s) →. CaCl2(aq) + CO2 + H2O.
+Neutralisation par un métal.
+- Équation générale. Acide + Métal → Sel + H2.
+- Exemple 2 HCl(aq) + Mg(s) →. MgCl2(aq) + H2(g).
+
+!Formes d'énergie
+Énergie. Capacité de:
+1. Accomplir un travail (générer du mouvement, chaleur ou lumière).
+2. Provoquer un changement (d'état, de forme).
+Unité. Joule (J).
+Équivalence. 1J = 1N·m (E nécessaire pour soulever 1N sur 1m).
+Formes d'énergies.
+1. Rayonnante.
+- Définition. Contenue et transportée par une onde électromagnétique (lumière). 
+- Exemples. Ampoule, soleil, Micro-ondes.
+2. Thermique.
+- Définition. Résultant du mouvement des particules.
+- Exemples. Feu, cuisinière.
+3. Chimique.
+- Définition. Emmagasinée dans des liaisons chimiques des molécules.
+- Exemples. Pomme, combustible.
+4. Mécanique.
+- Définition. E associée au mouvement ou à la position de l'object.
+- Exemples. Éolienne, hydraulique.
+5. Électrique.
+- Définition. Générée par le mouvement des e-.
+- Exemples. Pile, prise électrique.
+6. Nucléaire.
+- Définition. Contenue dans le noyau des atomes.
+- Exemples. Noyau d'atomes.
+
+!Conservation de l'énergie
+Loi. Loi de la conservation de l'énergie → l'énergie ne peut être créée, ni détruite, seulement transférée ou transformée.
+Quantité d'énergie. Constante dans une système isolé.
+Système isolé. Système qui n'effectue pas d'échanges d'énergie avec l'extérieur.
+Transfert. Passage de l'énergie d'un milieu à un autre.
+Exemple. E mécanique jambe → E mécanique pédalier → E mécanique roue.
+Transformation. Passage de l'énergie d'une forme à une autre.
+Exemple. Ampoule: E électrique → E rayonnante, Photosynthèse: E rayonnante → E chimique.
+
+!Rendement énergétique
+Rendement énergétique. Proportion de l'E consommée par une machine / système qui est transformée en E utile.
+Formule. R = Qty E utile / Qty E consommée · 100%.
+
+!Énergie thermique
+Énergie thermique. Et: Quantité d'énergie que possède une substance en fonction de:
+1. La quantité de particules qu'elle contient.
+2. L'agitation des particules.
+Chaleur. Q: Transfert d'énergie thermique entre 2 milieu de températures différentes.
+Température. T: Mesure du degré d'agitation des particules.
+
+!Échanges de chaleur
+Principes des échanges de chaleur.
+1. Chaleur passe spontanément du corps le plus chaud vers le corps le plus froid.
+2. Qty d'énergie perdue par celui qui se refroidit = Qty d'énergie gagnée par celui qui se réchauffe
+- Type de système. Système fermé ∴ conservation de l'énergie.
+3. Échange se poursuit jusqu'à ce que les 2 substances aient la même température.
+
+!Variation de l'énergie thermique
+Capacité massique thermique. Qty d'énergie thermique nécessaire pour faire augmenter 1°C la temp. de 1g de substance.
+Type de propriété. Propriété caractéristique.
+C(eau). 4.19 J/g°C.
+Formule variation de l'énergie thermique. Q = mcΔT
+1. Q: Chaleur (J)
+2. m: masse (g)
+3. c: capacité massique thermique (J/g°C)
+4. ΔT: Variation de température (°C)
+- Formule. ΔT = Tf - Ti.
+
+!Contraintes
+Contrainte. Effet qu'une force extérieure exerce sur un matériau.
+Conséquence. Tend à déformer.
+&./2023-02-13sct/contraintes.png
+A. Compression.
+- Description. Comprimer, écraser.
+B. Tension.
+- Description. Étirer.
+C. Torsion.
+- Description. Tordre.
+D. Flexion.
+- Description. Courber.
+E. Cisaillement.
+- Description. Découper.
+
+!Types de déformations
+1. Élastique.
+- Description. Changement temporaire de la forme ou des dimensions du matériau, le matériau reprend ensuite sa forme.
+2. Permanente.
+- Description. Changement permanente de la forme ou des dimensions du matériau.
+3. Rupture.
+- Description. Contrainte si intense que le matériau se casse.
+
+!Propriétés mécaniques
+Propriétés mécaniques. Comportement d'un matériau lorsqu'il est soumis à un ou plusieurs contraintes mécaniques.
+1. Dureté.
+- Définition. Résistance à la pénétration et à la rayure.
+- Exemple. Diamant.
+2. Malléabilité.
+- Catégorie de matériau spécifique. Métaux.
+- Définition. Capacité à être aplati en feuilles.
+- Exemple. Paper d'aluminium.
+3. Ductilité.
+- Catégorie de matériau spécifique. Métaux.
+- Définition. Capacité à être étiré en fil.
+- Exemple. Fils électriques.
+4. Élasticité.
+- Définition. Capaciter à retrouver sa forme initiale à la suite d'une déformation.
+- Exemple. Ressorts, matelas.
+5. Rigidité.
+- Définition. Résistance à la déformation (garder sa force face à des contraintes).
+- Opposé. Flexibilité.
+- Exemple. Tablier d'un pont.
+6. Résilience.
+- Définition. Résistance aux chocs (absorber de l'E) sans se rompre.
+7. Tenacité.
+- Définition. Résistance à la rupture (fissures) sous des contraintes intenses et prolongés.
+- Opposé. Fragilité.
+- Contre-exemples. Vitre, céramique.
+Dégradation des matériaux. Diminution de certaines de leur propriétés due au milieu ambiant.
+Protection des matériaux. Usage de procédés qui empêchent ou retardent leur dégradation.
+
+!Autres propriétés
+1. Résistance à la chaleur ou la corrosion.
+- Définition. Résister à la chaleur ou l'action de substances corrosives.
+- Exemples de substances corrosives. Sels, produits chimiques.
+2. Conductibilité électrique ou thermique.
+- Définition. Laisser passer du courant ou transmettre de la chaleur.
+3. Neutralité chimique.
+- Définition. Matériau non chimiquement actif, résistence aux agents chimiques.
+
+!Bois
+Causes de dégradation.
+1. Eau.
+2. Insectes.
+3. Champignons.
+4. Micro-organismes.
+5. Pourriture.
+Moyens de protection.
+1. Revêtement de surface.
+- Exemples.
+- 1. Vernir.
+- 2. Peindre.
+- 3. Imperméabiliser.
+2. Additifs chimiques.
+- Exemples. Enduits (liquides) protecteurs.
+
+!Céramiques
+Céramique.
+- Base. Matériau formé à partir de matières inorganique.
+- Composition. Roches, minéraux et terre.
+- Transformations. Subit des transformations chimiques ou physiques.
+Propriétés.
+1. Dureté, Fragilité, Rigidité.
+2. Résistance au T° élevés.
+3. Faible dilatation thermique.
+4. Mauvais conducteurs thermiques et électriques.
+5. Résistance à la corrosion et agressions chimiques.
+Usages communes.
+1. Revêtement de fours.
+2. Matériaux de construction (tuiles, lavabos).
+3. Boucliers thermiques.
+Causes de dégradation.
+1. Chocs.
+2. Chocs-thermiques.
+3. Acides et bases-forts.
+Moyens de protection.
+1. Éviter les chocs et chocs termiques (changement de T° graduelle).
+2. Éviter les acides et bases-forts.
+3. Ajouter un revêtement protecteur (vernis, peinture).
+
+!Métaux et alliages
+Causes de dégradation. 
+1. Oxydation.
+Moyens de protection.
+1. Revêtement de protection empêchant le contact avec l'environnement.
+- Exemples.
+- 1. Peinture.
+- 2. Plaquage de zinc (galvanisation).
+- 3. Graisse.
+- 4. Traitement antirouille.
+2. Traitement thermique.
+- Exemples.
+- 1. Trempe (chauffer et refroidissement rapide).
+- 2. Revenu (chauffé à temp. basse)
+- 3. Recuit (faire fondre et refroidir lentement).
+
+!Plastiques
+Matière plastique.
+- Base. Matériaux organiques (pétrole, gaz naturel)
+- Composition. Matériau fait de polymères.
+- Transformations. Ajouts d'autres substances afin de modifier les propriétés désirés.
+Causes de dégradation.
+1. Pénétration de liquides (fissures).
+2. Oxydation.
+3. Rayons UV.
+Moyens de protection.
+1. Revêtement impérméable.
+2. Ajouts de pigments (absorbent UV).
+3. Ajout d'antioxydants.
+Types de plastiques.
+1. Thermoplastiques.
+- Description. Chauffés, fondus et réutilisés
+- Réutilisation. Recyclabes.
+- Exemples.
+- 1. Polyéthylène (plastique le + commun).
+- 2. PVC (tuyaux).
+- 3. Plexiglas (transparents).
+- 4. Nylon.
+2. Thermodurcissables.
+- Description. Plastiques rigides, se dénaturent ou brûlent lors du chauffage.
+- Réutilisation. Non-réutilisables.
+- Exemples.
+- 1. Formaldéhyde (préservatif).
+- 2. Époxy (résine).
+- 3. Mélamine. 
+
+!Matériaux composites
+Matériau composite. Formé de matériaux provenant de différentes catégories.
+But. Matériau ayant des propritétés améliorés.
+Composantes d'un composite.
+1. Matrice.
+- Description. Matériau qui donne la forme (béton, résine).
+2. Renfort.
+- Rescription. Matériau inséré dans la matrice (armature d'acier, fibre de verre).
+Exemples de composites.
+1. Béton armé.
+2. Fibre de carbone.
+3. Fibre de verre.
+
+!Dessins techniques
+1. Dessin d'ensemble.
+- Description. Dessin technique présentant l'allure générale d'un objet.
+2. Dessin d'ensemble éclaté.
+- Description. Diverses pièces de l'objet sont dissociés les uns des autres.
+3. Dessin de détail.
+- Description. Présente tous les détails utiles à la fabrication d'une pièce.
+- Exemples de détails.
+- 1. Dimensions.
+- 2. Diamètres de perçage.
+- 3. Tolérances.
+Schémas.
+1. Schéma de principe.
+- Éléments requis.
+- 1. Nom des pièces.
+- 2. Mouvements.
+- 3. Contraintes.
+2. Schéma de construction.
+- Éléments requis.
+- 1. Nom des pièces.
+- 2. Légende de matériau.
+- 3. Guidages.
+
+!Projections
+Projection. Représentation d'un objet 3D sur une surface 2D.
+1. Oblique.
+2. Isométrique.
+- Description. Perspective.
+- Avantages. 3 dimensions en une seule vue.
+- Désavantages. Déformer l'objet et/ou dimensions.
+3. Point de fuite 
+- Description. À point de fuite.
+Dessin d'ensemble.
+1. Dessin à vue éclatée.
+2. Projection orthogonale.
+- Description. Au moins 3 vues pour représenter l'objet dans l'ensemble.
+- Avantages. Ø Déformations, + Détails.
+- Désavantages. Difficile d'imaginer.
+3. Dessin de détail.
+&./2023-02-13sct/vues.png
+A. Gauche.
+B. Dessus.
+C. Arrière.
+D. Droite.
+E. Dessous.
+F. Face.
+1. Arrière.
+2. Gauche.
+3. Dessus.
+4. Face.
+5. Dessous.
+6. Droite.
+!Tolérances dimensionnelles
+Tolérance dimensionelle. Indication sur un dessin techinque de l'écart maximal entre:
+1. Une mesure indiquée sur un dessin et;
+2. la mesure réelle sur la pièce construite.
+150±1. De 149mm à 151mm.
+Ø50 +0,2 -0,1. Diamètre de 49.9mm à 50.2mm.
+200 +0 -1. De 199mm à 200mm.
+
+!Fonctions mécaniques élémentaires.
+Organe. Pièce ou fluide qui accomplit une fonction mécanique.
+1. Liaison.
+2. Guidage.
+3. Étanchéité.
+4. Lubrification.
+
+!Liaisons
+Liaison. Permet de maintenir ensemble 2 ou + pièces dans un même objet.
+Quelle type de pièce accomplit la fonction liaison? Un organe de liaison.
+&./2023-02-13sct/liaisons.png
+A. Encastrement.
+B. Glissière.
+C. Pivot.
+D. Pivot glissant.
+E. Hélicoïdale.
+F. Rotule.
+Caractéristiques des liaisons.
+1. Directe / indirecte.
+- Description. Organe de liaison?
+2. Rigide / Élastique.
+- Description. Déformation?
+- Exemples. Ressort, caoutchouc.
+3. Démontable / indémontable.
+- Description. Séparation des pièces sans endommager?
+- Vue éclaté. Liaisons indémontables restent ensemble.
+4. Complète (totale) / partielle.
+- Description. Mouvement indépendant des pièces liés par rapport à l'autre?
+
+!Guidages
+Guidage. Dirige le mvmt de 1+ pièces.
+Quelle type de pièce accomplit la fonction guidage? Un organe de guidage.
+&./2023-02-13sct/guidages.png
+A. Aucun guidage (liaison complète / totale)
+B. Translation.
+C. Rotation.
+D. Mixte.
+E. Hélicoïdale.
+F. Rotule.
+
+!Degrées de liberté
+Degré de liberté. Mouvemnt indépendants possibles pour une pièce dans un objet technique.
+&./2023-02-13sct/axes.png
+x, y, z. Axes perpendiculaires X, Y et Z.
+Rx, Ry, Rz. Rotation selon les axes X, Y et Z.
+Tx, Ty, Tz. Translation selon les axes X, Y, et Z.
+
+!Adhérence
+Sur quoi a lieu l'adhérence et le frottement? 2 surfaces en contact.
+Adhérence. 2 surfaces ont la possiblité de glisser, mais ne glissent pas.
+Facteurs faisant varier l'intensité de l'adhérence.
+1. Nature des matériaux mis en contact.
+- Description. Certains matériaux adhèrent mieux.
+2. Présence de lubrifiant.
+- Description. Lubrifiant ∴ diminuer l'adhérence.
+3. État des surfaces.
+- Description. +Rugeux ∴ +Adhérence.
+4. Force perpendiculaire exercée par une surface sur l'autre.
+- Description. +Force ∴ +Adhérence.
+5. Température.
+- Description. +Température ∴ +Adhérence.
+
+!Frottement
+Frottement. Lorsqu'il n'y a plus d'adhérence, 2 surfaces glisent / se déplacent l'une sur l'autre.
+Conséquences du frottement.
+1. Entrave le mvmt.
+2. Usure des pièces.
+2. Diminue le rendement.
+Quelle est la fonction qui réduit le frottement? La fonction lubrification.
+Moyens pour diminuer le frottement.
+1. Lubrifier les pièces.
+2. Polissage des surfaces.
+3. Roulement à billes (moins de surface de contact).
+
+!Systèmes de transmission de mouvement
+Transmission du mouvement. Communiquer un mvmt d'une pièce à une autre sans modifier la nature.
+Quelles pièces accomplissent la fonction de transmettre un mouvement? Système de transmission de mouvement.
+Types d'organes d'un système mécanique.
+1. Organe moteur.
+2. Organe mené.
+3. Organe intermédiaire.
+Réversibilité. Pouvoir changer l'organe moteur et mené.
+&./2023-02-13sct/transmission.png
+A. Roue de friction.
+- Mouvement transmis. Rotation.
+- Réversibilité. Réversible.
+B. Poulies et courroie.
+- Mouvement transmis. Rotation.
+- Réversibilité. Réversible.
+C. Roues dentées.
+- Mouvement transmis. Rotation.
+- Réversibilité. Réversible.
+D. Roues dentées et chaine.
+- Mouvement transmis. Rotation.
+- Réversibilité. Réversible.
+E. Roue dentée et vis sans fin.
+- Mouvement transmis. Rotation.
+- Réversibilité. Irréversible.
+
+!Changement de vitesse
+Roues de friction ou poulies. v2/v1 = d1/d2.
+Roues dentées. v2/v1 = N1/N2.
+Roue dentée et vis sans fin. v(roue) = v(vis) / N.7
+Rapport de transmission.
+- Selon caractéristique mécanique. r = (d/N)moteur / (d/N)mené.
+- Selon vitesse de rotation. r = tours/min mené / tours/min moteur.
+r>1. Augmentation en vitesse.
+r<1. Diminution en vitesse.
+r=1. Même vitesse.
+
+!Systèmes de transformation de mouvement
+Transformation du mouvement. Communiquer un mvmt d'une pièce à une autre en modifiant la nature.
+&./2023-02-13sct/transformation.png
+A. Pignon et crémaillère.
+- Mouvement transformé. Rotation ←→ Translation.
+- Réversibilité. Réversible.
+B. Vis sans fin et crémaillère.
+- Mouvement transformé. Rotation → Translation.
+- Réversibilité. Irréversible.
+C. Vis et écrou (Type I et II).
+- Mouvement transformé. Rotation → Translation.
+- Réversibilité. Irréversible.
+- Type I Organe moteur. Vis ∴ Rotation.
+- Type I Organe mené. Écrou ∴ Translation.
+- Type II Organe moteur. Écrou ∴ Rotation.
+- Type II Organe mené. Vis ∴ Translation.
+D. Bielle et manivelle.
+- Mouvement transformé. Rotation ←→ Translation va-et-vient.
+- Réversibilité. Réversible.
+E. Came et tige-poussoir.
+- Mouvement transformé. Rotation → Translation va-et-vient.
+- Réversibilité. Irréversible.
+F. Roue eccentrique.
+- Mouvement transformé. Rotation → Translation va-et-vient.
+- Réversibilité. Irréversible.
+- Amplitude de déplacement. Double de la distance entre le centre géométrique du cercle et le centre de l'axe.
+
+!Magnétisme
+Magnétisme. Propriété caractéristique d'une substance qui a la capacité d'être attirée ou repoussée par un aimant.
+Caractéristiques d'un matériau magnétisé. Orientation de rotation précise des électrons qui le constituent.
+Conséquence. Création d'un pôle Nord et Sud.
+Catégories de substances.
+1. Magnétique.
+- Type. Aimant permanent.
+- Description. Attire et repousse les autres aimants, champ magnétique.
+- Exemples. Aimant au néodyme, magnétite.
+2. Ferromagnétique.
+- Type. Aimant temporaire.
+- Description. Temporairement un aimant sous l'influence d'un champ magnétique.
+- Exemples. Co-Ni-Fer.
+3. Non-magnétique.
+- Description. Non influencée par les aimants / champs magnétiques.
+- Exemples. Bois, plastique, aluminium, cuivre.
+Rémanence magnétique. Capacité d'une substance ferromagnétique de conserver temporairement les propriétés d'un aimant.
+- Haute rémanence. Nécessite beaucoup de temps pour s'aimanter; reste aimanté pour longtemps.
+- Faible rémanence. Nécessite peu de temps pour s'aimanter; reste aimanté pour peu de temps.
+Types d'interactions.
+1. Attraction.
+- Description. Pôles contraires.
+2. Répulsion.
+- Description. Pôles identiques.
+
+!Champs magnétiques
+Champ magnétique. Représentation des forces magnétiques qu'exerce un aimant autour.
+Qu'est ce qui permet de visualiser les champs. Limaille de fer.
+Directions des flèches. Par convention:
+- Pôles Nords. Flèches s'éloignent.
+- Pôles Suds. Flèches se rapprochent.
+&./2023-03-16sct/magnetic_field.png
+
+!Champ magnétique terrestre
+Qu'est ce qui crée le champ magnétique terrestre? Le noyau de la Terre.
+À quel aimant ressemble-t-il? Aimant droit.
+Nord géographique. Sud magnétique.
+Sud géographique. Nord magnétique.
+Fonctionnement d'un aimant. Le côté Nord pointe vers le Sud magnétique, donc Nord géographique.
+
+!Électromagnétisme
+Qu'est ce qui engendre un champ magnétique? Toute charge en mouvement.
+Courant électrique. Déplacement d'électrons.
+Sens conventionnel. Positif à négatif.
+Règles de la main droite.
+1. Fil conducteur.
+- Pouce. Sens du courant.
+- Doigts. Sens du champs magnétique.
+2. Solénoïde.
+- Pouce. Pôle Nord.
+- Doigts. Sens du courant.
+
+!Électroaimants
+Électroaimant. Solénoïde avec un noyau ferromagnétique (à faible rémanence).
+But du noyau ferromagnétique. Amplifier le champ magnétique.
+Facteurs qui influencent le champ magnétique d'un électroaimant.
+1. Nombre de tours (spires).
+- Description. +tours ∴ +champ.
+2. Intensité du courant.
+- Description. +intensité ∴ +champ.
+3. Nature du noyau.
+- Description. Matériau du noyau (fer doux → faible rémanence).
+
+!Électricité
+Électricité. Énergie associé au charges électriques (mouvement ou non).
+1. Électricité statique.
+- Description. Associé aux phénomènes de charges électriques au repos.
+2. Électricité dynamique.
+- Description. Associé aux phénomènes de charges électriques en mouvement.
+
+!Charge électrique
+Particules qui portent une charge électrique.
+1. Proton (+).
+2. Électron (-).
+Qu'est ce qui permet les charges portées par ces particules? Exercer ou subir des forces électriques.
+Charge électrique.
+- Variable. q.
+- Unité de mesure. 1 coulomb (C) = 1 Ampère seconde (As).
+- Définition. Nombre d'électrons gagnés ou perdus par un corps.
+- Types de charges d'un corps.
+- 1. Positif ∴ déficit d'électrons.
+- 2. Négatif ∴ surplus d'électrons.
+Charge élémentaire.
+- Variable. e.
+- Définition. Grandeur de la charge que possède un p+ ou un e-.
+- Proton. q(proton) = e = 1.602x10^-19 C.
+- Électron. q(électron) = -e = 1.602x10^-19 C.
+- À combien d'électrons équivaut un Coulomb? 1C = 6.25x10^18 e-.
+
+!Forces électriques
+Types de forces électriques.
+1. Attraction.
+- Définition. Charges électriques de signes opposés.
+2. Répulsion.
+- Définition. Charges électriques de signes identiques.
+Loi de la conservation de la charge. Charges électriques ne peuvent être:
+1. Ni crées,
+2. Ni déruites,
+3. Seulement transférées d'un corps à un autre.
+
+!Électrisation de la matière
+État initial de la matère. Électriquement neutres ∴ autant de charges positives que négatives.
+Électrisation. Déséquilibre des charges dans la matière.
+Qu'est ce qui peut être transféré? Seulement les charges négatives (e-).
+Types de matière.
+1. Isolant.
+- Définition. Matériau ne laisant pas circuler les charges électriques.
+- Comportement lorsqu'électrisé. Charges - ne se dispersent pas aisément ∴ création d'une zone non-neutre sur le matériau.
+- Exemples. Bois, verre, air, plastiques.
+2. Conducteur.
+- Définition. Matériau laissant circuler les charges électriques.
+- Comportement lorsqu'électrisé. Charges - se dispersent uniformément dans tous l'objet ∴ nouvel équilibre.
+- Exemples. Métaux, solutions électrolytiques.
+&./2023-03-16sct/charge_transfer.png
+1. Frottement.
+- A. A(0), B(0) → 2 objets neutres.
+- B. Transfer d'e- de l'un à l'autre.
+- C. A(+), B(-) → 2 objets de charges contraires.
+2. Conduction.
+- D. A(+), B(0) → Objet chargé et objet neutre.
+- E. Objet chargé partage sa charge.
+- F. A(+), B(+) → 2 objets de charges identiques.
+3. Induction.
+- G. A(+), B(0) → Objet chargé et objet neutre.
+- H. Proximité avec l'objet chargé provoque une nouvelle répartition des charges dans l'objet neutre.
+- I. A(+), B(/) → Objet chargé et objet polarisé.
+
+!Frottement
+Déterminant de la direction du transfert des charges négatives. Affinité des substances à recevoir ou à donner des électrons.
+Échelle. Capteurs d'électrons (charge -) à donneur d'électrons (charge +).
+
+!Champs électriques
+Champ électrique. Région de l'espace dans laquelle
+1. Une charge électrique peut exercer une force à distance sur
+2. D'autres charges électriques.
+Direction des flèches. Par convention:
+- Charges positives. Flèches s'éloignent.
+- Charges négatives. Flèches se rapprochent.
+Types d'interactions.
+1. Attraction.
+- Description. Pôles contraires.
+2. Répulsion.
+- Description. Pôles identiques.
+&./2023-03-16sct/electric_field.png
+
+!Loi de Coulomb
+Loi de Coulomb. Calcul de la valeur de la force électrique (attraction / répulsion) entre:
+1. 2 corps chargés;
+2. Et immobiles.
+En quoi varie cette force?
+1. Charge des deux corps → directement proportionelle.
+2. Distance entre les deux corps → inversement proportionelle au carré.
+Formule. F = k|q1 q2| / d^2
+- F. Force électrique (N).
+- k. Constante de proportionalité 9x10^9 (Nm^2 / C^2).
+- q1, q2. Charge de chaque objet (C).
+- d. Distance entre les deux objets (m).
+
+!Circuit électrique
+Types de courants électriques.
+1. Courant continu.
+- Définition. Électrons circulent continuellement dans une seule direction.
+- Exemple. Objets portables → piles.
+2. Courant alternatif.
+- Définition. Électrons circulent en un mvmt de va-et-vien régulier.
+- Exemple. Prises électriques.
+
+!Composantes
+Composantes d'un circuit électrique.
+1. Source de courant.
+2. Interrupteur.
+3. Ampoule.
+&./chapitre-15/symbols_images.png
+A. Source de courant continu.
+B. Source de courant alternative.
+C. Pile électrique.
+D. Cellule photoélectrique.
+E. Interrupteur (ouvert).
+F. Prise électrique.
+G. Fil électrique.
+H. Fusible.
+I. Dispositif de protection (fusible / disjoncteur).
+J. Résistance / appareil consommant de l'électricité.
+K. Ampoule.
+L. Condensateur.
+M. Diode.
+N. Diode électroluminescente (DEL).
+O. Transistor.
+P. Disjoncteur.
+&./chapitre-15/symbols_text.png
+
+!Types de circuits
+1. Simple.
+- Définition. 1 seul élément relié directement à une source l'électricité.
+2. Série.
+- Définition. 2 ou + éléments reliés uns à la suite de l'autre (1 parcours).
+3. Parallèle.
+- Définition. 2 ou + éléments reliés aux 2 extrémités (autant de parcours que d'éléments).
+
+!Fonctions électriques
+Fonction électrique. Rôle joué par une composante d'un circuit électrique.
+1. Alimentation.
+- Description. Fournissant de l'énergie électrique nécessaire à la production de courant électrique.
+- Exemple. Pile.
+2. Conduction.
+- Description. Assurent le passage du courant électrique d'un point à une autre.
+- Exemple. Fils électriques.
+3. Isolation.
+- Description. Matériaux empêchant le passage du courant électrique hors du circuit.
+- Exemple. Gaine de caoutchouc.
+4. Commande.
+- Description. Contrôlent le passage du courant électrique en ouvrant ou fermant un circuit.
+- Exemple. Interrupteur.
+5. Transformation.
+- Description. Transformer l'énergie électrique en une autre forme d'É.
+- Exemple. Ampoule.
+6. Protection.
+- Description. Dispositifs servant à interrompre ou à limiter le courant lors d'un défaut électrique.
+- Exemples. Fusible, disjoncteur.
+
+!Défauts de circuit électriques
+Types de défauts électriques
+1. Court-circuit.
+- Cause. Mise en contact involontaire ou accidentelle de 2 éléments d'un circuit qui ne devraient pas être reliés.
+- Conséquence. Décharge électrique entre les deux.
+2. Surcharge électrique.
+- Cause. Trop grand nombre d'appareils sont reliées à une source d'alimentation.
+- Conséquence. Courant plus grand que ce que les fils peuvent supporter.
+
+!Dispositifs de protection
+1. Fusible.
+- Description. Mince filament conducteur où passe le courant électrique.
+- Mode d'interruption. Surcharge électrique → Augmentation de la T° → Fonte du filament → Interruption du courant.
+- Nombre d'utilisations. Une fois.
+2. Disjoncteur.
+- Description. Réagit aux surchages par un interrupteur qui s'ouvre mécaniquement.
+- Mode d'interruption. Surcharge électrique → Ouverture de l'interrupteur → Interruption du courant.
+- Nombre d'utilisations. Réutilisable.
+
+!Charge électrique
+Symbole de la variable. q.
+Unité de mesure. 1 coulomb (C) = 1 Ampère seconde (As).
+Définition. Nombre d'électrons gagnés ou perdus par un corps.
+Proton. q(proton) = e = 1.602x10^-19 C.
+Électron. q(électron) = -e = 1.602x10^-19 C.
+Équivalence électrons? 1C = 6.25x10^18 e-.
+
+!Intensité
+Symbole de la variable. I.
+Définition. Quantité de charges circulant en un point de circuit à chaque seconde (débit).
+Unité de mesure. Ampère (A).
+Instrument de mesure. Ampèremètre.
+Formule. I = q/Δt
+-. I: Intensité du courant (A).
+-. q: Quantité de charges (C).
+-. Δt: Intervalle de temps (s).
+
+!Tension
+Symbole de la variable. U.
+Définition. Quantité d'énergie transférée à un élément de circuit pour chauqe unité de charge.
+Unité de mesure. Volt (V).
+Instrument de mesure. Voltmètre.
+Formule. U = E/q
+-. U: Tension électrique (V).
+-. E: Énergie (J).
+-. q: Quantité de charges (C).
+Équivalence. 1J/C = 1V
+
+!Résistance
+Symbole de la variable. R.
+Définition. Volts nécessaires pour un courant de 1A (opposition au passage du courant).
+Unité de mesure. Ohm (Ω).
+Formule. R = U/I
+-. R: Résistance (Ω).
+-. U: Tension électrique (V).
+-. I: Intensité du courant (I).
+Facteurs qui influencent la résistance d'un matériau.
+1. Nature du fil.
+- Relation. Mauvais conducteur ∴ R↑
+2. Longueur du fil.
+- Relation. Longueur↑ ∴ R↑
+3. Température.
+- Relation. T↑ ∴ R↑
+4. Diamètre du fil.
+- Relation. d↓ ∴ R↑
+
+!Loi d'Ohm
+Constante. Résistance.
+Loi d'Ohm. Différence de potentiel ∝ Intensité du courant.
+Formule. U = RI 
+
+!Analyse de circuits électriques
+Lois de Kirchoff.
+1. Loi des courants (des noeuds).
+- Définition. Σ des intensités qui entrent dans un point (noeud) = Σ des intensités qui ressortent.
+2. Loi des tensions (des boucles).
+- Définition. E gagnée par les charges = E transférée en chemin, peu importe le trajet.
+Résistance équilavente. Résistance qui permettrait de remplacer toutes les résistances par un seul.
+Circuits et formules.
+1. Série.
+- Loi des courants. I(T) = I(1) = I(2) = I(3) = ...
+- Loi des tensions. U(T) = U(1) + U(2) + U(3) + ...
+- Résistance équilavente. R(éq) = R(1) + R(2) + R(3) + ...
+2. Parallèle.
+- Loi des courants. I(T) = I(1) + I(2) + I(3) + ...
+- Loi des tensions. U(T) = U(1) = U(2) = U(3) = ...
+- Résistance équilavente. R(éq) = 1 / (1/(R(1) + 1/R(2) + 1/R(3) + ...))
+
+!Puissance
+C/s. Intensité (A).
+J/C. Tension (V).
+J/s. Puissance (W).
+Symbole de la variable. P.
+Définition. Quantité d'énergie dépensé dans un circuit par unité de temps.
+Unité de mesure. Watt (W).
+Formule. P = UI
+-. P: Puissance (W).
+-. U: Tension électrique (V).
+-. I: Intensité (A).
+Formule. P = E/Δt
+-. P: Puissance (W).
+-. E: Énergie (J).
+-. Δt: Intervalle de temps (s).
+
+!Énergie électrique
+Symbole de la variable. E.
+Définition. Énergie consommée par un appareil électrique
+Unité de mesure. Joule (J).
+Formule. E = PΔt
+-. E: Énergie (J).
+-. P: Puissance (W).
+-. Δt: Intervalle de temps (s).
+Formule. E = UIΔt
+-. E: Énergie (J).
+-. U: Tension électrique (V).
+-. I: Intensité de courant (A).
+-. Δt: Intervalle de temps (s).
+Formule. E = Uq
+-. E: Énergie (J).
+-. U: Tension électrique (V).
+-. q: Quantité de charges (C).
+Équivalence. 1J = 1Ws
+
+!Kilowatt-heure
+Unité de mesure. Kilowatt-heure (kWh).
+Équivalences.
+. 1 kWh = 
+. 1000 Wh = 
+. 3 600 000 Ws =
+. 3 600 000 J
