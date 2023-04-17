@@ -40,6 +40,12 @@
     - b
     - c
 
+- propriétés des catégories
+    - all
+
+- familles d'éléments
+    - all
+
 ## Hqc
 - acte union
     - cause
@@ -121,3 +127,33 @@
 
 - politique (fin 19e siècle)
     - qu'est ce qui arrvie suite à la fédération canadienne?
+
+- nationalisme canadien-français d'honoré mercier
+    - que fait le gouvernement provincial québécois
+    - que font les provinces
+    - quels sont les provinces impliquées
+
+- vers une fédération décentralisée
+    - qu'est ce qui arrive
+    - quelles sont les conséquences
+
+- 1re phase d'industralisation
+    - dates
+    - quelles sont les composantes de l'industrialisation
+
+- industrialisation
+    - quelles sont les 2 composantes de la mécanisation du travail
+    - qu'est ce que cela rend possible économiquement
+
+- réseau de transport
+    - que permet le réseau de transport
+    - quels sont les avantages du chemin de fer
+
+- agriculture
+    - quels sont les avantages de ce secteur
+
+- condition de travail des ouvriers
+    - quels sont les 2 groupes sociales qui apparaissent
+    - quand sont les syndicats légalisés
+    - quels sont les conséquences qu'apporte le gouvernement
+
