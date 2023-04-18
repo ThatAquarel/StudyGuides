@@ -46,6 +46,9 @@
 - familles d'éléments
     - all
 
+- liaisons chimiques
+    - liaison chimique
+
 ## Hqc
 - acte union
     - cause
@@ -157,3 +160,19 @@
     - quand sont les syndicats légalisés
     - quels sont les conséquences qu'apporte le gouvernement
 
+- mouvements de population
+    - au québec, quelles sont les causes
+    - comment appelle-t-on ce phénomène
+
+- installation en ville
+    - quelles sont les conséquences de ces conditions
+
+- immigration
+    - quelle est la cause de l'immigration de masse
+    - que peut-o dire du bilan migratoire
+
+- présence de l'église catholique
+    - que tente-elle
+
+- contrôle de l'éducation
+    - quelle est la conséquence
