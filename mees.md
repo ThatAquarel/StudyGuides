@@ -49,6 +49,21 @@
 - liaisons chimiques
     - liaison chimique
 
+- électrolytes
+    - types de dissolutions
+
+- types d'électrolytes
+    - all
+
+- categories de réactions chimiques
+    - all
+
+- oxydation / combustion
+    - conditions nécessaires à la combustion
+
+- neutralisation acidobasique
+    - types de neutralisations
+
 ## Hqc
 - acte union
     - cause
@@ -176,3 +191,28 @@
 
 - contrôle de l'éducation
     - quelle est la conséquence
+
+- ultramontanisme
+    - personnage important
+
+- anticléricanisme
+    - quel est la réaction de l'église face à ce mouvement
+    - quel parti politique représente ce courant de pensée
+
+- rôle des femmes
+    - quel mouvement de pensée débute
+    - quel sont les buts
+    - quelle est la première étape
+
+- culture
+    - quels sont les éléments culturels
+
+- littérature
+    - quels sont les 2 types de littérature
+
+- gouvernement
+    - qui
+    - quand
+
+- causes
+    - all
