@@ -64,6 +64,10 @@
 - neutralisation acidobasique
     - types de neutralisations
 
+- échanges de chaleur
+
+- types de déformation
+
 ## Hqc
 - acte union
     - cause
@@ -214,5 +218,20 @@
     - qui
     - quand
 
+- statut du canada dans l'empire britannique
+
 - causes
     - all
+
+- conséquences
+    - all
+
+- rôle de l'état
+
+- mouvement syndical
+    - conséquences gouvernementales
+    - convention collective
+
+- action sociale de l'église catholique
+    - organisation syndicale américaine
+    
