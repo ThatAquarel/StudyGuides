@@ -68,6 +68,9 @@
 
 - types de déformation
 
+- céramiques
+    - propriétés
+
 ## Hqc
 - acte union
     - cause
@@ -235,3 +238,25 @@
 - action sociale de l'église catholique
     - organisation syndicale américaine
     
+- coopératisme
+    - cause
+    - point de vue de l'Église
+    - exemple
+
+- services aux citoyen
+
+- éducation
+    - problèmes du système scolaire
+    - conséquences
+
+- lutte des femmes
+    - luttes
+    - qui revendiquent le droit de vote
+    - qui est contre
+
+- caractéristiques
+    - élément déclencheur
+    - bélligérents
+    - contributions du canada
+    - sources de conflit au canada
+    - condition des immigrants et ennemis
