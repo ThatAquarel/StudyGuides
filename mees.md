@@ -71,6 +71,13 @@
 - céramiques
     - propriétés
 
+- plastiques
+    - composition
+
+- dessins techiniques
+    - dessins
+    - schémas
+
 ## Hqc
 - acte union
     - cause
@@ -260,3 +267,11 @@
     - contributions du canada
     - sources de conflit au canada
     - condition des immigrants et ennemis
+
+- conséquences
+    - soldats
+
+- années folles
+    - culture
+
+- grande dépression
