@@ -77,6 +77,13 @@
 - dessins techiniques
     - dessins
     - schémas
+    
+- projections
+    - projections
+    - vues
+
+- liaisons
+    - liaisons
 
 ## Hqc
 - acte union
@@ -275,3 +282,12 @@
     - culture
 
 - grande dépression
+
+- causes
+
+- déroulement
+    - chaine de causes conséquences
+
+- conséquences
+
+- idéologies sociopolitiques
