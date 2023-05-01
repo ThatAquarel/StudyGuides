@@ -88,6 +88,9 @@
 - adhérence
     - facteurs
 
+- magnétisme
+    - caractéristique d'un matériau magnétisé
+
 ## Hqc
 - acte union
     - cause
@@ -314,3 +317,7 @@
 - 2e guerre mondiale
     - loi sur les mesures de guerre
     - contributions du canada
+
+- gouvernement godbout
+    - quoi
+    - mesures
