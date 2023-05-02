@@ -91,6 +91,10 @@
 - magnétisme
     - caractéristique d'un matériau magnétisé
 
+- charge élémentaire
+    - proton
+    - électron
+
 ## Hqc
 - acte union
     - cause
