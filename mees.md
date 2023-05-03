@@ -95,6 +95,9 @@
     - proton
     - électron
 
+- composantes
+    - D
+
 ## Hqc
 - acte union
     - cause
