@@ -98,6 +98,12 @@
 - composantes
     - D
 
+- ions polyatomiques
+
+- photosynthesis and resp cellular equations
+
+- croisements puett
+
 ## Hqc
 - acte union
     - cause
