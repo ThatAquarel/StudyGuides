@@ -105,6 +105,8 @@
 - croisements puett
 
 ## Hqc
+
+### Chapitre 1
 - acte union
     - cause
     - conséquence
@@ -117,9 +119,13 @@
     - structure politique
     - que vas t-il arriver au 2 partise
 
-	écnonomie
+- écnonomie
     - de quoi profitent les marchands dès le début du régime britannique
     - quand est ce que la grande-bretagne va mettre fin
+
+- gouvernement responsable
+    - quels sont les positifs
+    - quel est le négatif
 
 - difficultés politiques / instailité
     - partis politiques du haut-canada
@@ -232,6 +238,9 @@
 - contrôle de l'éducation
     - quelle est la conséquence
 
+- nationalisme de survivance
+    - quels sont les désirs
+
 - ultramontanisme
     - personnage important
 
@@ -250,9 +259,14 @@
 - littérature
     - quels sont les 2 types de littérature
 
+- études supérieurs
+
+### Chapitre 2
+
 - gouvernement
     - qui
     - quand
+    - que fait wilfrid laurier
 
 - statut du canada dans l'empire britannique
 
