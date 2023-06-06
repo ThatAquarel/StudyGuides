@@ -351,6 +351,48 @@
 
 ### Chapitre 3
 
+- guerre froide
+    - séparation de l'allemagne
 
+- gouvernement fédéral
+    - conséquence économique de WW2
+    - solutions du fédéral
+
+- gouvernement provincial
+    - qui
+    - sections
+
+- autonomie provinciale
+    - valeurs défendus
+    - différente idéologie
+    - exemples des actions posés par duplessis
+
+- développement économique
+    - par quoi sont attirés les investisseurs américains
+    - à qui accorde duplessis une grande importance
+
+- politiqes sociales
+    - problmèes en éducation
+
+- mouvements de contestation
+    - de quoi sont partisans les artistes et intellectuels
+
+- émergence d'une société de consommation
+    - apparition progressive
+    - nouveau phénomène économique
+
+- croissance de la population
+    - causes de la croissance
+    - causes de l'augmentation du taux de natalité
+
+- nouveaux arrivants et communautés culturelles
+    - source des immigrants
+    - préférence du gouv canadien
+
+- pensionnats indiens au Québec
+    - quand
+    - conséquence
+    - changement des pensionnats
+    1
 
 ### Chapitre 4
