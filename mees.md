@@ -480,5 +480,35 @@
     - quoi
 
 - relations entre québec et ottawa
+    - causes
+    - conséquence
+    - résultats
+    - actions
+    - précision
+
+- dénatalité
+    - causes
+
+- immigration
+    - québec
+
+- investissements publiques
+
+- transformations industrielles et économiques
+    - causes
+
+- développement des agglomérations urbaines
+    - conséquence
+
+- bébé-boumeurs
+    - conséquence
+    - définition
+
+- remise en question
+    - conséquence
+
+- droit des femmes
+    - revendications
+    - avancées féministes
 
 ### Chapitre 4
