@@ -104,6 +104,49 @@
 
 - croisements puett
 
+- dégradation des sols
+    - acidification des sols causes
+    - conséquences
+    - épuisement des sols
+        - causes
+
+- pergélisol
+    - mollisol
+    - conséquences de la fonte du pergélisol
+
+- atmosphère
+    - origine des gaz
+
+- circulation atmosphérique
+    - que permet-il
+
+- bassins versants
+    - facteurs
+
+- vents dominants
+
+- anticyclone dépression
+
+- hydrosphère
+    - conséquence de la fonte
+
+- circulation océanique
+    - facteurs de la circulation océanique
+    - ciruclation océanique
+
+- activités humaines
+    - réchauffement climatique
+    - effet de serre renforcé
+
+- contaminants de l'atmosphère
+    - contaminants
+
+- contaminants de l'hydrosphère
+    - contaminants
+    - autre contaminant que chimique
+    - formule
+
+
 ## Hqc
 
 ### Chapitre 1
@@ -393,6 +436,49 @@
     - quand
     - conséquence
     - changement des pensionnats
-    1
+
+- conséquence de l'exploitation des ressources naturelles sur les communautés autochtones 
+    - ou
+
+- droit de vote chez les autochtones
+    - fin de la restriction
+
+- situation des inuits
+    - quoi
+
+- éducation
+    - qui d'autre dénonce cette situation
+
+- mesures d'affirmation
+
+- nationalisme économique
+    - que cherche le gouvernement lesage
+    - quelles sont les interventions de l'État
+    - quand
+    - résultats
+        - économiques
+
+- affirmation québécois
+    - arts québécois
+
+- relations à l'étranger
+    - conséquence
+
+- modernisation de l'état
+    - perspective des syndicats
+
+- gouvernement provincial
+    - actions
+
+- effets de la révolution tranquille
+
+- néonationalisme québécois
+    - définition
+
+- création du parti québécois
+    - quand
+    - quoi
+
+- relations entre québec et ottawa
 
 ### Chapitre 4
