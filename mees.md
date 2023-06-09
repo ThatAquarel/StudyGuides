@@ -511,4 +511,71 @@
     - revendications
     - avancées féministes
 
+- gouvernement provincial
+    - qui
+    - quand
+
+- avancées sociales
+
+- affirmation des nations autochtones
+
+- affirmatino politique
+
+- tensions sociopolitiques et économiques
+
+- militantisme syndical
+    - réaction législation
+
+- revendications féministes
+    - quoi
+
+- revendication féministes
+    - conséquences
+    - revendications
+
+- protection de la langue française
+    - législation
+
+- mouvements artistiques engagés
+
+- multiculturalisme
+    - gouvernement fédéral
+    - canada
+
+- protection de la langue française
+    - conséquence provincial
+    - réaction
+
+- ralentissement économique
+    - conséquence
+    - conséquence population
+
 ### Chapitre 4
+
+- statut politique du québec au canada
+    - conséquence mouvements
+
+- référendum souveraineté association
+    - qui
+
+- négociations constitutionelles
+    - qui
+    - résultats élections provinciales
+
+- actions post-référendaires
+    - qui
+
+- droit des autochtones
+    - quoi
+
+- crise d'oka
+    - quand
+
+- reconnaissance des nations autochtones et de leurs droits
+    - quand
+
+- appartenance ethnoculturelle
+    - conséquence religion
+
+- politique familiale
+    - conséquence
