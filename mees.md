@@ -579,3 +579,38 @@
 
 - politique familiale
     - conséquence
+
+- préoccupations environnementales
+    - conséquences
+    - conséquences développement économique canada
+
+- exploitation des ressources
+
+- question linguistique
+    - débats
+
+- politique culturelle du Québec
+    - quand
+    - volets
+    - prévoit
+
+- financement de la culture
+    - au québec
+
+- accords de libre-échange
+    - canada
+
+- récession
+
+- redéfinition du rôle de l'état
+    - cause
+
+- actions des gouvernements pour réduire la dette
+
+- économie et justice sociale
+
+- économie et justice sociale
+    - réponse du gouvernement
+
+- économie sociale
+    - quoi
