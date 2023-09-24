@@ -142,5 +142,20 @@
 		"body": [
 			"≥"
 		]
+	},
+	"monde": {
+		"prefix": "quiouquandquoi",
+		"body": [
+			"Qui.",
+			"Où.",
+			"Quand.",
+			"Quoi.",
+			"Pourquoi.",
+			"Comment."
+		]
+	},
+	"quote": {
+		"prefix": "quote",
+		"body": "«$1»"
 	}
 }
