@@ -157,5 +157,13 @@
 	"quote": {
 		"prefix": "quote",
 		"body": "«$1»"
+	},
+	"squared": {
+		"prefix": "squared",
+		"body": "$1²"
+	},
+	"cubed": {
+		"prefix": "cubed",
+		"body": "$1³"
 	}
 }
