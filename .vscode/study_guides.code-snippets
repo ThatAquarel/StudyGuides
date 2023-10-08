@@ -165,5 +165,13 @@
 	"cubed": {
 		"prefix": "cubed",
 		"body": "$1³"
+	},
+	"theta": {
+		"prefix": "theta",
+		"body": "θ"
+	},
+	"lambda": {
+		"prefix": "lambda",
+		"body": "λ"
 	}
 }
