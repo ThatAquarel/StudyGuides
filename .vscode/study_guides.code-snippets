@@ -173,5 +173,9 @@
 	"lambda": {
 		"prefix": "lambda",
 		"body": "λ"
+	},
+	"approx": {
+		"prefix": "approx",
+		"body": "≈"
 	}
 }
