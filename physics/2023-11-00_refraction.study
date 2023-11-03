@@ -38,7 +38,21 @@ Formule. n = v1/v2 = n2/n1
 
 !Situations de réfraction
 Vers un milieu avec une indice de réfraction plus élevée.
+- Rayon réfracté. Rapproche de la normale.
+- Indice de réfraction. n1 < n2
+- Vitesse. v1 > v2
 Vers un milieu avec une indice de réfraction plus faible.
+- Rayon réfracté. S'éloigne de la normale.
+- Indice de réfraction. n1 > n2
+- Vitesse. v1 < v2
 Passage à travers deux milieux identiques.
+- Rayon réfracté. θ1 = θ2
+- Indice de réfraction. n1 = n2.
+- Vitesse. v1 = v2.
+Rayon incident frappe la surface perpendiculairement.
+- Rayon réfracté. Pas dévié.
+- Vitesse. Modifiée.
 
-!Loi de la r
+!Loi de la réfraction (Snell-Descartes)
+Formule. n1 · sinθ1 = n2 · sinθ2
+Rapport complet. sinθ1/sinθ2 = n2/n1 = v1/v2
