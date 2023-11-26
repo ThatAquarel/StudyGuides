@@ -523,8 +523,7 @@ Flourish. They exit.
 ## Scene 5
 Enter Macbeth’s Wife, alone, with a letter.
 
-
- MACBETH, reading the letter  They met me in the
+, reading the letter  They met me in the
 day of success, and I have learned by the perfect’st
 report they have more in them than mortal knowledge.
 When I burned in desire to question them further, they
@@ -564,7 +563,7 @@ What is your tidings?
  
 The King comes here tonight.
 
- MACBETH  Thou ’rt mad to say it.
+  Thou ’rt mad to say it.
 Is not thy master with him, who, were ’t so,
 Would have informed for preparation?
 
@@ -574,7 +573,7 @@ One of my fellows had the speed of him,
 Who, almost dead for breath, had scarcely more
 Than would make up his message.
 
- MACBETH  Give him tending.
+  Give him tending.
 He brings great news.Messenger exits.
 The raven himself is hoarse
 That croaks the fatal entrance of Duncan
@@ -605,12 +604,12 @@ The future in the instant.
   My dearest love,
 Duncan comes here tonight.
 
- MACBETH  And when goes hence?
+  And when goes hence?
 
  
 Tomorrow, as he purposes.
 
- MACBETH  O, never
+  O, never
 Shall sun that morrow see!
 Your face, my thane, is as a book where men
 May read strange matters. To beguile the time,
@@ -626,7 +625,7 @@ Give solely sovereign sway and masterdom.
  
 We will speak further.
 
- MACBETH  Only look up clear.
+  Only look up clear.
 To alter favor ever is to fear.
 Leave all the rest to me.
 They exit.
@@ -662,7 +661,7 @@ Which still we thank as love. Herein I teach you
 How you shall bid God ’ild us for your pains
 And thank us for your trouble.
 
- MACBETH  All our service,
+  All our service,
 In every point twice done and then done double,
 Were poor and single business to contend
 Against those honors deep and broad wherewith
@@ -678,7 +677,7 @@ him
 To his home before us. Fair and noble hostess,
 We are your guest tonight.
 
- MACBETH  Your servants ever
+  Your servants ever
 Have theirs, themselves, and what is theirs in compt
 To make their audit at your Highness’ pleasure,
 Still to return your own.
@@ -731,14 +730,14 @@ Enter Lady Macbeth.
 
 How now, what news?
 
- MACBETH 
+ 
 He has almost supped. Why have you left the
 chamber?
 
  
 Hath he asked for me?
 
- MACBETH  Know you not he has?
+  Know you not he has?
 
  
 We will proceed no further in this business.
@@ -747,7 +746,7 @@ Golden opinions from all sorts of people,
 Which would be worn now in their newest gloss,
 Not cast aside so soon.
 
- MACBETH  Was the hope drunk
+  Was the hope drunk
 Wherein you dressed yourself? Hath it slept since?
 And wakes it now, to look so green and pale
 At what it did so freely? From this time
@@ -763,7 +762,7 @@ Like the poor cat i’ th’ adage?
 I dare do all that may become a man.
 Who dares do more is none.
 
- MACBETH  What beast was ’t,
+  What beast was ’t,
 then,
 That made you break this enterprise to me?
 When you durst do it, then you were a man;
@@ -781,7 +780,7 @@ Have done to this.
 
   If we should fail—
 
- MACBETH  We fail?
+  We fail?
 But screw your courage to the sticking place
 And we’ll not fail. When Duncan is asleep
 (Whereto the rather shall his day’s hard journey
@@ -803,7 +802,7 @@ When we have marked with blood those sleepy two
 Of his own chamber and used their very daggers,
 That they have done ’t?
 
- MACBETH  Who dares receive it other,
+  Who dares receive it other,
 As we shall make our griefs and clamor roar
 Upon his death?
 
