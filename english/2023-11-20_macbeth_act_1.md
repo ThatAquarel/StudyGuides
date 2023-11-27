@@ -544,18 +544,18 @@ To catch the nearest way. Thou wouldst be great,
 Art not without ambition, but without
 The illness should attend it. What thou wouldst
 highly,
-That wouldst thou holily; wouldst not play false
-And yet wouldst wrongly win. Thou ’dst have, great
-Glamis,
-That which cries “Thus thou must do,” if thou have
-it,
-And that which rather thou dost fear to do,
-Than wishest should be undone. Hie thee hither,
-That I may pour my spirits in thine ear
-And chastise with the valor of my tongue
-All that impedes thee from the golden round,
-Which fate and metaphysical aid doth seem
-To have thee crowned withal.
+                                                        That wouldst thou holily; wouldst not play false
+                                                        And yet wouldst wrongly win. Thou ’dst have, great
+                                                        Glamis,
+                                                        That which cries “Thus thou must do,” if thou have
+                                                        it,
+                                                        And that which rather thou dost fear to do,
+                                                        Than wishest should be undone. Hie thee hither,
+                                                        That I may pour my spirits in thine ear
+                                                        And chastise with the valor of my tongue
+                                                        All that impedes thee from the golden round,
+                                                        Which fate and metaphysical aid doth seem
+                                                        To have thee crowned withal.
 Enter Messenger.
 
 What is your tidings?
@@ -575,23 +575,27 @@ Than would make up his message.
 
   Give him tending.
 He brings great news.Messenger exits.
-The raven himself is hoarse
-That croaks the fatal entrance of Duncan
-Under my battlements. Come, you spirits
-That tend on mortal thoughts, unsex me here,
-And fill me from the crown to the toe top-full
-Of direst cruelty. Make thick my blood.
-Stop up th’ access and passage to remorse,
-That no compunctious visitings of nature
-Shake my fell purpose, nor keep peace between
-Th’ effect and it. Come to my woman’s breasts
-And take my milk for gall, you murd’ring ministers,
-Wherever in your sightless substances
-You wait on nature’s mischief. Come, thick night,
-And pall thee in the dunnest smoke of hell,
-That my keen knife see not the wound it makes,
-Nor heaven peep through the blanket of the dark
-To cry “Hold, hold!”
+                                                        The raven himself is hoarse
+                                                        That croaks the fatal entrance of Duncan
+                                                        Under my battlements.
+                                                            Come, you spirits
+                                                            That tend on mortal thoughts,
+                                                            unsex me here,
+                                                        And fill me from the crown to the toe top-full
+                                                        Of direst cruelty. Make thick my blood.
+                                                        Stop up th’ access and passage to remorse,
+                                                        That no compunctious visitings of nature
+                                                        Shake my fell purpose, nor keep peace between
+                                                        Th’ effect and it.
+                                                            Come to my woman’s breasts
+                                                            And take my milk for gall, you murd’ring ministers,
+                                                            Wherever in your sightless substances
+                                                            You wait on nature’s mischief.
+                                                    Come, thick night,
+                                                    And pall thee in the dunnest smoke of hell,
+                                                    That my keen knife see not the wound it makes,
+                                                    Nor heaven peep through the blanket of the dark
+                                                    To cry “Hold, hold!”
 
 Enter Macbeth.
 
@@ -611,27 +615,28 @@ Tomorrow, as he purposes.
 
   O, never
 Shall sun that morrow see!
-Your face, my thane, is as a book where men
-May read strange matters. To beguile the time,
-Look like the time. Bear welcome in your eye,
-Your hand, your tongue. Look like th’ innocent
-flower,
-But be the serpent under ’t. He that’s coming
+                                                    Your face, my thane, is as a book where men
+                                                    May read strange matters. To beguile the time,
+                                                    Look like the time. Bear welcome in your eye,
+                                                    Your hand, your tongue. Look like th’ innocent
+                                                    flower,
+                                                    But be the serpent under ’t.
+He that’s coming
 Must be provided for; and you shall put
 This night’s great business into my dispatch,
-Which shall to all our nights and days to come
-Give solely sovereign sway and masterdom.
+                                                        Which shall to all our nights and days to come
+                                                        Give solely sovereign sway and masterdom.
 
  
 We will speak further.
 
-  Only look up clear.
-To alter favor ever is to fear.
+                                                        Only look up clear.
+                                                        To alter favor ever is to fear.
 Leave all the rest to me.
 They exit.
 
 
-Scene 6
+## Scene 6
 Hautboys and Torches. Enter King Duncan, Malcolm,
 Donalbain, Banquo, Lennox, Macduff, Ross, Angus, and
 Attendants.
@@ -655,19 +660,20 @@ The air is delicate.
 Enter Lady Macbeth.
 
 
-  See, see our honored hostess!—
-The love that follows us sometime is our trouble,
-Which still we thank as love. Herein I teach you
-How you shall bid God ’ild us for your pains
-And thank us for your trouble.
+                                                            See, see our honored hostess!—
+                                                            The love that follows us sometime is our trouble,
+                                                            Which still we thank as love. Herein I teach you
+                                                            How you shall bid God ’ild us for your pains
+                                                            And thank us for your trouble.
 
-  All our service,
-In every point twice done and then done double,
-Were poor and single business to contend
-Against those honors deep and broad wherewith
-Your Majesty loads our house. For those of old,
-And the late dignities heaped up to them,
-We rest your hermits.
+                                                                All our service,
+                                                                In every point twice done and then done double,
+                                                                Were poor and single business to contend
+                                                                Against those honors deep and broad wherewith
+                                                                Your Majesty loads our house.
+                                                            For those of old,
+                                                            And the late dignities heaped up to them,
+                                                            We rest your hermits.
 
   Where’s the Thane of Cawdor?
 We coursed him at the heels and had a purpose
@@ -690,7 +696,7 @@ By your leave, hostess.
 They exit.
 
 
-Scene 7
+## Scene 7
 Hautboys. Torches. Enter a Sewer and divers Servants
 with dishes and service over the stage. Then enter
 Macbeth.
@@ -698,12 +704,14 @@ Macbeth.
 
  
 If it were done when ’tis done, then ’twere well
-It were done quickly. If th’ assassination
-Could trammel up the consequence and catch
-With his surcease success, that but this blow
-Might be the be-all and the end-all here,
-But here, upon this bank and shoal of time,
-We’d jump the life to come. But in these cases
+It were done quickly.
+If th’ assassination
+                                                        Could trammel up the consequence and catch
+                                                        With his surcease success, that but this blow
+                                                        Might be the be-all and the end-all here,
+                                                        But here, upon this bank and shoal of time,
+                                                        We’d jump the life to come.
+But in these cases
 We still have judgment here, that we but teach
 Bloody instructions, which, being taught, return
 To plague th’ inventor. This even-handed justice
@@ -746,11 +754,12 @@ Golden opinions from all sorts of people,
 Which would be worn now in their newest gloss,
 Not cast aside so soon.
 
-  Was the hope drunk
-Wherein you dressed yourself? Hath it slept since?
-And wakes it now, to look so green and pale
-At what it did so freely? From this time
-Such I account thy love. Art thou afeard
+                                                        Was the hope drunk
+                                                        Wherein you dressed yourself? Hath it slept since?
+                                                        And wakes it now, to look so green and pale
+                                                        At what it did so freely? From this time
+                                                        Such I account thy love.
+Art thou afeard
 To be the same in thine own act and valor
 As thou art in desire? Wouldst thou have that
 Which thou esteem’st the ornament of life
@@ -767,8 +776,9 @@ then,
 That made you break this enterprise to me?
 When you durst do it, then you were a man;
 And to be more than what you were, you would
-Be so much more the man. Nor time nor place
-Did then adhere, and yet you would make both.
+Be so much more the man.
+                                                        Nor time nor place
+                                                        Did then adhere, and yet you would make both.
 They have made themselves, and that their fitness
 now
 Does unmake you. I have given suck, and know
@@ -808,121 +818,7 @@ Upon his death?
 
   I am settled and bend up
 Each corporal agent to this terrible feat.
-Away, and mock the time with fairest show.
-False face must hide what the false heart doth
-know.
+                                                Away, and mock the time with fairest show.
+                                                False face must hide what the false heart doth
+                                                know.
 They exit.
-
-
-
-
- 2
-Scene 1
-Enter Banquo, and Fleance with a torch before him.
-
-
-  How goes the night, boy?
-
- 
-The moon is down. I have not heard the clock.
-
-  And she goes down at twelve.
-
-  I take ’t ’tis later, sir.
-
- 
-Hold, take my sword.He gives his sword to Fleance.
-There’s husbandry in heaven;
-Their candles are all out. Take thee that too.
-A heavy summons lies like lead upon me,
-And yet I would not sleep. Merciful powers,
-Restrain in me the cursèd thoughts that nature
-Gives way to in repose.
-
-Enter Macbeth, and a Servant with a torch.
-
-Give me my sword.—Who’s
-there?
-
-  A friend.
-
- 
-What, sir, not yet at rest? The King’s abed.
-He hath been in unusual pleasure, and
-Sent forth great largess to your offices.
-This diamond he greets your wife withal,
-By the name of most kind hostess, and shut up
-In measureless content.
-He gives Macbeth a jewel.
-
-  Being unprepared,
-Our will became the servant to defect,
-Which else should free have wrought.
-
-  All’s well.
-I dreamt last night of the three Weïrd Sisters.
-To you they have showed some truth.
-
-  I think not of
-them.
-Yet, when we can entreat an hour to serve,
-We would spend it in some words upon that
-business,
-If you would grant the time.
-
-  At your kind’st leisure.
-
- 
-If you shall cleave to my consent, when ’tis,
-It shall make honor for you.
-
-  So I lose none
-In seeking to augment it, but still keep
-My bosom franchised and allegiance clear,
-I shall be counseled.
-
-  Good repose the while.
-
-  Thanks, sir. The like to you.
-Banquo and Fleance exit.
-
- 
-Go bid thy mistress, when my drink is ready,
-She strike upon the bell. Get thee to bed.
-Servant exits.
-Is this a dagger which I see before me,
-The handle toward my hand? Come, let me clutch
-thee.
-I have thee not, and yet I see thee still.
-Art thou not, fatal vision, sensible
-To feeling as to sight? Or art thou but
-A dagger of the mind, a false creation
-Proceeding from the heat-oppressèd brain?
-I see thee yet, in form as palpable
-As this which now I draw.He draws his dagger.
-Thou marshal’st me the way that I was going,
-And such an instrument I was to use.
-Mine eyes are made the fools o’ th’ other senses
-Or else worth all the rest. I see thee still,
-And, on thy blade and dudgeon, gouts of blood,
-Which was not so before. There’s no such thing.
-It is the bloody business which informs
-Thus to mine eyes. Now o’er the one-half world
-Nature seems dead, and wicked dreams abuse
-The curtained sleep. Witchcraft celebrates
-Pale Hecate’s off’rings, and withered murder,
-Alarumed by his sentinel, the wolf,
-Whose howl’s his watch, thus with his stealthy pace,
-With Tarquin’s ravishing strides, towards his
-design
-Moves like a ghost. Thou sure and firm-set earth,
-Hear not my steps, which way they walk, for fear
-Thy very stones prate of my whereabouts
-And take the present horror from the time,
-Which now suits with it. Whiles I threat, he lives.
-Words to the heat of deeds too cold breath gives.
-A bell rings.
-I go, and it is done. The bell invites me.
-Hear it not, Duncan, for it is a knell
-That summons thee to heaven or to hell.
-He exits.
