@@ -109,16 +109,16 @@ Enter Ross and Angus.
 
 Who comes here?
 
-                                                    The worthy Thane of Ross.
+                                                                         The  worthy Thane of Ross.
 
-                                                    
-                                                    What a haste looks through his eyes!
-                                                    So should he look that seems to speak things
-                                                    strange.
+                                                                        
+                                                                        What a haste looks through his eyes!
+                                                                        So should he look that seems to speak things
+                                                                        strange.
 
-                                                    God save the King.
+                                                                        God save the King.
 
-                                                    Whence cam’st thou, worthy thane?
+                                                                        Whence cam’st thou, worthy thane?
 
   From Fife, great king,
 Where the Norweyan banners flout the sky
@@ -588,9 +588,9 @@ He brings great news.Messenger exits.
                                                         Shake my fell purpose, nor keep peace between
                                                         Th’ effect and it.
                                                             Come to my woman’s breasts
-                                                            And take my milk for gall, you murd’ring ministers,
-                                                            Wherever in your sightless substances
-                                                            You wait on nature’s mischief.
+                                                                                                  And take my milk for gall, you murd’ring ministers,
+                                                                                                  Wherever in your sightless substances
+                                                                                                  You wait on nature’s mischief.
                                                     Come, thick night,
                                                     And pall thee in the dunnest smoke of hell,
                                                     That my keen knife see not the wound it makes,
@@ -709,8 +709,8 @@ If th’ assassination
                                                         Could trammel up the consequence and catch
                                                         With his surcease success, that but this blow
                                                         Might be the be-all and the end-all here,
-                                                        But here, upon this bank and shoal of time,
-                                                        We’d jump the life to come.
+                                                                                                But here, upon this bank and shoal of time,
+                                                                                                We’d jump the life to come.
 But in these cases
 We still have judgment here, that we but teach
 Bloody instructions, which, being taught, return
@@ -818,7 +818,7 @@ Upon his death?
 
   I am settled and bend up
 Each corporal agent to this terrible feat.
-                                                Away, and mock the time with fairest show.
+                                                                                Away, and mock the time with fairest show.
                                                 False face must hide what the false heart doth
                                                 know.
 They exit.
