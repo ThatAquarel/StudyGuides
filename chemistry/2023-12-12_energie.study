@@ -1,1 +1,96 @@
 # Chimie Exam 2023-12-12
+!Énergie
+Énergie.
+1. Capacité de faire un travail et à provoquer un changement.
+2. Transférable, transformable.
+Énergie d'un système. Toujours conservée (Loi de la conservation de l'énergie).
+Formule. E(totale initiale) = E(totale finale).
+
+!Transferts d'énergie
+Énergie thermique. Forme d'énergie associée à l'agitation des particules.
+Température. T ≠ E.
+1. Mesure du niveau d'agitation.
+2. Indice du niveau d'énergie.
+Facteurs de la quantité d'énergie thermique.
+1. Masse (↑m ∴ ↑E).
+2. Nature (↑c ∴ ↑E).
+3. Température (↑ΔT ∴ ↑E).
+Capacité thermique massique.
+1. Énergie associée à une variation de température de ±1°C par gramme de matière.
+2. Capacité à résister à une variation de température (↑c ∴ ↑R).
+Valeurs théoriques
+- Eau. 4.19 J/g°C
+- Cuivre. 0.39 J/g°C
+Chaleur. Quantité d'énergie gagnée ou perdue par un corps (variation).
+- Symbole. Q (J).
+- Direction de transfert. Corps le plus chaud → Corps le plus froid.
+- Arrêt de transfert. Lorsque la température est égale.
+- Variation d'énergie. Équivalente, mais de signe contraires (Q1 = -Q2).
+Formule. Q = mcΔT
+- Q. Variation d'énergie (J).
+- m. Masse (g).
+- c. Capacité massique thermique (J/g°C).
+- ΔT. Variation de température (°C).
+
+!Enthalpie
+Enthalpie. Énergie totale que renforme une substance ou que possède un système.
+- Symbole. H (kJ).
+- Formule des facteurs. E(t) = E(c) + E(p)
+- Facteurs. Énergie cinétique (mouvements) + Énergie potentielle (liens).
+- Quantification. ØQuantifiable.
+Variation d'enthalpie. Chaleur de réaction → Énergie gagnée ou perdue au cours d'une transformation (physique ou chimique).
+- Quantification. Quantifiable.
+- Formule. ΔH = H(P) - H(R)
+Types de transformations.
+1. Exothermique.
+- Effet sur l'enthalpie. ↓ΔH
+- Graphique d'enthalpie. Décroissant (H(R) > H(P)).
+- Formule thermochimique générale. Réactifs → Produits + E
+- Exemple. Synthèse de l'eau: 2H2(g) + O2(g) → 2H2O(l) + 586kJ
+2. Endothermique.
+- Effet sur l'enthalpie. ↑ΔH
+- Graphique d'enthalpie. Croissant (H(R) < H(P)).
+- Formule thermochimique générale. Réactifs + E → Produits
+- Exemple. Fusion: H2O(s) + 6kJ → H2O(l)
+
+!Transformations
+Types de transformations.
+A. Physique (Nature ne change pas, propriétés conservées).
+B. Chimique (Nature change, propriétés modifiées).
+1. Endothermique (Réaction qui absorbe de l'énergie pour se produire → ↓T(milieu)).
+2. Exothermique (Réaction qui dégage de l'énergie pour se produire → ↑T(milieU)).
+Déterminer expérimentalement. ΔT du milieu indique si la transformation est endothermique ou exothermique.
+Phénomènes physiques.
+- Endothermique. Changements de phase (fusion, vaporisation, sublimation), dissolutions, dilutions.
+- Exothermique. Changements de phase (condensation liquide, solidification, condensation solide)), dissolutions, dilutions.
+Phénomènes chimiques.
+- Endothermique. Analyse, photosynthèse, carbonisation.
+- Exothermique. Synthèse, respiration cellulaire, neutralisations, combustions, oxydations.
+
+!Phénomènes physiques
+Changements de phases. Endothermique ou exothermique.
+- Solide → Liquide. (Endo, +E) Fusion.
+- Liquide → Gazeux. (Endo, +E) Vaporisation.
+- Solide → Gazeux. (Endo, +E) Sublimation.
+- Gazeux → Liquide. (Exo, -E) Condensation liquide.
+- Liquide → Solide. (Exo, -E) Solidification.
+- Gazeux → Solide. (Exo, -E) Condensation solide.
+Dissolutions. Endothermique ou exothermique.
+- Exemple endothermique. NH4Cl(s) + E → NH4+(aq) + Cl-(aq)
+- Exemple exothermique. NaOH(s) → Na+(aq) + OH-(aq) + E
+Dilutions. Endothermique ou exothermique.
+- Exemple exothermique. Alcool et eau.
+
+!Phénomènes chimiques
+Neutralisations. Exothermique.
+1. Acidobasique: acide + base → sel + H2O + E
+2. Carbonate: acide + carbonate → sel + H2O + CO2 + E
+3. Métal: acide + métal → sel + H2 + E
+Analyse. Endothermique (décomposition de complexe à simple).
+- Exemple. H2O + E → H2 + 1/2 O2
+Synthèse. Exothermique (formation de simple à complexe).
+- Exemple. 4Fe + 3O2 → 2Fe2O3 + E
+Oxydation. Exothermique.
+- Exemple. 2Cu(s) + O2(g) → 2CuO(s) + E
+Combustion. Exothermique.
+- Exemple. CH4(g) + 2O2(g) → CO2(g) + 2H2O(g) + E
