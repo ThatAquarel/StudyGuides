@@ -177,5 +177,9 @@
 	"approx": {
 		"prefix": "approx",
 		"body": "≈"
+	},
+	"notequal": {
+		"prefix": "notequal",
+		"body": "≠"
 	}
 }
