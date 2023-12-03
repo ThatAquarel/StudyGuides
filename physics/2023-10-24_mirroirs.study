@@ -41,22 +41,22 @@ Facteurs qui influencent la grandeur du champ de vision.
 
 !Miroirs courbes
 Miroir courbe. Moceau d'une sphère creuse polie de manière à réfléchir la lumière.
-1. Miroir concave (convergent).
-2. Miroir convexe (divergent).
-Axe principal. Droite passant par C, F et S.
+1. Miroir convergent (concave).
+2. Miroir divergent (convexe).
+Axe principal. Droite passant par C, F et S (perpendiculaire au miroir).
 Sommet (S). Point d'intersection entre l'axe principal et le miroir.
 Foyer (F). Point sur l'axe d'une image d'un objet situé à l'infini.
 Distance focale (f). Distance entre F et S (mesurée sur l'axe principal).
 Centre de courbure (C). Centre du cercle d'où provient la surface réfléchissante courbée.
-Rayon de courbure (R). Distance entre C et S (mesurée sur l'axe principal).
+Rayon de courbure (R). Distance entre C et S (mesuré sur l'axe principal).
 Normale. Point d'incidence à C.
 Relations.
 - Rayons. Obéissent à la loi de la réflexion (θi = θr).
 - Courbure. R = 2f (mCS = 2 · mFS).
 
-!Miroir concave
-Miroir concave. Intérieur d'une sphère creuse polie de manière à réfléchir la lumière.
-Lumière. Convergente.
+!Miroir convergent
+Miroir convergent. Intérieur d'une sphère creuse polie de manière à réfléchir la lumière.
+Forme. Concave.
 Principaux rayons.
 1. Rayon incident parallèle à l'axe → Rayon réfléchi passant par F.
 2. Rayon incident passant par F → Rayon réfléchi parallèle à l'axe.
@@ -70,9 +70,9 @@ Position objet vs image.
 - Objet en F. di = +(infini), hi = -(infini)
 - Objet entre F et S. di = -(derrière), hi = +(≥ho)
 
-!Miroir convexe
-Miroir convexe. Extérieur d'une sphère creuse polie de manière à réfléchir la lumière.
-Lumière. Divergente.
+!Miroir divergent
+Miroir divergent. Extérieur d'une sphère creuse polie de manière à réfléchir la lumière.
+Forme. Convexe.
 Principaux rayons.
 1. Rayon incident parallèle à l'axe → Rayon réfléchi provenant de F.
 2. Rayon incident se dirigeant à F → Rayon réfléchi parallèle à l'axe.
