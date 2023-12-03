@@ -25,6 +25,21 @@ Distance focale (f). Distance entre F et O (mesurée sur l'axe principal).
 Centre de courbure (C). Centre du cercle d'où provient l'un des dioptres courbes.
 Rayon de courbure (R). Distance entre C et la surface du dioptre (rayon du cercle formé) (mesuré sur l'axe principal).
 
+!Fonction des lentilles
+Facteurs qui influencent la fonction des lentilles.
+1. Rayon de courbure (f ∝ R, ↑courbure ∴ ↓f, ↑rayon ∴ ↑f).
+2. Indice de réfraction de la lentille (f ∝ 1/n, ↑indice ∴ ↓f).
+3. Indice de réfraction du milieu (f ∝ n(milieu), ↑indice ∴ ↑f).
+&./2023-12-06_lentilles/fonctions.png
+Fonction des dioptres.
+A. Biconvexe (C, C, C+)
+B. Biconcave (D, D, C+)
+C. Ménisque convergent (C, D-, C)
+D. Ménisque convergent (D-, C, C)
+E. Ménisque divergent (D, C-, D)
+F. Plan concave (D, Ø, D(+))
+G. Plan convexe (Ø, C, C(+))
+
 !Lentille convergente
 Lentille convergente. Lentille qui réfracte les rayons lumineux parallèles de façon à les rapprocher les uns de autres.
 Forme. Généralement convexe.
@@ -36,12 +51,12 @@ Principaux rayons.
 2. Rayon incident passant par F' → Rayon réfracté parallèle à l'axe.
 3. Rayon incident passant par O → Rayon réfracté sans déviation.
 Position objet vs image.
--
--
--
--
--
--
+- Objet à l'infini. di = +(en F), hi = -(minuscule)
+- Objet au delà de 2F'. di = +(entre F et 2F), hi = -(<ho)
+- Objet en 2F'. di = +(en 2F), hi = -(ho)
+- Objet entre 2F' et F'. di = +(au delà de 2F), hi = -(>ho)
+- Objet en F'. di = +(infini), hi = -(infini)
+- Objet entre F' et O. di = -(même côté), hi = +(≥ho)
 
 !Lentille divergente
 Lentille divergente. Lentille qui réfracte les rayons luminieux parallèles de façon à les éloigner les uns des autres.
@@ -54,6 +69,6 @@ Principaux rayons.
 2. Rayon incident se dirigeant vers F' → Rayon réfracté parallèle à l'axe.
 3. Rayon incident passant par O → Rayon réfracté sans déviation.
 Position objet vs image.
--
--
--
+- Objet à l'infini. di = -(en F), hi = +(minuscule).
+- Objet loin. di = -(proche de F), hi = +(petit).
+- Objet proche. di = -(proche de O), hi = +(proche de ho).

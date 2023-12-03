@@ -99,8 +99,8 @@ Types d'image.
 !Convention des signes
 Variables.
 f. Distance focale (m).
-(+). Miroir convergent (concave).
-(-). Miroir divergent (convexe).
+(+). Lentille / miroir convergent (concave).
+(-). Lentille / miroir divergent (convexe).
 do. Distance objet-miroir (m).
 (+). Réel.
 ho. Hauteur de l'objet (m).
