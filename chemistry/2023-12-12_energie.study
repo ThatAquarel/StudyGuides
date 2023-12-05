@@ -87,10 +87,33 @@ Neutralisations. Exothermique.
 2. Carbonate: acide + carbonate → sel + H2O + CO2 + E
 3. Métal: acide + métal → sel + H2 + E
 Analyse. Endothermique (décomposition de complexe à simple).
-- Exemple. H2O + E → H2 + 1/2 O2
+- Exemple eau. H2O + E → H2 + 1/2 O2
 Synthèse. Exothermique (formation de simple à complexe).
-- Exemple. 4Fe + 3O2 → 2Fe2O3 + E
+- Exemple oxyde de fer. 4Fe + 3O2 → 2Fe2O3 + E
+- Exemple oxyde de magnésium. 2Mg + O2 → 2MgO + E
 Oxydation. Exothermique.
-- Exemple. 2Cu(s) + O2(g) → 2CuO(s) + E
+- Exemple oxyde de cuivre. 2Cu(s) + O2(g) → 2CuO(s) + E
 Combustion. Exothermique.
-- Exemple. CH4(g) + 2O2(g) → CO2(g) + 2H2O(g) + E
+- Exemple méthane. CH4(g) + 2O2(g) → CO2(g) + 2H2O(g) + E
+Photosynthèse. Endothermique.
+- Formule. 6CO2 + 6H2O + E → C6H12O6 + 6O2
+Respiration cellulaire. Exothermique.
+- Formule. C6H12O6 + 6O2 → 6CO2 + 6H2O + E
+
+!Chaleur molaire de réaction
+Chaleur molaire de réaction. Variation d'enthalpie lors d'une transformation exprimée pour:
+1. Une mole de réaction qui se transforme.
+2. Une mole de produit qui se forme.
+Symbole. ΔH
+Expression de la chaleur molaire.
+1. Signe (+endothermique, -exothermique).
+2. Unité (kJ/mol).
+3. Référence à l'une des espèces himiques de la transformation.
+
+!Équations thermiques
+Endothermique.
+- Position de l'énergie dans l'équation. Réactifs (R + E → P).
+- Signe du ΔH. Positif.
+Exothermique.
+- Position de l'énergie dans l'équation. Produits (R → P + E).
+- Signe du ΔH. Négatif.
