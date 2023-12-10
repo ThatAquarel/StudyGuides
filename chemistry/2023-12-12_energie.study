@@ -46,12 +46,17 @@ Types de transformations.
 - Effet sur l'enthalpie. ↓ΔH
 - Graphique d'enthalpie. Décroissant (H(R) > H(P)).
 - Formule thermochimique générale. Réactifs → Produits + E
-- Exemple. Synthèse de l'eau: 2H2(g) + O2(g) → 2H2O(l) + 586kJ
+- Exemple eau. Synthèse de l'eau: 2H2(g) + O2(g) → 2H2O(l) + 586kJ
 2. Endothermique.
 - Effet sur l'enthalpie. ↑ΔH
 - Graphique d'enthalpie. Croissant (H(R) < H(P)).
 - Formule thermochimique générale. Réactifs + E → Produits
-- Exemple. Fusion: H2O(s) + 6kJ → H2O(l)
+- Exemple eau. Fusion: H2O(s) + 6kJ → H2O(l)
+Graphique d'enthalpie.
+- Axe des abscisses. Temps.
+- Axe des ordonnées. H(kJ) ou H(kJ/mol).
+- Quantités à identifier. H(R), H(P) et ΔH.
+- Formule à identifier. Réactifs et produits.
 
 !Transformations
 Types de transformations.
@@ -94,3 +99,20 @@ Oxydation. Exothermique.
 - Exemple. 2Cu(s) + O2(g) → 2CuO(s) + E
 Combustion. Exothermique.
 - Exemple. CH4(g) + 2O2(g) → CO2(g) + 2H2O(g) + E
+
+!Transformations
+Étapes d'une transformation.
+1. Absorption d'énergie (bris de liens).
+2. Dégagement d'énergie (formation de nouveaux liens).
+Endothermique ou exothermique. Bilan des deux processus.
+Énergie des transformation physiques. Généralement moins d'énergie que les transformations chimiques.
+Graphique d'enthalpie.
+- Endothermique. Absorbe plus d'énergie qu'elle en dégage.
+- Exothermique. Dégage plus d'énergie qu'elle en absorbe.
+
+!Chaleur molaire de réaction
+Variation d'enthalpie. Gain ou perte d'énergie lors d'une transformation.
+Chaleur molaire de réaction. Variation d'enthalpie lkors d'une transformation exprimée pour
+1. Une mole de réactif qui se transforme.
+2. Une mole de produit qui se forme.
+Symbole et unité. ΔH (kJ/mol).
