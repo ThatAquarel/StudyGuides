@@ -1,0 +1,389 @@
+# Physics Exam 2023-12-21
+!Onde
+Onde. Une ou plusieurs déformations qui se déplacent.
+Source. Énergie.
+Caractéristiques.
+1. Amplitude (A) (m).
+- Définition. Position de repos à max ou min.
+2. Longueur d'onde (λ) (m).
+- Définition. Distance entre 2 points semblabes et consécutifs.
+3. Fréquence (f) (1/s = Hz).
+- Définition. Nombre de cycles par seconde.
+- Formule. T = 1/f.
+4. Vitesse (v) (m/s).
+- Définition. Distance parcourue en fonction du temps.
+Vitesse du son et la température. ↑T° ∴ ↑v. 
+Vitesse des ondes electromagnétiques. Célérité (c = 3x10^8 m/s).
+
+!Catégories d'ondes
+1. Onde mécanique.
+2. Onde électromagnétique.
+2-1. Ondes radios.
+2-2. Micro-ondes.
+2-3. Infrarouges.
+2-4. Lumière visible.
+2-5. Ultraviolets.
+2-6. Rayons X.
+2-6. Rayongs gamma.
+
+!Formules.
+Distance et temps. v = d/t
+Longueur d'onde et fréquence. v = λf.
+
+!Lumière
+Lumière. Onde électromagnétique visible à l'oeil nu (Lumière visible).
+Types de corps.
+1. Corps lumineux (produit de la lumière).
+2. Corps éclairé (réfléchit de la lumière).
+Comportement de la lumière sur les corps.
+1. Absorption.
+- Définition. La lumière est absorbée par un corps et transformée souvent en chaleur.
+2. Réflection.
+- Définition. La lumière est réfléchie et change de direction.
+3. Réfraction.
+- Définition. Changement de direction de la lumière lors d'un changement de milieu.
+4. Dispersion.
+- Définition. Décomposition de la lumière en fonction des longueurs d'onde du spectre.
+
+!Milieu
+Milieu.
+1. Opaque.
+- Définition. Lumière passe pas.
+2. Translucide.
+- Définition. Lumière passe partiellement.
+3. Transparent.
+- Définition. Lumière passe complètement.
+
+!Représentation de la lumière
+1. Fronts d'onde.
+2. Rayons lumineux
+
+!Propagation rectiline de la lumière
+1. Ombrage.
+- Formule. Rapports triangles semblabes.
+2. Sténopé.
+- Formule. hi / ho = di / do
+
+!Loi de réflexion
+Loi de réflexion.
+1. Rayon incident, normale, rayon réfléchi → même plan.
+2. Angle d'incidence est égale à l'angle de réflexion (θi = θr).
+Normale. Trait de construction parallèle à la surface réfléchissante.
+
+!Types de réflexion
+Types de réflexion
+1. Réflexion spéculaire.
+- Définition. Rayons parallèles réfléchis en phase.
+- Surface. Lisse.
+- Image. Nette.
+- Exemples. Miroir, eau calme, vitre, vernis.
+2. Réflexion diffuse.
+- Définition. Rayons parallèles réfléchis déphasés.
+- Surface. Rugueuse.
+- Image. Nulle.
+- Exemples. Chandail, mur, asphalte, eau agitée.
+
+!Formation des images
+Étapes.
+1. Tracer l'image de l'objet (d(o) = d(i)).
+2. Tracer le rayon réfléchi (prolongement en pointillés) à partir de l'image jusqu'à l'observateur.
+3. Tracer le rayon incident de l'objet au point d'incidence.
+
+!Caractéristiques des images formées
+Caractéristiques.
+1. P (Position → di).
+2. N (Nature → +/-).
+3. T (Taille → hi).
+4. S (Sens → +/-).
+Types d'image.
+- Réelle. Créée à la rencontre de réels rayons réfléchis → se capte sur un écran.
+- Virtuelle. Créée à la rencontre du prolongement des rayons réfléchis → Ø écran.
+
+!Champ de vision
+Champ de vision. Espace entre les deux rayons incidents (issue d'une réflexion).
+Grandeur du champ de vision. Mesure entre les deux rayons incidents, parallèlement au miroir et vis-à-vis l'observateur.
+Relation. Double de la grandeur du miroir, peu importe la position de l'observateur.
+Rayons.
+- Position. Frontière du miroir.
+- Direction. Vers l'observateur.
+Observateur. Ne fait pas toujours parti du champ de vision.
+Facteurs qui influencent le champ de vision.
+1. Largeur du miroir.
+2. Distance observateur-miroir.
+3. Déplacement latéral de l'observateur.
+Facteurs qui influencent la grandeur du champ de vision.
+1. Largeur du miroir.
+
+!Miroirs courbes
+Miroir courbe. Moceau d'une sphère creuse polie de manière à réfléchir la lumière.
+1. Miroir convergent (concave).
+2. Miroir divergent (convexe).
+Axe principal. Droite passant par C, F et S (perpendiculaire au miroir).
+Sommet (S). Point d'intersection entre l'axe principal et le miroir.
+Foyer (F). Point sur l'axe d'une image d'un objet situé à l'infini.
+Distance focale (f). Distance entre F et S (mesurée sur l'axe principal).
+Centre de courbure (C). Centre du cercle d'où provient la surface réfléchissante courbée.
+Rayon de courbure (R). Distance entre C et S (mesuré sur l'axe principal).
+Normale. Point d'incidence à C.
+Relations.
+- Rayons. Obéissent à la loi de la réflexion (θi = θr).
+- Courbure. R = 2f (mCS = 2 · mFS).
+
+!Miroir convergent
+Miroir convergent. Intérieur d'une sphère creuse polie de manière à réfléchir la lumière.
+Forme. Concave.
+Principaux rayons.
+1. Rayon incident parallèle à l'axe → Rayon réfléchi passant par F.
+2. Rayon incident passant par F → Rayon réfléchi parallèle à l'axe.
+3. Rayon incident passant par C → Rayon réfléchi passant par C.
+4. Rayon incident passant par S → Rayon réfléchi avec même angle.
+Position objet vs image.
+- Objet à l'infini. di = +(en F), hi = -(minuscule)
+- Objet au delà de C. di = +(entre C et F), hi = -(<ho)
+- Objet en C. di = +(en C), hi = -(ho)
+- Objet entre C et F. di = +(au delà de C), hi = -(>ho)
+- Objet en F. di = +(infini), hi = -(infini)
+- Objet entre F et S. di = -(derrière), hi = +(≥ho)
+
+!Miroir divergent
+Miroir divergent. Extérieur d'une sphère creuse polie de manière à réfléchir la lumière.
+Forme. Convexe.
+Principaux rayons.
+1. Rayon incident parallèle à l'axe → Rayon réfléchi provenant de F.
+2. Rayon incident se dirigeant à F → Rayon réfléchi parallèle à l'axe.
+3. Rayon incident se dirigeant à C → Rayon réfléchi provenant de C.
+4. Rayon incident passant par S → Rayon réfléchi avec même angle.
+Position objet vs image.
+- Objet à l'infini. di = -(en F), hi = +(minuscule).
+- Objet loin. di = -(proche de F), hi = +(petit).
+- Objet proche. di = -(proche de S), hi = +(proche de ho).
+
+!Lentille
+Lentille. Objet fait d'un matériau transparent:
+1. Comportant 1 ou 2 dioptres (surfaces) courbes.
+2. Pouvant former des images en faisant dévier la lumière selon la Loi de la réfraction.
+Effets d'un dioptre convexe.
+1. Air → Lentille (ralentit, rapproche de la normale, converge).
+2. Lentille → Air (accélère, s'éloigne de la normale, converge).
+Effets d'un dioptre concave.
+1. Air → Lentille (ralentit, rapproche de la normale, diverge).
+2. Lentille → Air (accélère, s'éloigne de la normale, diverge).
+Types de lentilles.
+1. Lentille convergente (biconvexe).
+2. Lentille divergente (biconcave).
+Sens. Lentilles conservent leur fonction peu importe le sens.
+Axe principal. Droite passant par C, F et O (perpendiculaire à la lentille).
+Centre optique (O). Centre géométrique de la lentille lorsqu'elle est symmétrique.
+Foyer principal (F).
+- Lentille convergente. Point sur l'axe d'où convergent les rayons réfractés.
+- Lentille divergente. Point sur l'axe d'où semblent provenir les rayons réfractés.
+Foyer secondaire (F'). Point sur l'axe qui se trouve à égal distance de la lentille que le foyer principal.
+Double de la distance focale (2F). Repère géométrique sur l'axe principal.
+Distance focale (f). Distance entre F et O (mesurée sur l'axe principal).
+- Lentilles minces. Même distance de la lentille pour les deux foyers.
+Centre de courbure (C). Centre du cercle d'où provient l'un des dioptres courbes.
+Rayon de courbure (R). Distance entre C et la surface du dioptre (rayon du cercle formé) (mesuré sur l'axe principal).
+
+!Fonction des lentilles
+Facteurs qui influencent la fonction des lentilles.
+1. Rayon de courbure (f ∝ R, ↑courbure ∴ ↓f, ↑rayon ∴ ↑f).
+2. Indice de réfraction de la lentille (f ∝ 1/n, ↑indice ∴ ↓f).
+3. Indice de réfraction du milieu (f ∝ n(milieu), ↑indice ∴ ↑f).
+&./2023-12-06_lentilles/fonctions.png
+Fonction des dioptres.
+A. Biconvexe (C, C, C+)
+B. Biconcave (D, D, C+)
+C. Ménisque convergent (C, D-, C)
+D. Ménisque convergent (D-, C, C)
+E. Ménisque divergent (D, C-, D)
+F. Plan concave (D, Ø, D(+))
+G. Plan convexe (Ø, C, C(+))
+
+!Lentille convergente
+Lentille convergente. Lentille qui réfracte les rayons lumineux parallèles de façon à les rapprocher les uns de autres.
+Forme. Généralement convexe.
+1. Lentille plan-convexe (|
+2. Lentille biconvexe ()
+3. Ménisque convergent C(
+Principaux rayons.
+1. Rayon incident parallèle à l'axe → Rayon réfracté passant par F.
+2. Rayon incident passant par F' → Rayon réfracté parallèle à l'axe.
+3. Rayon incident passant par O → Rayon réfracté sans déviation.
+Position objet vs image.
+- Objet à l'infini. di = +(en F), hi = -(minuscule)
+- Objet au delà de 2F'. di = +(entre F et 2F), hi = -(<ho)
+- Objet en 2F'. di = +(en 2F), hi = -(ho)
+- Objet entre 2F' et F'. di = +(au delà de 2F), hi = -(>ho)
+- Objet en F'. di = +(infini), hi = -(infini)
+- Objet entre F' et O. di = -(même côté), hi = +(≥ho)
+
+!Lentille divergente
+Lentille divergente. Lentille qui réfracte les rayons luminieux parallèles de façon à les éloigner les uns des autres.
+Forme. Généralement concave.
+1. Lentille plan-convexe )|
+2. Lentille biconcave )(
+3. Ménisque divergent (C
+Principaux rayons.
+1. Rayon incident parallèle à l'axe → Rayon réfracté provenant de F.
+2. Rayon incident se dirigeant vers F' → Rayon réfracté parallèle à l'axe.
+3. Rayon incident passant par O → Rayon réfracté sans déviation.
+Position objet vs image.
+- Objet à l'infini. di = -(en F), hi = +(minuscule).
+- Objet loin. di = -(proche de F), hi = +(petit).
+- Objet proche. di = -(proche de O), hi = +(proche de ho).
+
+!Convention des signes
+Variables.
+f. Distance focale (m).
+(+). Lentille / miroir convergent (concave).
+(-). Lentille / miroir divergent (convexe).
+do. Distance objet-miroir (m).
+(+). Réel.
+ho. Hauteur de l'objet (m).
+(+). Droit.
+di. Distance image-miroir (m).
+(+). Réelle.
+(-). Virtuelle.
+hi. Hauteur de l'image (m).
+(-). Inversée.
+(+). Droite.
+G. Grandissement.
+(+). Virtuelle, droite.
+(-). Réelle, inversée.
+
+!Grandissement
+Grandissement. Nombre de fois qu'une image est agrandie ou réduite par rapport à l'objet.
+
+!Formules et constantes
+Grandissement. G = hi/ho = -di/do
+Distance focale. 1/do + 1/di = 1/f
+Vitesse. v = d/t
+Longueur d'onde. v = λf
+Célérité. c = 3,00x10^8 m/s
+
+!Réfraction
+Réfraction. Changement brusque de direction que subit la lumière lorsque.
+1. elle passe d'un milieu transparent à
+2. une autre.
+Cause changement direction. Changement de vitesse.
+Plan. Rayons incident, rayon réfracté, normale → même plan.
+Rayon réfracté emplacement. Quadrant opposé au rayon incident.
+Vocabulaire.
+- Rayons. Incident, réfracté.
+- Angles. D'incidence, de réfraction.
+- Dioptre. Interface entre les 2 milieux différents (plan / courbe).
+
+!Indice de réfraction
+Variable. n.
+Définition. Indicateur de sa réfringence.
+Réfringence. Propriété des matériaux de ralentir la lumière (densité optique).
+Rapport. Réfringence↑ ∴ n↑ ∴ v↓
+Proportionalité. v ∝ 1/n
+Plus grande vitesse possible de la lumière.
+- Où. Vide, air.
+- Vitesse. c = 3,00x10^8 m/s
+- Autre milieu. Toujours moins vite.
+
+!Indice de réfraction absolue
+Situation d'usage. Pour une réfraction du vide (ou de l'air) vers un autre milieu.
+Définition. Indice obtenu par le rapport entre:
+1. La vitesse de la lumière dans le vide (ou de l'air) et
+2. La vitesse de la lumière dans l'autre milieu.
+Formule. n = c/v.
+
+!Indice de réfraction relatif
+Situation d'usage. Pour une réfraction d'un milieu à une autre.
+Définition. Indice obtenu par:
+1. Le rapport des vitesses de la lumière ou
+2. Le rapport des indices absolus de chaque milieu.
+Formule. n = v1/v2 = n2/n1
+
+!Situations de réfraction
+Vers un milieu avec une indice de réfraction plus élevée.
+- Rayon réfracté. Rapproche de la normale.
+- Indice de réfraction. n1 < n2
+- Vitesse. v1 > v2
+Vers un milieu avec une indice de réfraction plus faible.
+- Rayon réfracté. S'éloigne de la normale.
+- Indice de réfraction. n1 > n2
+- Vitesse. v1 < v2
+Passage à travers deux milieux identiques.
+- Rayon réfracté. θ1 = θ2
+- Indice de réfraction. n1 = n2.
+- Vitesse. v1 = v2.
+Rayon incident frappe la surface perpendiculairement.
+- Rayon réfracté. Pas dévié.
+- Vitesse. Modifiée.
+
+!Loi de la réfraction (Snell-Descartes)
+Formule. n1 · sinθ1 = n2 · sinθ2
+Rapport complet. sinθ1/sinθ2 = n2/n1 = v1/v2
+
+!Prismes à faces parallèles
+Déplacement latéral. Distance entre
+1. Le rayon réfracté et
+2. Le prolongement du rayon incident.
+
+!Formation des images
+Réfraction. Objet apparent (image virtuel) ← prolongement du rayon réfracté.
+Réflexion. Image virtuel ← loi de la réfraction.
+
+!Angle critique
+Angle critique. Angle d'incidence pour lequel l'angle de réfraction est de 90°.
+Au-delà. Rayon n'émerge plus dans le second milieu → réflexion totale interne.
+Réflextion totale interne. Réflexion complète à l'intérieur du premier milieu quand θ1 > θc
+Formule. sinθc = n2/n1
+Phénomènes.
+1. θ1 < θc → Réfraction (un peu de réflexion).
+2. θ1 = θc → Réfraction à 90° (plus de réflexion).
+3. θ1 > θc → Réflexion totale interne (Ø réfraction).
+
+!Fibre optique
+Application. Secteur des télécommunications.
+Avantages.
+1. Circulation efficace de l'information (< perte de signal).
+2. Grande rapidité sur de longues distances (vitesse de la lumière).
+3. Pas d'échauffement du fil.
+4. Flexibilité du matériau.
+Indices de réfraction. n(coeur) > n(gaine).
+
+!Mirages
+Cause. Différentes températures des couches d'air.
+- Air froid. ↓T ∴ ↑n
+- Air chaud. ↑T ∴ ↓n
+Présence de l'atmosphère. Modifie:
+1. Trajectoire des rayons solaires.
+2. Position apparente du Soleil.
+Types de mirages.
+1. Mirage chaud (inférieur) (air chaud au sol, image virtuelle en bas).
+2. Mirage froid (supérieur) (air froid au sol, image virtuelle en haut).
+
+!Dispersion
+Dispersion. Décomposition de la lumière visible en ses différentes longueurs d'onde.
+1. Rouge.
+2. Orange.
+3. Jaune.
+4. Vert.
+5. Bleu.
+6. Indigo.
+7. Violet.
+Avec. Prisme équilatéral.
+Indice de réfraction du verre. Change selon la couleur qui lui pénètre.
+- ↓n. Rouge ∵ ↑v ∴ -déviée.
+- ↑n. Violet ∵ ↓v ∴ +déviée.
+
+!Arc-en-ciel
+Lumière blanche. Somme de plusieurs couleurs différentes (spectre visible).
+Chaque couleur. Possède une longueur d'onde qui lui est propre.
+Conditions pour voir un arc-en-ciel.
+1. Avoir le Soleil (source) derrière nous.
+2. Avoir la pluie devant nous.
+Arc-en-ciel.
+1. Image virtuelle, perçu par le prolongement des rayons réfractés.
+2. Somme des spectres réfléchis puis réfractés par un grand nombre de goutelettes d'eau.
+Deux personnes. Ne peuvent observer le même arc-en-ciel ∵ produite par différentes gouttes d'eau.
+Distance angulaire. 2°.
+Étapes.
+1. Air → eau: réfraction (dispersion).
+2. Eau → eau: réflexion totale interne (θ1 > θc).
+3. Eau → air: réfraction (θ1 < θc).
