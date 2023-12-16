@@ -23,6 +23,7 @@ Contextes contre l'utilisation de l'incertitude relative.
 
 !Chiffres significatifs
 Définition. Tous chiffre sauf les zéros à gauche.
+Notation scientifique. Seulement la mantisse.
 
 !Règles d'écriture
 Règles.
@@ -62,3 +63,70 @@ Répétition. À gauche seulement.
 4. Trouver B avec la moyenne.
 5. Trouver ΔB.
 6. Réponse.
+
+!Tableaux
+Objectif. Communication.
+Éléments nécessaires.
+1. Numéro.
+2. Titre.
+3. Nom des colonnes.
+4. Unités.
+5. Incertitudes.
+6. Données.
+Types de tableaux.
+1. Conditions expérimentales.
+2. Mesures expérimentales.
+3. Résultats.
+Méthodes pour identifier les incertitudes.
+1. T(± 0,5°C)
+2. T(°C) et incertitudes aux données.
+3. T(°C) et ΔT(°C)
+
+!Graphiques
+Objectif. Communication et analyse.
+Éléments nécessaires.
+1. Numéro.
+2. Titre.
+3. Axes.
+4. Nom des axes.
+5. Unités.
+6. Échelle (graduations).
+7. Points expérimentaux.
+8. Barres d'incertitudes.
+9. Courbe / droite (si nécessaire).
+10. Légende (si nécessaire).
+Objectifs.
+- Droite. Démontrer une tendance.
+- Légende. Communiquer de différents séries de données.
+- Coupures d'axes. Maximiser la précision (ne permet pas la lecture directe de l'ordonnée à l'origine).
+Incertitude minimale. ±1mm
+
+!Calculs d'incertitudes sur la pente et l'ordonnée à l'origine
+Graphique.
+1. Tracer le graphique avec les barres d'incertitudes.
+2. Tracer la meilleure droite.
+3. Choisir deux points théoriques sur la droite à chaque extrémité.
+4. Attribuer aux nouveaux points théoriques l'incertitude du point le plus proche (avec boîtes).
+5. Tracer la droite à pente minimale et à pente maximale.
+Calculs.
+1. Pente et ordonnée à l'origine de la droite moyenne.
+2. Pente et ordonnée à l'origine d'une droite extrême.
+3. Δm = m(max) - m = m - m(min)
+4. Δb = b - b(min) = b(max) - b
+5. y = mx + b quand y = m±Δm, b = b±Δb (réponse)
+Variables. Remplacer avec celles de l'équation linéarisée.
+
+!Linéarisation
+Permet. Tracer en droite une fonction non linéaire.
+Objectifs.
+1. Faciliter la lecture des points.
+2. Incapacité de juger le type de courbe (quadratique, exponentielle, racine, log, etc.).
+3. Porter un jugement sur la tendance.
+Notation. f(x) → Savoir quelle est la variable dépendante et indépendante.
+Types de fonctions.
+- y = mx + b. Fonction affine.
+- y = mx. Fonction linéaire.
+Opération mathématique d'une droite. Multiplication.
+Éléments d'une fonction.
+- Variables. Dans les axes.
+- Constantes. N'importe où.
