@@ -71,6 +71,11 @@ Phénomènes physiques.
 Phénomènes chimiques.
 - Endothermique. Analyse, photosynthèse, carbonisation.
 - Exothermique. Synthèse, respiration cellulaire, neutralisations, combustions, oxydations.
+Étapes d'une transformation.
+1. Absorption d'énergie (bris de liens).
+2. Dégagement d'énrgie (formation de nouveaux liens).
+3. Bilan des 2 processus (identique si exothermique ou endothermique).
+Énergie des transformations physiques et chimiques. Généralement, l'énergie des transformations physiques < l'énergie des transformations chimiques.
 
 !Phénomènes physiques
 Changements de phases. Endothermique ou exothermique.
@@ -81,8 +86,8 @@ Changements de phases. Endothermique ou exothermique.
 - Liquide → Solide. (Exo, -E) Solidification.
 - Gazeux → Solide. (Exo, -E) Condensation solide.
 Dissolutions. Endothermique ou exothermique.
-- Exemple endothermique. NH4Cl(s) + E → NH4+(aq) + Cl-(aq)
-- Exemple exothermique. NaOH(s) → Na+(aq) + OH-(aq) + E
+- Exemple endothermique (chlorure d'ammonium). NH4Cl(s) + E → NH4+(aq) + Cl-(aq)
+- Exemple exothermique (hydroxyde de sodium). NaOH(s) → Na+(aq) + OH-(aq) + E
 Dilutions. Endothermique ou exothermique.
 - Exemple exothermique. Alcool et eau.
 
@@ -92,7 +97,7 @@ Neutralisations. Exothermique.
 2. Carbonate: acide + carbonate → sel + H2O + CO2 + E
 3. Métal: acide + métal → sel + H2 + E
 Analyse. Endothermique (décomposition de complexe à simple).
-- Exemple eau. H2O + E → H2 + 1/2 O2
+- Exemple analyse d'eau. H2O + E → H2 + 1/2 O2
 Synthèse. Exothermique (formation de simple à complexe).
 - Exemple oxyde de fer. 4Fe + 3O2 → 2Fe2O3 + E
 - Exemple oxyde de magnésium. 2Mg + O2 → 2MgO + E
@@ -139,8 +144,8 @@ Calorimétrie. Étude des transferts d'énergie entre
 À l'aide d'un. Calorimètre (système isolé).
 Pour permettre. Déterminer la chaleur de réaction.
 Étapes.
-1. Chaleur perdue ou gagnée par le milieu (Q=mcΔT).
-2. Chaleur associée à la transformation (Q1=-Q2).
+1. Chaleur perdue ou gagnée par le milieu (Q = mcΔT).
+2. Chaleur associée à la transformation (Q1 = -Q2).
 3. Chaleur pour une mole de l'une des substances impliqués (ΔH = Q/n).
 Températures.
 - ↑T. ↑ΔT ∴ exothermique.
@@ -153,4 +158,26 @@ Types de dissolutions.
 Exemples.
 - NaCl. NaCl(s) → Na+(aq) Cl-(aq)
 - C12H22O11. C12H22O11(s) → C12H22O11(aq)
+Températures.
+- ↑T(eau). ↑ΔT(eau) ∴ dissolution exothermique.
+- ↓T(eau). ↓ΔT(eau) ∴ dissolution endothermique.
+Chaleur molaire de dissolution. ΔH = Q(dissolution)/n(sel) (kJ/mol de sel).
 
+!Chaleur de neutralisation
+Neutralisation entre. Deux solution aqueuses qui ont une concentration (C = n/V).
+Majorité constituées. Eau (p = m/V = 1g/mL) (c = 4,19J/g°C).
+Formule générale. A + B → Sel + H2O + E
+Exemple.
+- NaCl. HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l).
+Température.
+- ↑T(eau). ↑ΔT(eau) ∴ neutralisation exothermique.
+Chaleur molaire de neutralisation. ΔH = Q(neutralisation)/n(acide/base) (kJ/mol d'acide ou base).
+
+!Chaleur de combustion
+Combustion. Combustile brûle.
+Énergie dégagée. Réchauffe l'eau du calorimètre.
+Formule générale. Combustible + O2 → CO2 + H2O
+Exemple.
+- Méthane. CH4 + 2O2 → CO2 + 2H2O + E
+Masse de combustible. Δm = mi - mf
+Chaleur molaire de combustion. ΔH = Q(combustion)/n(combustible) (kJ/mol de combustible).
