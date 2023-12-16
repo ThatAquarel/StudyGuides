@@ -181,5 +181,9 @@
 	"notequal": {
 		"prefix": "notequal",
 		"body": "≠"
+	},
+	"infinity": {
+		"prefix": "infinity",
+		"body": "∞"
 	}
 }
