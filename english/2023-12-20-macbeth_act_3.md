@@ -21,12 +21,12 @@ Macbeth, Lennox, Ross, Lords, and Attendants.
 
 
 
-Here’s our chief guest.
+                                                    Here’s our chief guest.
 
 
- If he had been forgotten,
-It had been as a gap in our great feast
-And all-thing unbecoming.
+                                                    If he had been forgotten,
+                                                    It had been as a gap in our great feast
+                                                    And all-thing unbecoming.
 
 
 Tonight we hold a solemn supper, sir,
@@ -120,7 +120,7 @@ till we call.Servant exits.
 Was it not yesterday we spoke together?
 
 
-It was, so please your Highness.
+                                                            It was, so please your Highness.
 
  Well then, now
 Have you considered of my speeches? Know
@@ -136,7 +136,7 @@ To half a soul and to a notion crazed
 Say “Thus did Banquo.”
 
 
- You made it known to us.
+                                                            You made it known to us.
 
 
 I did so, and went further, which is now
@@ -148,7 +148,7 @@ Whose heavy hand hath bowed you to the grave
 And beggared yours forever?
 
 
- We are men, my liege.
+                                                            We are men, my liege.
 
 
 Ay, in the catalogue you go for men,
@@ -171,16 +171,16 @@ Who wear our health but sickly in his life,
 Which in his death were perfect.
 
 
- I am one, my liege,
-Whom the vile blows and buffets of the world
-Hath so incensed that I am reckless what
-I do to spite the world.
+                                                    I am one, my liege,
+                                                    Whom the vile blows and buffets of the world
+                                                    Hath so incensed that I am reckless what
+                                                    I do to spite the world.
 
 
- And I another
-So weary with disasters, tugged with fortune,
-That I would set my life on any chance,
-To mend it or be rid on ’t.
+                                                    And I another
+                                                    So weary with disasters, tugged with fortune,
+                                                    That I would set my life on any chance,
+                                                    To mend it or be rid on ’t.
 
  Both of you
 Know Banquo was your enemy.
@@ -201,11 +201,11 @@ Masking the business from the common eye
 For sundry weighty reasons.
 
 
- We shall, my lord,
-Perform what you command us.
+                                                    We shall, my lord,
+                                                    Perform what you command us.
 
 
- Though our lives—
+                                                    Though our lives—
 
 
 Your spirits shine through you. Within this hour at
@@ -285,13 +285,13 @@ Can touch him further.
 Sleek o’er your rugged looks. Be bright and jovial
 Among your guests tonight.
 
- So shall I, love,
-And so I pray be you. Let your remembrance
-Apply to Banquo; present him eminence
-Both with eye and tongue: unsafe the while that we
-Must lave our honors in these flattering streams
-And make our faces vizards to our hearts,
-Disguising what they are.
+                                                            So shall I, love,
+                                                            And so I pray be you. Let your remembrance
+                                                            Apply to Banquo; present him eminence
+                                                            Both with eye and tongue: unsafe the while that we
+                                                            Must lave our honors in these flattering streams
+                                                            And make our faces vizards to our hearts,
+                                                            Disguising what they are.
 
 
  You must leave this.
@@ -302,7 +302,7 @@ Thou know’st that Banquo and his Fleance lives.
 
 
 
-But in them nature’s copy’s not eterne.
+                                                            But in them nature’s copy’s not eterne.
 
 
 There’s comfort yet; they are assailable.
@@ -344,10 +344,9 @@ But who did bid thee join with us?
 
  Macbeth.
 
-MURDERER, to the First Murderer 
-He needs not our mistrust, since he delivers
-Our offices and what we have to do
-To the direction just.
+                                                He needs not our mistrust, since he delivers
+                                                Our offices and what we have to do
+                                                To the direction just.
 
 
  Then stand with us.—
@@ -361,30 +360,30 @@ The subject of our watch.
 BANQUO, within  Give us a light there, ho!
 
 
- Then ’tis he. The rest
-That are within the note of expectation
-Already are i’ th’ court.
+                                                Then ’tis he. The rest
+                                                That are within the note of expectation
+                                                Already are i’ th’ court.
 
 
- His horses go about.
+                                                His horses go about.
 
 
 
-Almost a mile; but he does usually
-(So all men do) from hence to th’ palace gate
-Make it their walk.
+                                                Almost a mile; but he does usually
+                                                (So all men do) from hence to th’ palace gate
+                                                Make it their walk.
 
 Enter Banquo and Fleance, with a torch.
 
 
 
- A light, a light!
+                                                A light, a light!
 
 
- ’Tis he.
+                                                ’Tis he.
 
 
- Stand to ’t.
+                                                Stand to ’t.
 BANQUO, to Fleance  It will be rain tonight.
 
 
@@ -398,23 +397,23 @@ He dies. Fleance exits.
 
 
 
-Who did strike out the light?
+                                                Who did strike out the light?
 
 
- Was ’t not the way?
+                                                Was ’t not the way?
 
 
- There’s but one down. The son is
-fled.
+                                                There’s but one down. The son is
+                                                fled.
 
 
- We have lost best half of our
-affair.
+                                                We have lost best half of our
+                                                affair.
 
 
 
-Well, let’s away and say how much is done.
-They exit.
+                                                Well, let’s away and say how much is done.
+                                                They exit.
 
 
 ## Scene 4
@@ -498,7 +497,7 @@ MACBETH, to Lady Macbeth  Sweet remembrancer!—
 Now, good digestion wait on appetite
 And health on both!
 
- May ’t please your Highness sit.
+                                                May ’t please your Highness sit.
 
 
 Here had we now our country’s honor roofed,
@@ -506,21 +505,21 @@ Were the graced person of our Banquo present,
 Who may I rather challenge for unkindness
 Than pity for mischance.
 
- His absence, sir,
-Lays blame upon his promise. Please ’t your
-Highness
-To grace us with your royal company?
+                                                                    His absence, sir,
+                                                                    Lays blame upon his promise. Please ’t your
+                                                                    Highness
+                                                                    To grace us with your royal company?
 
 
 The table’s full.
 
- Here is a place reserved, sir.
+                                                            Here is a place reserved, sir.
 
  Where?
 
 
-Here, my good lord. What is ’t that moves your
-Highness?
+                                                            Here, my good lord. What is ’t that moves your
+                                                            Highness?
 
 
 Which of you have done this?
@@ -531,7 +530,7 @@ Thou canst not say I did it. Never shake
 Thy gory locks at me.
 
 
-Gentlemen, rise. His Highness is not well.
+                                                            Gentlemen, rise. His Highness is not well.
 
 
 
@@ -643,8 +642,8 @@ When now I think you can behold such sights
 And keep the natural ruby of your cheeks
 When mine is blanched with fear.
 
- What sights, my
-lord?
+                                                        What sights, my
+                                                        lord?
 
 
 
@@ -653,11 +652,11 @@ Question enrages him. At once, good night.
 Stand not upon the order of your going,
 But go at once.
 
- Good night, and better health
-Attend his Majesty.
+                                                        Good night, and better health
+                                                        Attend his Majesty.
 
 
- A kind good night to all.
+                                                        A kind good night to all.
 Lords and all but Macbeth and Lady Macbeth exit.
 
 
