@@ -6,6 +6,10 @@ Types de trajectoire.
 2. Trajectoire curviligne (ligne courbe) → basket, baseball.
 3. Trajectoire circulaire (cercle) → grande roue, essuie-glace, barrières.
 4. Trajectoire quelquonque (aléatoire) → feuilles, oiseau, traffic.
+Vitesse de l'objet de la trajectoire.
+1. Constante.
+2. Diminuée.
+3. Augmentée.
 
 !Mouvement
 Comportement d'un objet change selon. Le milien dans lequel il se déplace.
@@ -24,4 +28,35 @@ Mouvements non directement observable avec les sens.
 4. Organes internes (endoscope, stéthoscope).
 5. Avions, sous-marins (radar).
 Mouvement. Variation de la position d'un object dans l'espace en fonction du temps.
-Perception du mouvement 
+Perception du mouvement dépend de. L'observateur (immobile ou en mouvement).
+Caractéristique de la trajectoire et de la vitesse. Relative.
+Ce qui permet l'analyse du mouvement d'un objet. Système de référence (point d'origine fixe et coordonnées).
+1. Droite numérique (1 dimension).
+2. Plan cartésien (2 ou 3 dimensions).
+
+!Géométrie vectorielle
+Scalaire. Grandeur définie par une valeur et une unité de mesure.
+Vecteur. Grandeur définie par une valeur, une unité de mesure et une orientation (direction et sens).
+Types de coordonées.
+1. Coordonnées polaires (θ ≥ 0,0°).
+2. Coordonnées cartésiennes (composantes).
+3. Points cardinaux (30km [E, 50°, N], 50° au Nord de l'Est).
+
+!Variables de mouvement
+Variables.
+t. Temps (s).
+x. Position sur l'axe des x (scalaire) (m).
+y. Position sur l'axe des y (scalaire) (m).
+d. Distance parcourue (scalaire) (m).
+Δx. Déplacement sur l'axe des x (≤d) (vecteur) (m).
+- Formule. Δx = xf - xi
+Δy. Déplacement sur l'axe des y (≤d) (vecteur) (m).
+- Formule. Δy = yf - yi
+vmoy. Vitesse moyenne (scalaire) (m/s).
+- Formule. vmoy = d/Δt
+v. Vitesse (vecteur) (m/s).
+- Formule x. vx = Δx/Δt
+- Formule y. vy = Δy/Δt
+a. Accélération (vecteur) (m/s²).
+- Formule x. ax = Δvx/Δt
+- Formule y. ay = Δvy/Δt
