@@ -185,5 +185,9 @@
 	"infinity": {
 		"prefix": "infinity",
 		"body": "∞"
+	},
+	"triple": {
+		"prefix": "triple",
+		"body": "≡"
 	}
 }

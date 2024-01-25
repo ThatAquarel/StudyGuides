@@ -210,9 +210,6 @@ Termes identiques.
 1. Énergie du changement.
 2. Énergie changement de température.
 
-!Bilan énergétique
-Bilan énergétique. Déterminer la chaleur de réaction par les énergies de liaison.
-
 !Liens
 Types de liens.
 1. Intermoléculaires.
@@ -223,9 +220,43 @@ Intermoléculaires. Entre les molécules.
 2. Liquide (désordonnée et fluide).
 Énergie de transformation. +44kJ/mol H2O.
 3. Gaz (très désordonnée).
-État avec les liens les plus forts. Liquide ∵ nécessite le plus d'énergie pour les bris de liens.
 Intramoléculaires.
 1. Entre les atomes dans les molécules.
 2. Entre les électrons et le noyau.
 3. Entre les protons et les neutrons.
+Liens en ordre croissant de force. En ordre croissant d'énergie nécessaire pour les briser.
+1. Liens entre particules de solide.
+2. Liens entre particules de liquide.
+3. Liens entre les atomes dans les molécules.
+4. Liens entre les électrons et le noyau.
+5. Liens entre les protons et les neutrons.
+État avec les liens les plus forts. Liquide ∵ nécessite le plus d'énergie pour les bris de liens.
+Types d'énergie.
+1. E(c) → énergie cinétique (mouvements), à T variable.
+2. E(p) → énergie potentielle (liens), à T constant.
+Grandeur d'énergie impliquée dans les transformations.
+1. 10^1 kJ (fusion, vaporisation).
+2. 10^3 kJ (atomisation, ionisation).
+3. 10^6 kJ (fission, bris de p+ et n0).
 
+!Bilan énergétique
+Bilan énergétique. Déterminer la chaleur de réaction par les énergies de liaison.
+Stabilité de la molécule. Plus stable que les atomes qui la composent seuls.
+- Pour rompre la liaison AB. Fournir de l'énergie (AB + E → A + B).
+- Si la liaison est reformée. Énergie est dégagée (A + B → AB + E).
+- Énergie. Équivalente pour rompre et former.
+Étapes d'une transformation.
+1. Bris de liens (nécessite de l'énergie → endo+) → atomes libres instables.
+2. Formation de liens (dégage de l'énergie → endo-) → plus de stabilité.
+3. Bilan → comparaison entre l'énergie absorbée (bris) et l'énergie dégagée (formation).
+Formule. ΔH = E(bris) + E(formation)
+- Bilan positif. Réaction globale endothermique.
+- Bilan négatif. Réaction globale exothermique.
+Complexe activé. Moment de transition hautement énergétique et de très courte durée (atomes séparés).
+
+!Énergie de liaisons
+Énergie de liaisons. Énergie associée au bris ou à a formation d'une mole de liens.
+Lien (liaison). Ce qui unit deux atomes.
+1. Simple (H-H).
+2. Double (O=O).
+3. Triple (N≡N).
