@@ -33,6 +33,11 @@ Caractéristique de la trajectoire et de la vitesse. Relative.
 Ce qui permet l'analyse du mouvement d'un objet. Système de référence (point d'origine fixe et coordonnées).
 1. Droite numérique (1 dimension).
 2. Plan cartésien (2 ou 3 dimensions).
+Décrire un mouvement.
+1. Déplacement.
+2. Avance (droite) / Recule (gauche).
+3. Accélère / Décélère.
+4. MRU / MRUA.
 
 !Géométrie vectorielle
 Scalaire. Grandeur définie par une valeur et une unité de mesure.
@@ -45,6 +50,7 @@ Types de coordonées.
 !Variables de mouvement
 Variables.
 t. Temps (s).
+- Formule. Δt = tf - ti
 x. Position sur l'axe des x (scalaire) (m).
 y. Position sur l'axe des y (scalaire) (m).
 d. Distance parcourue (scalaire) (m).
@@ -60,3 +66,41 @@ v. Vitesse (vecteur) (m/s).
 a. Accélération (vecteur) (m/s²).
 - Formule x. ax = Δvx/Δt
 - Formule y. ay = Δvy/Δt
+
+!Types de mouvement
+MRU. Mouvement rectiligne uniforme.
+- Graphique de position. Linéaire.
+- Graphique de vitesse. Constante.
+- Formules vitesses. vx = Δx/Δt, vy = Δy/Δt
+- Valeur accélération. a = 0,00 m/s²
+MRUA. Mouvement rectiligne uniformément accéléré.
+- Graphique de position. Quadratique.
+- Graphique de vitesse. Linéaire.
+- Graphique d'accélération. Constante.
+- Formules accélélaration. ax = Δvx/Δt, ay = Δvy/Δt
+
+!Convention de signes
+Signe de la vitesse.
+- Positif. Avance (droite), monte (haut).
+- Négatif. Recule (gauche), descend (bas).
+Valeur de la variation de vitesse.
+- Augmente. Accélère (MRUA).
+- Diminute. Décélère (MRUA).
+- Constante. Vitesse uniforme, immobile (MRU).
+Signe de l'accélération.
+- Positif. Avance et accélère, recule et décélère.
+- Négatif. Avance et décélère, recule et accélère.
+
+!Graphiques
+Position en fonction du temps.
+- Dérivé. Vitesse.
+Vitesse en fonction du temps.
+- Intégral. Variation de position.
+- Dérivé. Accélération.
+Accélération en fonction du temps.
+- Intégral. Variation de vitesse.
+
+!Vitesse instantanée
+Vitesse instantanée. Vitesse d'un corps à un Δt qui tend vers 0 (Δt → 0).
+Parallèle à la tangente. Sécante.
+Approximation de la tangente. Pente à l'aide des deux points directement adjacents.
