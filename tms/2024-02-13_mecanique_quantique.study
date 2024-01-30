@@ -45,7 +45,7 @@ Atome ou électron au niveau fondamental. Atome dont les électrons sont les plu
 Atome ou électron excité. Atome dont au moins un électron est passé à un niveau supérieur.
 Atome ionisé. Atome dont au moins un électron a été éjecté de celui-ci. 
 
-!Formules
+!Transition de l'électron
 Énergie du niveau n d'un atome d'hydrogène. E(n) = -2,18x10^-18 J / n²
 - E(n). Énergie du niveau n (J)
 - n. Niveau.
@@ -97,3 +97,27 @@ Conserve du modèle.
 Hypothèses de l'impossibilité à plus d'un électron.
 1. Interactions entre électrons.
 2. Autres niveaux supplémentaires à causes des nouvelles raies.
+
+!Dualité de la matière
+Scientifique. Louis de Broglie (1923).
+Hypothèse. Dualité de la matière.
+- Expérience. Calcul de la longueur d'onde de l'électron.
+Scientifique. Davisson et Germer (1927).
+- Phénomène. Diffraction et interférence des électrons.
+- Conclusion. Électron une particule et une onde.
+- Lorsqu'il y a observation. Effrondrement → e- agit comme une particule.
+Développement des sciences.
+1. Échelle macroscopique → mécanique classique (onde ou particule).
+2. Échelle microscopique → mécanique quantique (onde et particule).
+Mécanique. Méthode de gérer le mouvement.
+État de l'électron.
+- Observation. Échelle macroscopique des électrons.
+- Pas d'observation. Échelle microscopique des électrons.
+
+!Longueur d'onde associée à une particule
+Conditions de la particule. Doit avoir une masse.
+Formule. λ = h/mv
+- λ. Longueur d'onde (m).
+- h. Constante de planck (Js).
+- m. Masse de la particule (kg).
+- v. Vitesse (m/s).
