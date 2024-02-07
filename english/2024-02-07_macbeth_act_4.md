@@ -103,19 +103,19 @@ To what I ask you.
                                         We’ll answer.
 
                                         
-                                        Say if th’ hadst rather hear it from our mouths
-                                        Or from our masters’.
+                                                                Say if th’ hadst rather hear it from our mouths
+                                                                Or from our masters’.
 
   Call ’em. Let me see ’em.
 
                                         
-                                        Pour in sow’s blood that hath eaten
-                                        Her nine farrow; grease that’s sweaten
-                                        From the murderers’ gibbet throw
-                                        Into the flame.
+                                                                Pour in sow’s blood that hath eaten
+                                                                Her nine farrow; grease that’s sweaten
+                                                                From the murderers’ gibbet throw
+                                                                Into the flame.
 
-                                        Come high or low;
-                                        Thyself and office deftly show.
+                                                                Come high or low;
+                                                                Thyself and office deftly show.
  
 Tell me, thou unknown power—
 
@@ -329,7 +329,7 @@ Fathered he is, and yet he’s fatherless.
  
 I am so much a fool, should I stay longer
 It would be my disgrace and your discomfort.
-I take my leave at once.Ross exits.
+I take my leave at once.
 
                                                     Sirrah, your father’s dead.
                                                     And what will you do now? How will you live?
@@ -408,7 +408,7 @@ To fright you thus methinks I am too savage;
 To do worse to you were fell cruelty,
 Which is too nigh your person. Heaven preserve
 you!
-I dare abide no longer.Messenger exits.
+I dare abide no longer.
 
   Whither should I fly?
 I have done no harm. But I remember now
@@ -419,9 +419,9 @@ Do I put up that womanly defense
 To say I have done no harm?
 
 
-What are these faces?
+                                                    What are these faces?
 
-  Where is your husband?
+                                                    Where is your husband?
 
  
 I hope in no place so unsanctified
@@ -494,9 +494,9 @@ Whatever I shall think.
 
   Bleed, bleed, poor country!
 Great tyranny, lay thou thy basis sure,
-For goodness dare not check thee. Wear thou thy
-wrongs;
-The title is affeered.—Fare thee well, lord.
+                                                        For goodness dare not check thee. Wear thou thy
+                                                        wrongs;
+                                                        The title is affeered.—Fare thee well, lord.
 I would not be the villain that thou think’st
 For the whole space that’s in the tyrant’s grasp,
 And the rich East to boot.
