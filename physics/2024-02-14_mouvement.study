@@ -95,7 +95,7 @@ Signe de l'accélération.
 Position en fonction du temps.
 - Dérivé. Vitesse.
 Vitesse en fonction du temps.
-- Intégral. Variation de position.
+- Intégral. Variation de position (déplacement).
 - Dérivé. Accélération.
 Accélération en fonction du temps.
 - Intégral. Variation de vitesse.
