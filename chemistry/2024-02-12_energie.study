@@ -53,17 +53,6 @@ Types de transformations.
 - Formule thermochimique générale. Réactifs + E → Produits
 - Exemple eau. Fusion: H2O(s) + 6kJ → H2O(l)
 
-!Graphique d'enthalpie
-Graphique.
-- Axe des abscisses. Temps.
-- Axe des ordonnées. H(kJ) ou H(kJ/mol).
-- Quantités à identifier. H(R), H(P) et ΔH.
-- Formule à identifier. Réactifs et produits.
-Enthalpie des réactifs. H(R) = 0kJ.
-Signe de l'enthalpie des produits.
-- Négatif. Exothermique.
-- Positif. Endothermique.
-
 !Transformations
 Types de transformations.
 A. Physique (Nature ne change pas, propriétés conservées).
@@ -249,7 +238,9 @@ Stabilité de la molécule. Plus stable que les atomes qui la composent seuls.
 1. Bris de liens (nécessite de l'énergie → endo+) → atomes libres instables.
 2. Formation de liens (dégage de l'énergie → endo-) → plus de stabilité.
 3. Bilan → comparaison entre l'énergie absorbée (bris) et l'énergie dégagée (formation).
-Formule. ΔH = E(bris) + E(formation)
+Formule. Bilan = E(bris) + E(formation)
+- E(bris). Positif.
+- E(formation). Négatif.
 - Bilan positif. Réaction globale endothermique.
 - Bilan négatif. Réaction globale exothermique.
 Complexe activé. Moment de transition hautement énergétique et de très courte durée (atomes séparés).
@@ -263,3 +254,37 @@ Lien (liaison). Ce qui unit deux atomes.
 Cas spécifiques.
 - O3. 3 liens simples (O-O).
 - BrCl3. 3 liens simples (Br-Cl).
+
+!Graphiques
+Enthalpie des réactifs. H(R) = 0kJ.
+Signe de l'enthalpie des produits.
+- Négatif. Exothermique.
+- Positif. Endothermique.
+Graphiques.
+- Axe des abscisses. Temps (s).
+- Axe des ordonnées. H (kJ).
+- Formule à identifier. Réactifs et produits.
+- Titre. Diagramme X de la réaction Y.
+Graphique d'enthalpie.
+- Dessin. ↑ΔH.
+- Quantités à identifier. H(R), H(P), ΔH.
+- ΔH. H(P) - H(R)
+Graphique du bilan énergétique.
+- Dessin. ↑E(bris), ↓E(formation), ↑ΔH.
+- Quantités à identifier. H(R), H(P), E(bris), E(formation), ΔH.
+- Bilan. E(bris) + E(formation)
+Graphique énergétique.
+- Dessin. ↑E(a), ↑E(i), ↑ΔH.
+- Quantités à identifier. H(R), H(P), H(CA), E(a), E(i), ΔH.
+- E(a). H(CA) - H(R)
+- E(i). H(CA) - H(P)
+
+!Vitesse des réactions
+Plus vite si. ↓E(a).
+Quand E(a)≈0kJ. Réaction spontanée.
+
+!Réversibilité des réactions
+Réaction inverse. Inverser le nom.
+Réaction réversible. Si dans certaines conditions les produits peuvent redevenir réactifs.
+Plupart des situations. Irréversible (combustion).
+Plus réversible si. ↓ΔH, ↓E(i).
