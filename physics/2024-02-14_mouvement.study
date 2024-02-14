@@ -34,6 +34,7 @@ Ce qui permet l'analyse du mouvement d'un objet. Système de référence (point 
 1. Droite numérique (1 dimension).
 2. Plan cartésien (2 ou 3 dimensions).
 Décrire un mouvement.
+0. Trajectoire.
 1. Déplacement.
 2. Avance (droite) / Recule (gauche).
 3. Accélère / Décélère.
