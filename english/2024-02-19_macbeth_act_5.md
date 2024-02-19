@@ -4,9 +4,9 @@
 Enter a Doctor of Physic and a Waiting-Gentlewoman.
 
 
-  I have two nights watched with you but can
-perceive no truth in your report. When was it she
-last walked?
+                                                            I have two nights watched with you but can
+                                                            perceive no truth in your report. When was it she
+                                                            last walked?
 
   Since his Majesty went into the field, I
 have seen her rise from her bed, throw her nightgown
@@ -21,8 +21,8 @@ watching. In this slumb’ry agitation, besides her
 walking and other actual performances, what at any
 time have you heard her say?
 
-  That, sir, which I will not report after
-her.
+                                                            That, sir, which I will not report after
+                                                            her.
 
   You may to me, and ’tis most meet you
 should.
@@ -30,15 +30,14 @@ should.
   Neither to you nor anyone, having no
 witness to confirm my speech.
 
-Enter Lady Macbeth with a taper.
 
-Lo you, here she comes. This is her very guise and,
-upon my life, fast asleep. Observe her; stand close.
+                                                            Lo you, here she comes. This is her very guise and,
+                                                            upon my life, fast asleep. Observe her; stand close.
 
-  How came she by that light?
+                                                            How came she by that light?
 
-  Why, it stood by her. She has light by
-her continually. ’Tis her command.
+                                                            Why, it stood by her. She has light by
+                                                            her continually. ’Tis her command.
 
   You see her eyes are open.
 
@@ -57,40 +56,42 @@ continue in this a quarter of an hour.
 from her, to satisfy my remembrance the more
 strongly.
 
-  Out, damned spot, out, I say! One. Two.
-Why then, ’tis time to do ’t. Hell is murky. Fie, my
-lord, fie, a soldier and afeard? What need we fear
-who knows it, when none can call our power to
-account? Yet who would have thought the old man
-to have had so much blood in him?
+                                                            Out, damned spot, out, I say! One. Two.
+                                                            Why then, ’tis time to do ’t. Hell is murky. Fie, my
+                                                            lord, fie, a soldier and afeard?
+                                                            What need we fear
+                                                            who knows it, when none can call our power to
+                                                            account?
+                                                            Yet who would have thought the old man
+                                                            to have had so much blood in him?
 
-  Do you mark that?
+                                                            Do you mark that?
 
   The Thane of Fife had a wife. Where is
 she now? What, will these hands ne’er be clean? No
-more o’ that, my lord, no more o’ that. You mar all
-with this starting.
+more o’ that, my lord, no more o’ that.
+                                                            You mar all with this starting.
 
-  Go to, go to. You have known what you should
-not.
+                                                            Go to, go to. You have known what you should
+                                                            not.
 
-  She has spoke what she should not,
-I am sure of that. Heaven knows what she has
-known.
+                                                            She has spoke what she should not,
+                                                            I am sure of that. Heaven knows what she has
+                                                            known.
 
   Here’s the smell of the blood still. All
 the perfumes of Arabia will not sweeten this little
 hand. O, O, O!
 
-  What a sigh is there! The heart is sorely
-charged.
+                                                            What a sigh is there! The heart is sorely
+                                                            charged.
 
-  I would not have such a heart in my
-bosom for the dignity of the whole body.
+                                                            I would not have such a heart in my
+                                                            bosom for the dignity of the whole body.
 
-  Well, well, well.
+                                                            Well, well, well.
 
-  Pray God it be, sir.
+                                                            Pray God it be, sir.
 
   This disease is beyond my practice. Yet I have
 known those which have walked in their sleep,
@@ -100,16 +101,16 @@ who have died holily in their beds.
 Look not so pale. I tell you yet again, Banquo’s
 buried; he cannot come out on ’s grave.
 
-  Even so?
+                                                            Even so?
 
   To bed, to bed. There’s knocking at the
 gate. Come, come, come, come. Give me your
 hand. What’s done cannot be undone. To bed, to
 bed, to bed.Lady Macbeth exits.
 
-  Will she go now to bed?
+                                                            Will she go now to bed?
 
-  Directly.
+                                                            Directly.
 
  
 Foul whisp’rings are abroad. Unnatural deeds
@@ -132,56 +133,56 @@ Lennox, and Soldiers.
 
 
  
-The English power is near, led on by Malcolm,
-His uncle Siward, and the good Macduff.
-Revenges burn in them, for their dear causes
-Would to the bleeding and the grim alarm
-Excite the mortified man.
+                                                            The English power is near, led on by Malcolm,
+                                                            His uncle Siward, and the good Macduff.
+                                                            Revenges burn in them, for their dear causes
+                                                            Would to the bleeding and the grim alarm
+                                                            Excite the mortified man.
 
-  Near Birnam Wood
-Shall we well meet them. That way are they coming.
-
- 
-Who knows if Donalbain be with his brother?
+                                                            Near Birnam Wood
+                                                            Shall we well meet them. That way are they coming.
 
  
-For certain, sir, he is not. I have a file
-Of all the gentry. There is Siward’s son
-And many unrough youths that even now
-Protest their first of manhood.
+                                                            Who knows if Donalbain be with his brother?
 
-  What does the tyrant?
+                                                            
+                                                            For certain, sir, he is not. I have a file
+                                                            Of all the gentry. There is Siward’s son
+                                                            And many unrough youths that even now
+                                                            Protest their first of manhood.
 
- 
-Great Dunsinane he strongly fortifies.
-Some say he’s mad; others that lesser hate him
-Do call it valiant fury. But for certain
-He cannot buckle his distempered cause
-Within the belt of rule.
+                                                            What does the tyrant?
 
-  Now does he feel
-His secret murders sticking on his hands.
-Now minutely revolts upbraid his faith-breach.
-Those he commands move only in command,
-Nothing in love. Now does he feel his title
-Hang loose about him, like a giant’s robe
-Upon a dwarfish thief.
+                                                            
+                                                            Great Dunsinane he strongly fortifies.
+                                                            Some say he’s mad; others that lesser hate him
+                                                            Do call it valiant fury. But for certain
+                                                            He cannot buckle his distempered cause
+                                                            Within the belt of rule.
 
-  Who, then, shall blame
-His pestered senses to recoil and start
-When all that is within him does condemn
-Itself for being there?
+                                                            Now does he feel
+                                                            His secret murders sticking on his hands.
+                                                            Now minutely revolts upbraid his faith-breach.
+                                                            Those he commands move only in command,
+                                                            Nothing in love. Now does he feel his title
+                                                            Hang loose about him, like a giant’s robe
+                                                            Upon a dwarfish thief.
 
-  Well, march we on
-To give obedience where ’tis truly owed.
-Meet we the med’cine of the sickly weal,
-And with him pour we in our country’s purge
-Each drop of us.
+                                                            Who, then, shall blame
+                                                            His pestered senses to recoil and start
+                                                            When all that is within him does condemn
+                                                            Itself for being there?
 
-  Or so much as it needs
-To dew the sovereign flower and drown the weeds.
-Make we our march towards Birnam.
-They exit marching.
+                                                            Well, march we on
+                                                            To give obedience where ’tis truly owed.
+                                                            Meet we the med’cine of the sickly weal,
+                                                            And with him pour we in our country’s purge
+                                                            Each drop of us.
+
+                                                            Or so much as it needs
+                                                            To dew the sovereign flower and drown the weeds.
+                                                            Make we our march towards Birnam.
+                                                            They exit marching.
 
 
 ## Scene 3
@@ -201,8 +202,6 @@ And mingle with the English epicures.
 The mind I sway by and the heart I bear
 Shall never sag with doubt nor shake with fear.
 
-Enter Servant.
-
 The devil damn thee black, thou cream-faced loon!
 Where got’st thou that goose-look?
 
@@ -221,7 +220,7 @@ Are counselors to fear. What soldiers, whey-face?
   The English force, so please you.
 
  
-Take thy face hence.Servant exits.
+Take thy face hence.
 Seyton!—I am sick at heart
 When I behold—Seyton, I say!—This push
 Will cheer me ever or disseat me now.
@@ -229,14 +228,10 @@ I have lived long enough. My way of life
 Is fall’n into the sere, the yellow leaf,
 And that which should accompany old age,
 As honor, love, obedience, troops of friends,
-I must not look to have, but in their stead
-Curses, not loud but deep, mouth-honor, breath
-Which the poor heart would fain deny and dare
-not.—
-Seyton!
-
-Enter Seyton.
-
+                                                        I must not look to have, but in their stead
+                                                        Curses, not loud but deep, mouth-honor, breath
+                                                        Which the poor heart would fain deny and dare
+                                                        not.—
 
  
 What’s your gracious pleasure?
@@ -284,9 +279,9 @@ The water of my land, find her disease,
 And purge it to a sound and pristine health,
 I would applaud thee to the very echo
 That should applaud again.—Pull ’t off, I say.—
-What rhubarb, senna, or what purgative drug
-Would scour these English hence? Hear’st thou of
-them?
+                                                        What rhubarb, senna, or what purgative drug
+                                                        Would scour these English hence? Hear’st thou of
+                                                        them?
 
  
 Ay, my good lord. Your royal preparation
@@ -309,15 +304,15 @@ marching.
 
 
  
-Cousins, I hope the days are near at hand
-That chambers will be safe.
+                                                            Cousins, I hope the days are near at hand
+                                                            That chambers will be safe.
 
-  We doubt it nothing.
+                                                            We doubt it nothing.
 
  
-What wood is this before us?
+                                                            What wood is this before us?
 
-  The Wood of Birnam.
+                                                            The Wood of Birnam.   
 
  
 Let every soldier hew him down a bough
@@ -325,7 +320,7 @@ And bear ’t before him. Thereby shall we shadow
 The numbers of our host and make discovery
 Err in report of us.
 
-  It shall be done.
+                                                            It shall be done.
 
  
 We learn no other but the confident tyrant
@@ -338,9 +333,9 @@ Both more and less have given him the revolt,
 And none serve with him but constrainèd things
 Whose hearts are absent too.
 
-  Let our just censures
-Attend the true event, and put we on
-Industrious soldiership.
+                                                            Let our just censures
+                                                            Attend the true event, and put we on
+                                                            Industrious soldiership.
 
   The time approaches
 That will with due decision make us know
@@ -381,26 +376,23 @@ As life were in ’t. I have supped full with horrors.
 Direness, familiar to my slaughterous thoughts,
 Cannot once start me.
 
-Enter Seyton.
-
 Wherefore was that cry?
 
   The Queen, my lord, is dead.
 
   She should have died hereafter.
 There would have been a time for such a word.
-Tomorrow and tomorrow and tomorrow
-Creeps in this petty pace from day to day
-To the last syllable of recorded time,
-And all our yesterdays have lighted fools
-The way to dusty death. Out, out, brief candle!
+                                                Tomorrow and tomorrow and tomorrow
+                                                Creeps in this petty pace from day to day
+                                                To the last syllable of recorded time,
+                                                And all our yesterdays have lighted fools
+                                                The way to dusty death.
+Out, out, brief candle!
 Life’s but a walking shadow, a poor player
 That struts and frets his hour upon the stage
 And then is heard no more. It is a tale
 Told by an idiot, full of sound and fury,
 Signifying nothing.
-
-Enter a Messenger.
 
 Thou com’st to use thy tongue: thy story quickly.
 
@@ -426,13 +418,13 @@ I say, a moving grove.
 Upon the next tree shall thou hang alive
 Till famine cling thee. If thy speech be sooth,
 I care not if thou dost for me as much.—
-I pull in resolution and begin
-To doubt th’ equivocation of the fiend,
+                                                    I pull in resolution and begin
+                                                    To doubt th’ equivocation of the fiend,
 That lies like truth. “Fear not till Birnam Wood
 Do come to Dunsinane,” and now a wood
 Comes toward Dunsinane.—Arm, arm, and out!—
-If this which he avouches does appear,
-There is nor flying hence nor tarrying here.
+                                                    If this which he avouches does appear,
+                                                    There is nor flying hence nor tarrying here.
 I ’gin to be aweary of the sun
 And wish th’ estate o’ th’ world were now
 undone.—
@@ -475,9 +467,6 @@ But, bear-like, I must fight the course. What’s he
 That was not born of woman? Such a one
 Am I to fear, or none.
 
-Enter young Siward.
-
-
   What is thy name?
 
   Thou ’lt be afraid to hear it.
@@ -497,7 +486,6 @@ More hateful to mine ear.
  
 Thou liest, abhorrèd tyrant. With my sword
 I’ll prove the lie thou speak’st.
-They fight, and young Siward is slain.
 
   Thou wast born of
 woman.
@@ -505,23 +493,17 @@ But swords I smile at, weapons laugh to scorn,
 Brandished by man that’s of a woman born.
 He exits.
 
-Alarums. Enter Macduff.
-
-
- 
-That way the noise is. Tyrant, show thy face!
-If thou beest slain, and with no stroke of mine,
-My wife and children’s ghosts will haunt me still.
-I cannot strike at wretched kerns, whose arms
-Are hired to bear their staves. Either thou, Macbeth,
-Or else my sword with an unbattered edge
-I sheathe again undeeded. There thou shouldst be;
-By this great clatter, one of greatest note
-Seems bruited. Let me find him, Fortune,
-And more I beg not.He exits. Alarums.
-
-Enter Malcolm and Siward.
-
+                                                    
+                                                    That way the noise is. Tyrant, show thy face!
+                                                    If thou beest slain, and with no stroke of mine,
+                                                    My wife and children’s ghosts will haunt me still.
+                                                    I cannot strike at wretched kerns, whose arms
+                                                    Are hired to bear their staves. Either thou, Macbeth,
+                                                    Or else my sword with an unbattered edge
+                                                    I sheathe again undeeded. There thou shouldst be;
+                                                                            By this great clatter, one of greatest note
+                                                                            Seems bruited. Let me find him, Fortune,
+                                                    And more I beg not.He exits. Alarums.
 
  
 This way, my lord. The castle’s gently rendered.
@@ -534,19 +516,14 @@ And little is to do.
 That strike beside us.
 
   Enter, sir, the castle.
-They exit. Alarum.
+
 
 
 ## Scene 8
-Enter Macbeth.
-
-
  
 Why should I play the Roman fool and die
 On mine own sword? Whiles I see lives, the gashes
 Do better upon them.
-
-Enter Macduff.
 
 
   Turn, hellhound, turn!
@@ -560,12 +537,12 @@ With blood of thine already.
 My voice is in my sword, thou bloodier villain
 Than terms can give thee out.Fight. Alarum.
 
-  Thou losest labor.
-As easy mayst thou the intrenchant air
-With thy keen sword impress as make me bleed.
-Let fall thy blade on vulnerable crests;
-I bear a charmèd life, which must not yield
-To one of woman born.
+                                                        Thou losest labor.
+                                                        As easy mayst thou the intrenchant air
+                                                        With thy keen sword impress as make me bleed.
+                                                        Let fall thy blade on vulnerable crests;
+                                                        I bear a charmèd life, which must not yield
+                                                        To one of woman born.
 
   Despair thy charm,
 And let the angel whom thou still hast served
@@ -596,75 +573,68 @@ I throw my warlike shield. Lay on, Macduff,
 And damned be him that first cries “Hold! Enough!”
 They exit fighting. Alarums.
 
-They enter fighting, and Macbeth is slain. Macduff
-exits carrying off Macbeth’s body. Retreat and flourish.
-Enter, with Drum and Colors, Malcolm, Siward, Ross,
-Thanes, and Soldiers.
-
+ 
+                                                        I would the friends we miss were safe arrived.
 
  
-I would the friends we miss were safe arrived.
+                                                        Some must go off; and yet by these I see
+                                                        So great a day as this is cheaply bought.
 
  
-Some must go off; and yet by these I see
-So great a day as this is cheaply bought.
+                                                        Macduff is missing, and your noble son.
+
+                                                        
+                                                        Your son, my lord, has paid a soldier’s debt.
+                                                        He only lived but till he was a man,
+                                                        The which no sooner had his prowess confirmed
+                                                        In the unshrinking station where he fought,
+                                                        But like a man he died.
+
+                                                        Then he is dead?
+
+                                                        
+                                                        Ay, and brought off the field. Your cause of sorrow
+                                                        Must not be measured by his worth, for then
+                                                        It hath no end.
+
+                                                          Had he his hurts before?
 
  
-Macduff is missing, and your noble son.
+                                                        Ay, on the front.
+
+                                                        Why then, God’s soldier be he!
+                                                        Had I as many sons as I have hairs,
+                                                        I would not wish them to a fairer death;
+                                                        And so his knell is knolled.
+
+                                                        
+                                                        He’s worth more sorrow, and that I’ll spend for
+                                                        him.
+
+                                                        He’s worth no more.
+                                                        They say he parted well and paid his score,
+                                                        And so, God be with him. Here comes newer
+                                                        comfort.
 
  
-Your son, my lord, has paid a soldier’s debt.
-He only lived but till he was a man,
-The which no sooner had his prowess confirmed
-In the unshrinking station where he fought,
-But like a man he died.
-
-  Then he is dead?
-
- 
-Ay, and brought off the field. Your cause of sorrow
-Must not be measured by his worth, for then
-It hath no end.
-
-  Had he his hurts before?
-
- 
-Ay, on the front.
-
-  Why then, God’s soldier be he!
-Had I as many sons as I have hairs,
-I would not wish them to a fairer death;
-And so his knell is knolled.
-
- 
-He’s worth more sorrow, and that I’ll spend for
-him.
-
-  He’s worth no more.
-They say he parted well and paid his score,
-And so, God be with him. Here comes newer
-comfort.
-
-Enter Macduff with Macbeth’s head.
-
-
- 
-Hail, King! for so thou art. Behold where stands
-Th’ usurper’s cursèd head. The time is free.
-I see thee compassed with thy kingdom’s pearl,
-That speak my salutation in their minds,
-Whose voices I desire aloud with mine.
-Hail, King of Scotland!
+                                                        Hail, King! for so thou art. Behold where stands
+                                                        Th’ usurper’s cursèd head. The time is free.
+                                                        I see thee compassed with thy kingdom’s pearl,
+                                                        That speak my salutation in their minds,
+                                                        Whose voices I desire aloud with mine.
+                                                        Hail, King of Scotland!
 
   Hail, King of Scotland!Flourish.
 
  
 We shall not spend a large expense of time
 Before we reckon with your several loves
-And make us even with you. My thanes and
+And make us even with you.
+My thanes and
 kinsmen,
 Henceforth be earls, the first that ever Scotland
-In such an honor named. What’s more to do,
+In such an honor named.
+What’s more to do,
 Which would be planted newly with the time,
 As calling home our exiled friends abroad
 That fled the snares of watchful tyranny,
