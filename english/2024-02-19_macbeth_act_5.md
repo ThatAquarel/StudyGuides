@@ -327,15 +327,15 @@ We learn no other but the confident tyrant
 Keeps still in Dunsinane and will endure
 Our setting down before ’t.
 
-  ’Tis his main hope;
-For, where there is advantage to be given,
-Both more and less have given him the revolt,
-And none serve with him but constrainèd things
-Whose hearts are absent too.
+                                                                                                        ’Tis his main hope;
+                                                                                                        For, where there is advantage to be given,
+                                                                                                        Both more and less have given him the revolt,
+                                                                                                        And none serve with him but constrainèd things
+                                                                                                        Whose hearts are absent too.
 
-                                                            Let our just censures
-                                                            Attend the true event, and put we on
-                                                            Industrious soldiership.
+                                                                                                        Let our just censures
+                                                                                                        Attend the true event, and put we on
+                                                                                                        Industrious soldiership.
 
   The time approaches
 That will with due decision make us know
