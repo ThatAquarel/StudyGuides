@@ -117,7 +117,8 @@ Foul whisp’rings are abroad. Unnatural deeds
 Do breed unnatural troubles. Infected minds
 To their deaf pillows will discharge their secrets.
 More needs she the divine than the physician.
-God, God forgive us all. Look after her.
+God, God forgive us all. Look after her.                                                            Shall we well meet them. That way are they coming.
+
 Remove from her the means of all annoyance
 And still keep eyes upon her. So, good night.
 My mind she has mated, and amazed my sight.
@@ -207,7 +208,7 @@ Where got’st thou that goose-look?
 
   There is ten thousand—
 
-  Geese, villain?
+  Geese, villain?                                                        
 
   Soldiers, sir.
 
@@ -335,7 +336,7 @@ Our setting down before ’t.
 
                                                                                                         Let our just censures
                                                                                                         Attend the true event, and put we on
-                                                                                                        Industrious soldiership.
+                                                                                                        Industrious soldiershipsoldiership.
 
   The time approaches
 That will with due decision make us know
