@@ -1,0 +1,34 @@
+# TMS Exam 2024
+!Nouveau modèle
+Fin. Modèle planétaire.
+- Facilité. À concevoir.
+Scientifique. Schrödinger (1926).
+- Développement. Mécanique ondulatoire à partir de l'onde associée.
+- Propriété des particules. Propriété des ondes.
+Scientifique. Heisenberg (1927).
+- Principe. Principe d'incertitude de Heisenberg.
+- Formule. Δx · Δv ≥ h/4π
+- Δ. Incertitude absolue.
+- Interprétation. Incertitude de la position multipliée par l'incertitude de la vitesse ≥ h/4π.
+- Conclusion. Impossible de connaître x et v en même temps par la nature de la matière.
+Fondement des mécaniques.
+- Mécanique classique. Trajectoires.
+- Mécanique quantique. Probabilités.
+Électron en mécanique quantique. e- n'est plus localisé.
+1. La notion de trajectoire n'existe plus.
+2. Travaille avec la probabilité de présence.
+
+TODO: Graphs
+
+!Nombres quantiques
+Nombres quantiques.
+1. Nombre quantique principal (n).
+2. Nombre quantique secondaire (l).
+3. Nombre quantique magnétique (m).
+4. Nombre quantique de spin (S).
+
+Nombre quantique principal (n). n ∈ {1, 2, 3, ...}
+Nombre quantique secondaire (l). l ∈ {0, 1, ... , n-1}
+Nombre quantique magnétique (m). m ∈ {-l, ..., 0, ..., +l}
+Nombre quantique de spin (S). S ∈ {-1/2, +1/2}
+
