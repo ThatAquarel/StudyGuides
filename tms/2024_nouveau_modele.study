@@ -18,7 +18,13 @@ Fondement des mécaniques.
 1. La notion de trajectoire n'existe plus.
 2. Travaille avec la probabilité de présence.
 
-TODO: Graphs
+!Probabilités de présence
+Graphique.
+- Abscisses. Distance de l'électron du noyau.
+- Ordonnées. Densité de probabilité.
+- Fonction. Équation gaussienne.
+- Courbes selon. Le niveau de l'électron.
+- Aire. Probabilité (100%).
 
 !Nombres quantiques
 Nombres quantiques.
@@ -26,9 +32,24 @@ Nombres quantiques.
 2. Nombre quantique secondaire (l).
 3. Nombre quantique magnétique (m).
 4. Nombre quantique de spin (S).
-
 Nombre quantique principal (n). n ∈ {1, 2, 3, ...}
+- Description. Correspond au niveaux de Bohr.
+- Influence. L'énergie.
 Nombre quantique secondaire (l). l ∈ {0, 1, ... , n-1}
+- Influence. L'énergie de manière minime (niveaux entre niveaux).
+- Explique. En partie les atomes à plusieurs électrons.
+- Modèle de Bohr. l=0 (autres valeurs de l ont plus d'influence sur l'énergie).
+- Description. Définit la forme de l'orbitale.
+- l=0. s → sphérique.
+- l=1. p → bi-lobé.
+- l=2. d → trèfle.
+- l=3. f.
+- l=4. g.
 Nombre quantique magnétique (m). m ∈ {-l, ..., 0, ..., +l}
+- Description. Définit l'orientation de l'orbitale (possibilités d'orientation).
+- Explique. Structure fine des raies.
+- Orientations. Où les orbitales sont les plus loins possibles (électrons se repoussent).
+- Impact. Liens chimiques, orientation des liens.
 Nombre quantique de spin (S). S ∈ {-1/2, +1/2}
-
+- Description. Définit le sens de rotation de l'électron.
+Série des nombres quantiques. (n, l, m, s) → états permis de l'électron.
