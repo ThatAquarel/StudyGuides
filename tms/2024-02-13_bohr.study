@@ -1,0 +1,124 @@
+# TMS Exam 2024-02-13
+!Comportement ondulatoire de la lumière
+Scientifique. Thomas Young (1801).
+Expérience. Expérience des fentes de Young.
+- Résultat. Patrons d'interférence.
+- Phénomènes. Diffraction, interférence.
+- Conclusion. Onde.
+
+!Comportement corpusculaire de la lumière
+Scientifique. Albert Einstein (1905).
+Expérience. Effet photoélectrique.
+- Résultat. Lumière nécessite assez d'énergie pour arracher des électrons.
+- Conclusion. Particules.
+
+!Caractéristiques de la lumière
+Lumière. À la fois une onde et une particule (dualité de la lumière).
+Nom du particule. Photon.
+- Masse. Nulle.
+Énergie d'une particule.
+- Avec masse. E = 1/2mv²
+- Sans masse. E = hf
+h. Constante de planck (h=6,63x10^-34 Js).
+
+!Modèle atomique de Rutherford-Bohr
+Caractéristiques.
+1. Petit (relatif à l'atome au complet) noyau au centre, électrons gravitent autour.
+2. Atome essentiellement constitué de vide.
+3. Électrons ne sont situés que sur des orbites particulières.
+4. Électrons doivent posséder l'énergie de l'orbite sur laquelle elle est située.
+5. Électrons peuvent se déplacer l'une orbite à une autre en gagnant ou en perdant de l'énergie.
+6. Plus l'orbite est loin du noyveau, plus l'énergie est grande.
+Nombre de niveaux d'énergie de chaque atome. Infinité (limité au niveau fondamental).
+Gain d'énergie. 
+- Lumière. Absorbe un photon.
+- Conséquence. Électron monte un niveau d'énergie.
+- Type de phénomène. Provoqué.
+Perte d'énergie.
+- Lumière. Émet un photon.
+- Conséquence. Électron descend un niveau d'énergie.
+- Type de phénomène. Spontané.
+- Naturel. Électrons veulent avoir le moins d'énergie possible.
+
+!Vocabulaire
+Atome ou électron au niveau fondamental. Atome dont les électrons sont les plus près possible du noyau (le moins d'énergie).
+Atome ou électron excité. Atome dont au moins un électron est passé à un niveau supérieur.
+Atome ionisé. Atome dont au moins un électron a été éjecté de celui-ci. 
+
+!Transition de l'électron
+Énergie du niveau n d'un atome d'hydrogène. E(n) = -2,18x10^-18 J / n²
+- E(n). Énergie du niveau n (J)
+- n. Niveau.
+Rayon de l'orbite n. r = 5,29x10^-11 m · n²
+Calcul d'une raie du spectre de l'hydrogène.
+1. Énergie du niveau n (Ei = -2,18x10^-18 J / n²).
+2. Énergie du niveau n-1 (Ef = -2,18x10^-18 J / (n-1)²).
+3. Changement d'énergie (ΔE = Ef - Ei) (ΔE↑ ∴ +Énergie, ΔE↓ ∴ -Énergie).
+4. Énergie du photon (Ey = |ΔE|) (toujours positive).
+5. Fréquence (E = hf).
+6. Longueur d'onde (c = λf)
+Conversions mètre.
+- 1nm. 1x10^-9m.
+- 1μm. 1x10^-6m.
+- 1mm. 1x10^-3m.
+Condition de l'usage de la formule. Seulement les atomes à un électron.
+1. Hydrogène.
+2. Hélium ionisé une fois.
+3. Lithium ionisé deux fois.
+
+!Spectroscopie
+Spectroscopie. Technique qui analyse les spectres de la lumière.
+- Chaque gaz et atome. Empreinte spectroscopique différente → identification.
+Spectre d'émission. Analyse de la lumière émise par un gaz chaud.
+- Fonctionnement. (Gaz chaud) → (Capteur)
+- Conséquence de la chaleur. Électrons montent de niveau.
+- Spontanément. Descente de niveau → émission de la lumière.
+Spectre d'absorption. Analyse de la lumière absorbée par un gaz froid.
+- Fonctionnement. (Lumière blanche) → (Gaz froid) → (Capteur)
+- Mouvement. Électrons ne montent pas, ne descendent pas.
+- Résultat. Partie de la lumière blanche absorbée.
+Explication des niveaux d'énergie des électrons.
+1. Électrons peuvent seulement émetres des énergies précises.
+2. Longueurs d'ondes précises.
+Production des raies. Dépend de l'atome.
+Mesures. Seulement la variation, Øabsolue.
+Niveau d'énergie. Asymptotique (y = 0J).
+- Atteinte du niveau d'énergie maximal. Ionisation.
+- Énergie de l'électron. Toujours négative, énergie nécessaire pour ioniser l'électron.
+
+!Analyse du modèle de Bohr
+Problèmes.
+1. Pas capables de caractériser les spectres d'atomes à plusieurs électrons.
+2. Structure fine des raies (effet Zeeman) → nouvelles raies apparaissent en présence de champs magnétiques.
+3. Sauts électroniques sont inexplicables → déplacement des électrons entre niveaux alors qu'il est impossible d'exister.
+Conserve du modèle.
+1. Quantification de l'énergie (énergies particulières).
+2. Régle correspond à la différence d'énergie entre deux niveaux.
+Hypothèses de l'impossibilité à plus d'un électron.
+1. Interactions entre électrons.
+2. Autres niveaux supplémentaires à causes des nouvelles raies.
+
+!Dualité de la matière
+Scientifique. Louis de Broglie (1923).
+Hypothèse. Dualité de la matière.
+- Expérience. Calcul de la longueur d'onde de l'électron.
+Scientifique. Davisson et Germer (1927).
+- Phénomène. Diffraction et interférence des électrons.
+- Conclusion. Électron une particule et une onde.
+- Lorsqu'il y a observation. Effrondrement → e- agit comme une particule.
+Développement des sciences.
+1. Échelle macroscopique → mécanique classique (onde ou particule).
+2. Échelle microscopique → mécanique quantique (onde et particule).
+Mécanique. Méthode de gérer le mouvement.
+État de l'électron.
+- Observation. Échelle macroscopique des électrons.
+- Pas d'observation. Échelle microscopique des électrons.
+
+!Longueur d'onde associée à une particule
+Conditions de la particule. Doit avoir une masse.
+Formule. λ = h/mv
+- λ. Longueur d'onde (m).
+- h. Constante de planck (Js).
+- m. Masse de la particule (kg).
+- v. Vitesse (m/s).
+Masse de l'électron. 9,1x10^-31kg
