@@ -189,5 +189,9 @@
 	"triple": {
 		"prefix": "triple",
 		"body": "≡"
+	},
+	"pi": {
+		"prefix": "pi",
+		"body": "π"
 	}
 }
