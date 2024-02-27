@@ -1,4 +1,4 @@
-# Vitesse
+# Chemistry Exam 2024-02-28
 !Classement relatif des vitesse de réaction
 Durée des transformations. Permet un classement et une comparaison des réactions.
 Classement.
@@ -43,3 +43,13 @@ Vitesse moyenne. Vitesse évaluée par un intervalle de temps plus ou moins long
 Vitesse instantané. Vitesse évaluée à un intervalle de temps précis.
 - Calcul impliqué. Pente de la tangente.
 Formule. v = Δn/Δt = (n2 - n1)/(t2 - t1)
+
+!Mécanisme réactionnel
+Mécanisme réactionnel. Plusieurs étapes nécessaires pour la transformation des réactifs aux produits.
+Étape intermédiaire. Étapes progressives pour transformer les réactifs en produits.
+Produit intermédiaire. Apparaît toujours du côté des réactifs la 1e fois et ensuite au côté des réactifs.
+Avec le mécanisme réactionnel. Déterminer la vitesse de réaction.
+Vitesse de réaction globale. Étape la plus lente (étape déterminante).
+Étape déterminante.
+1. Complexe activé possède le plus haut niveau d'enthalpie.
+2. Énergie d'activation est la plus grande par rapport aux réactifs.
