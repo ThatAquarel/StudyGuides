@@ -1,0 +1,30 @@
+# Projectiles
+!Projectiles
+Projectile. Objet lancé.
+- Avec. Une vitesse ou à partir du repos.
+- Orientation. Quelconque.
+Chute libre. Mouvement d'un corps soumis uniquement à l'effet de la gravité.
+Gravité. Force d'attraction entre deux objets due à
+1. Leur masse (Fg ∝ m1, Fg ∝ m2).
+2. La distance qui les séparent (Fg ∝ 1/d²).
+À la surface d'un astre. Accélération de tout corps en mouvement vertical.
+- Monter. Décélération.
+- Descente. Accélération.
+Type de mouvement. MRUA.
+Orientation de l'accélération gravitationelle. Toujours vers le bas.
+Gravité.
+- Terre. a = -9,80 m/s²
+- Lune. a = -1,60 m/s²
+Chute libre dans le vide.
+- Deux objets de masses différentes. Même vitesse, même temps de chute.
+Chute libre dans l'air.
+- Résistance. Friction de l'air.
+- Objets de même forme et même masse. Résistance est sensiblement la même.
+
+!Mouvement horizontal
+Mouvements horizontal et vertical. Indépendants.
+- Horizontal. MRU.
+- Vertical. MRUA.
+Distances parcourues.
+- Horizontal. Portée. 
+- Vertical. Hauteur.
