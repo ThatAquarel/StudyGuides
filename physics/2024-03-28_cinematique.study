@@ -1,0 +1,142 @@
+# 2024-03-28 Physics Exam
+!Trajectoire
+Trajectoire. Ensemble des points de l'espace associé à la variation de position d'un objet.
+Types de trajectoire.
+1. Trajectoire rectiligne (ligne droite) → train, masses d'air.
+2. Trajectoire curviligne (ligne courbe) → basket, baseball.
+3. Trajectoire circulaire (cercle) → grande roue, essuie-glace, barrières.
+4. Trajectoire quelquonque (aléatoire) → feuilles, oiseau, traffic.
+Vitesse de l'objet de la trajectoire.
+1. Constante.
+2. Diminuée.
+3. Augmentée.
+
+!Mouvement
+Comportement d'un objet change selon. Le milien dans lequel il se déplace.
+Description du mouvement d'une pièce de monnaie.
+- Air. Trajectoire rectiligne de haute vitesse.
+- Eau. Trajectoire quelquonque de faible vitesse.
+Apprécier le mouvement des objets grâce à. Nos sens.
+Mouvements non directement observable avec la vue.
+- Odeur. Personne parfumée.
+- Toucher. Passage du vent, mouvement de chaleur.
+- Ouïe. Sirènes (ambulance, police, pompiers), voiture de course.
+Mouvements non directement observable avec les sens.
+1. Croûte terrestre (sismographe).
+2. Bactéries (microscope).
+3. Planètes (télescope).
+4. Organes internes (endoscope, stéthoscope).
+5. Avions, sous-marins (radar).
+Mouvement. Variation de la position d'un object dans l'espace en fonction du temps.
+Perception du mouvement dépend de. L'observateur (immobile ou en mouvement).
+Caractéristique de la trajectoire et de la vitesse. Relative.
+Ce qui permet l'analyse du mouvement d'un objet. Système de référence (point d'origine fixe et coordonnées).
+1. Droite numérique (1 dimension).
+2. Plan cartésien (2 ou 3 dimensions).
+Décrire un mouvement.
+0. Trajectoire.
+1. Déplacement.
+2. Avance (droite) / Recule (gauche).
+3. Accélère / Décélère.
+4. MRU / MRUA.
+
+!Géométrie vectorielle
+Scalaire. Grandeur définie par une valeur et une unité de mesure.
+Vecteur. Grandeur définie par une valeur, une unité de mesure et une orientation (direction et sens).
+Types de coordonées.
+1. Coordonnées polaires (θ ≥ 0,0°).
+2. Coordonnées cartésiennes (composantes).
+3. Points cardinaux (30km [E, 50°, N], 50° au Nord de l'Est).
+
+!Variables de mouvement
+Variables.
+t. Temps (s).
+- Formule. Δt = tf - ti
+x. Position sur l'axe des x (scalaire) (m).
+y. Position sur l'axe des y (scalaire) (m).
+d. Distance parcourue (scalaire) (m).
+Δx. Déplacement sur l'axe des x (≤d) (vecteur) (m).
+- Formule. Δx = xf - xi
+Δy. Déplacement sur l'axe des y (≤d) (vecteur) (m).
+- Formule. Δy = yf - yi
+vmoy. Vitesse moyenne (scalaire) (m/s).
+- Formule. vmoy = d/Δt
+v. Vitesse (vecteur) (m/s).
+- Formule x. vx = Δx/Δt
+- Formule y. vy = Δy/Δt
+a. Accélération (vecteur) (m/s²).
+- Formule x. ax = Δvx/Δt
+- Formule y. ay = Δvy/Δt
+
+!Types de mouvement
+MRU. Mouvement rectiligne uniforme.
+- Graphique de position. Linéaire.
+- Graphique de vitesse. Constante.
+- Formules vitesses. vx = Δx/Δt, vy = Δy/Δt
+- Valeur accélération. a = 0,00 m/s²
+MRUA. Mouvement rectiligne uniformément accéléré.
+- Graphique de position. Quadratique.
+- Graphique de vitesse. Linéaire.
+- Graphique d'accélération. Constante.
+- Formules accélélaration. ax = Δvx/Δt, ay = Δvy/Δt
+
+!Convention de signes
+Signe de la vitesse.
+- Positif. Avance (droite), monte (haut).
+- Négatif. Recule (gauche), descend (bas).
+Valeur de la variation de vitesse.
+- Augmente. Accélère (MRUA).
+- Diminute. Décélère (MRUA).
+- Constante. Vitesse uniforme, immobile (MRU).
+Signe de l'accélération.
+- Positif. Avance et accélère, recule et décélère.
+- Négatif. Avance et décélère, recule et accélère.
+
+!Graphiques
+Position en fonction du temps.
+- Dérivé. Vitesse.
+Vitesse en fonction du temps.
+- Intégral. Variation de position (déplacement).
+- Dérivé. Accélération.
+Accélération en fonction du temps.
+- Intégral. Variation de vitesse.
+
+!Vitesse instantanée
+Vitesse instantanée. Vitesse d'un corps à un Δt qui tend vers 0 (Δt → 0).
+Parallèle à la tangente. Sécante.
+Approximation de la tangente. Pente à l'aide des deux points directement adjacents.
+
+!Formules
+Déplacement. Δx = vi · Δt + ½aΔt
+Différence de vitesses. 2aΔx = vf² - vi² 
+Accélération. a = ½(vf - vi)
+
+!Projectiles
+Projectile. Objet lancé.
+- Avec. Une vitesse ou à partir du repos.
+- Orientation. Quelconque.
+Chute libre. Mouvement d'un corps soumis uniquement à l'effet de la gravité.
+Gravité. Force d'attraction entre deux objets due à
+1. Leur masse (Fg ∝ m1, Fg ∝ m2).
+2. La distance qui les séparent (Fg ∝ 1/d²).
+À la surface d'un astre. Accélération de tout corps en mouvement vertical.
+- Monter. Décélération.
+- Descente. Accélération.
+Type de mouvement. MRUA.
+Orientation de l'accélération gravitationelle. Toujours vers le bas.
+Gravité.
+- Terre. a = -9,80 m/s²
+- Lune. a = -1,60 m/s²
+Chute libre dans le vide.
+- Deux objets de masses différentes. Même vitesse, même temps de chute.
+Chute libre dans l'air.
+- Résistance. Friction de l'air.
+- Objets de même forme et même masse. Résistance est sensiblement la même.
+
+!Mouvement horizontal
+Mouvements horizontal et vertical. Indépendants.
+- Horizontal. MRU.
+- Vertical. MRUA.
+Distances parcourues.
+- Horizontal. Portée. 
+- Vertical. Hauteur.
