@@ -92,3 +92,36 @@ Tableau périodique. Énergie croissant.
 - Période 7. 7s, 5f, 6d, 7p.
 
 !Remplissage électronique
+Règles.
+1. Principe d'Aufbau.
+2. Principe d'exclusion de Pauli.
+3. Règle de Hund.
+Principe d'Aufbau.
+- Ordre. Électrons sont placés en ordre croissant d'énergie.
+- Maximum. Au maximum deux électrons par orbitale.
+Principe d'exclusion de Pauli.
+- Exclusion. Il ne peut avoir deux électrons dans le même état permis.
+Règle de Hund.
+- Condition. Quand les électrons sont placés sur des orbitales de même énergie.
+- Règle. Occupent avec des spins identiques les différentes orbitales de ce niveau.
+- Cause. Mettre un deuxième électron dans une orbitale prend plus d'énergie que changer d'orbitale.
+
+!Description des électrons
+Manières de décrire les électrons.
+1. États permis.
+2. Configuration électronique.
+3. Case quantique.
+États permis. (n, l, m, S)
+- Nombre d'états permis. Même que le nombre d'électrons de l'élément.
+- Case de l'élément. Représente l'état de l'électron.
+- Électrons d'un élément. Toutes les cases avant et incluant (en ordre croissant d'énergie).
+- Nombre quantique magnétique (m). Négatif en premier.
+- Spin (S). Positif en premier.
+Configuration électronique. n{s/p/d/f}^(2m)
+- Nombre de niveaux d'énergie. Jusqu'à l'élément.
+- Raccourci. [xx] → Gaz inerte le plus près.
+Case quantique. /↑↓/ /↑↓/ /↑↓/↑↓/↑↓/ ...
+- Case. Orbitale.
+- Cases ensemble. Même énergie.
+- Flèche. Électron et spin (↑ ou ↓).
+- Remplissage. Même spin d'abord (↑).
