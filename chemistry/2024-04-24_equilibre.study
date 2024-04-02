@@ -4,9 +4,12 @@ Types d'équilibres.
 - Statique. Aucun changement.
 - Dynamique. Changements continuels qui s'annulent les uns les autres.
 Étapes d'un équilibre.
-- Début. Réaction directe.
-- Milieu. Réaction directe et inverse (peu).
-- Équilibre. Réaction directe et indirecte (même vitesse).
+- Début. Réaction directe favorisée.
+- Milieu. Réaction directe et inverse (prend de l'importance).
+- Équilibre. Réaction directe et indirecte (les deux favorisés).
+Vitesse. Échange de matière par unité de temps est identique entre les réactions directe et indirecte.
+- Formule. vd = ΔqtéA/Δt = vi = ΔqtéB/Δt
+Réactions. Réactions opposés se produisant simultanément à la même vitesse.
 Conditions nécessaires à un état d'équilibre.
 1. Système fermé (avec ou sans couvercle).
 2. Conservation des propriétés macroscopiques (pH, manomètre, temp., couleur, volum, conc., masse)
@@ -52,3 +55,47 @@ Substances. 2 (soluté (excès), solvant).
 Types d'équilibres chimiques.
 3. Équilibre chimique.
 
+!Équilibre en graphique
+Graphique.
+- Abscisses. t (s).
+- Ordonnées. n (mol).
+- Plateau. Début de l'équilibre ou fin de réaction.
+Réactions.
+1. Produits favorisés.
+Courbe réactifs. Décroissant (R < P).
+Courbe produits. Croissant (P > R).
+2. Réactifs favorisés.
+Courbe réactifs. Décroissant (R > P).
+Courbe produits. Croissant (P < R).
+3. Produits et réactifs également favorisés.
+Courbe réactifs. Décroissant (R = P).
+Courbe produits. Croissant (P = R).
+4. Réaction irréversible complète.
+Courbe réactifs. Décroissant (R = 0).
+Courbe prouits. Croissant (P > R).
+
+!Modification de l'équilibre
+Facteurs qui modifient l'équilibre.
+1. Concentration.
+2. Pression.
+3. Température.
+Principe de. Le Chatelier.
+- Situation. Système équilibré qui subit un changement.
+- Résultat. Le système s'y oppose en partie.
+- Comment. Une des réactions sera momentanément favorisée jusqu'à retrouver un nouvel équililbre.
+Réaction favorisée. Réaction dont les produits augmentent.
+1. Réaction directe (↑P).
+2. Réaction indirecte (↑R).
+3. Réaction endothermique.
+3-1. Réaction directe (R + E ⇌ P).
+3-2. Réaction indirecte (R ⇌ P + E).
+4. Réaction exothermique.
+4-1. Réaction directe (R ⇌ P + E).
+4-2. Réaction indirecte (R + E ⇌ P).
+Équilibre. Déplace vers:
+1. La gauche (↑R).
+2. La droite (↑P).
+Application du principe. Prédire comment un système évoluera vers un nouvel équilibre à la suite d'une modification.
+- Début. R ⇌ P
+- Modification. R ⇌→ P, R ←⇌ P
+- Fin. R ⇌ P

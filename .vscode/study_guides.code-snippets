@@ -197,5 +197,9 @@
 	"elementof": {
 		"prefix": "elementof",
 		"body": "∈"
+	},
+	"equilibrium": {
+		"prefix": "equilibrium",
+		"body": "⇌"
 	}
 }
