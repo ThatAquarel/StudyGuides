@@ -1,0 +1,97 @@
+# Physics Exam 2024
+!Force
+Force. Action physique qui permet:
+1. De modifier l'état de mouvement d'un corps (mise en mouvement, arrêt, accel, décél);
+2. De le faire dévier se sa trajectoire;
+3. De le dévier.
+Force.
+- Grandeur. Vectorielle.
+- Unité. Newtons (N).
+- Instrument de mesure. Dynamomètre.
+Fg. Force gravitationnelle (N).
+- Définition. Force d'attraction qui s'exerce entre deux masses.
+P. Poids (N).
+- Définition. Force d'attraction qui s'exerce entre une masse et un astre.
+Fn ou N. Normale (N).
+- Définition. Force de poussée perpendiculaire exercée sur un objet par la surface où se trouve.
+Ff ou F. Force de frottement (N).
+- Définition. Force entre deux surfaces en contact qui s'exerce dans le sens contraire du mouvement.
+Fm. Force motrice (N).
+- Définition. Force exercée par un moteur, par des muscules, etc.
+T. Tension (N).
+- Définition. Force associée à une corde ou un ressort.
+- Type de force. Traction.
+Frappel. Force de rappel (N).
+- Définition. Force exercée par un resort pour retrouver sa position de repos.
+- À la suite de. Étirement ou compression.
+FR. Force résultante (N).
+- Définition. Somme des forces agissant sur un objet (nette).
+- Symbole. ΣF
+FE. Force équilibrante (N).
+- Définition. Force qui permet d'équilibrer un système de forces.
+
+!Diagramme de corps libre
+Diagramme de corps libre. Représentation de toutes les forces agissant sur un même objet.
+- À l'aide de. Vecteurs.
+Objet. Unique point (origine).
+Plan. Cartésien.
+Flèches. Toutes les forces agissant sur le corps.
+- Verticalement. P et N.
+- Horizontalement. Fm et f.
+
+!Force gravitationnelle
+Force gravitationnelle. Force d'attraction qui s'exerce entre deux masses séparées par une certaine distance.
+- Symbole. Fg (N).
+- Formule. Fg = Gm1m2 / d²
+- G. Constante de Cavendish (G = 6,67x10-11 Nm²/kg²).
+- m. Masse (kg).
+- d. Distance entre les deux masses (m).
+Proportionalité.
+- Directe. Masses (Fg ∝ m1m2).
+- Inverse. Carré de la distance (Fg ∝ 1/d²).
+
+!Intensité du champ gravitationnel
+Intensité du champ gravitationnel.
+- Symbole. g (N/kg).
+- Formule. g = GmA / r²
+- Équivalence. g = a (N/kg = m/s²).
+Terre. gT = 9,80 N/kg, aT = 9,80 m/s²
+Lune. gL = 1,62 N/kg, aL = 1,62 m/s²
+Soleil. gS = 274,00 N/kg, aS = 274,00 m/s²
+
+!Poids
+Poids (N). Force d'attraction qui s'exerce entre une masse (peu massive) et un astre.
+- Cas. Spécifique de la gravitation universelle (Fg).
+- Orientation. Vers le bas (centre de l'astre).
+- Formule. P = mg
+- m. Masse (kg).
+- g. Intensité du champ gravitationnel (N/kg).
+Distinction.
+- Poids. Valeur vectorielle, variable.
+- Masse. Valeur scalaire, invariable.
+
+!Normale
+Normale (N). Force exercée sur un objet par la surface où se trouve.
+- Force de. Résistance de la surface à la suite d'un écrasement.
+- Orientation. Perpendiculaire à la surface.
+Cas.
+1. N=P.
+- Mouvement objet. Immobile, mouvement constant.
+- Verticalement. ΣFy = 0,00N.
+2. N>P.
+- Exemple. Pousser objet.
+- Verticalement. ΣFy = 0,00N.
+- Surface. N>P, car écrasement par force motrice (Fmy).
+3. N<P.
+- Exemple. Tirer objet.
+- Verticalement. ΣFy = 0,00N.
+- Surface. N<P, car réduction de l'écrasement par force motrice (Fmy).
+4. N<P.
+- Exemple. Surface inclinée.
+- Axe des abscisses du DCL. Parallèle à la surface du plan incliné.
+- Orientation du poids. Vers le bas (centre de l'astre).
+- Poids. Décomposition (Px et Py).
+- Surface. N<P, car écrasement par composante verticale du poids (Py).
+Angle d'inclinaison du plan.
+- ↑θ. ↑Px, ↓Py, ↓N.
+- ↓θ. ↓Px, ↑Py, ↑N.
