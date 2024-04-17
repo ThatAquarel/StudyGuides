@@ -34,7 +34,7 @@ Nombres quantiques.
 4. Nombre quantique de spin (S).
 Nombre quantique principal (n). n ∈ {1, 2, 3, ...}
 - Description. Correspond au niveaux de Bohr.
-- Influence. L'énergie.
+- Influence. L'énergie, taille de l'orbitale.
 Nombre quantique secondaire (l). l ∈ {0, 1, ... , n-1}
 - Influence. L'énergie de manière minime (niveaux entre niveaux).
 - Explique. En partie les atomes à plusieurs électrons.
@@ -64,7 +64,7 @@ Nombre d'états permis. 2n²
 - n=2. 8.
 - n=3. 18.
 - l=0. 2.
-- l=1. 8.
+- l=1. 6.
 - l=2. 10.
 - l=4. 14.
 
