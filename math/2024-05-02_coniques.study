@@ -39,8 +39,35 @@ Régions.
 Hyperbole. Lieu géométrique constitué de tous les points
 1. Dont la différence en valeur absolue des distances aux foyers.
 2. Est égale à une constante (distance entre les sommets).
+Formules.
+- c. c² = a² + b²
+- Asymptotes. y = ±b/a
 Horizontale.
 - Équation. x²/a² - y²/b² = 1
+- Foyers. Axe des x.
+- Distance du centre à l'un des sommets. a
+- Demi-hauteur du rectangle. b
+- Distance du centre à l'un des foyers. c
 Verticale.
 - Équation. x²/a² - y²/b² = -1
+- Foyers. Axe des y.
+- Distance du centre à l'un des sommets. b
+- Demi-largeur du rectangle. a
+- Distance du centre à l'un des foyers. c
 
+!Parabole
+Parabole. Lieu géomérique constitué de tous les points
+1. Situés à égale distance d'un point fixe (le foyer) et d'une droite (la directrice).
+Sommet. S(h, k).
+c.
+1. Distance entre le sommet et la directrice.
+2. Distance entre le sommet et le foyer.
+2c. Distance entre la directrice et le foyer.
+Verticale.
+- Équation, haut. (x-h)² = 4c(y-k)
+- Équation, bas. (x-h)² = -4c(y-k)
+- Axe de symmétrie. x=h
+Horizontale.
+- Équation, droite. (y-k)² = 4c(x-h)
+- Équation, gauche. (y-k)² = -4c(x-h)
+- Axe de symmétrie. y=k
