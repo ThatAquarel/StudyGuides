@@ -95,3 +95,35 @@ Cas.
 Angle d'inclinaison du plan.
 - ↑θ. ↑Px, ↓Py, ↓N.
 - ↓θ. ↓Px, ↑Py, ↑N.
+
+!Inertie
+Inertie.
+1. Résistance d'un objet à subir une variation de sa vitesse.
+2. Tendance naturelle d'un objet de conserver son état de mouvement (immobile ou MRU).
+Facteur. Masse d'un objet (I ∝ m).
+- ↑m. ↑F pour engendrer un changement.
+- ↓m. ↓F pour engendrer un changement.
+
+!Première loi de Newton
+État de l'objet. En équilibre (ΣF = 0,00N → a = 0,00m/s²).
+Nom alternatif. Loi de l'inertie.
+Première loi de Newton.
+1. Tout objet qui est immobile ou en MRU conservera cet état de mouvement.
+2. Tant qu'une force ne le contraigne à changer son état.
+Types de forces. FE = -FR
+1. Force résultante (FR) → somme des forces qui agissent sur un objet.
+2. Force équilibrante (FE) → force qui permet d'équilibrer un système de forces.
+
+!Force de frottement
+Contact entre deux objets. Engendre l'adhérance.
+- Dépend de. Nature des matériaux, irrégularités des surfaces.
+Force de frottement. Force qui apparait au moment du déplacement d'un objet (friction).
+1. Grande au début pour décrocher les surfaces (frottement statique).
+2. Petite par la suite quand le glissement est possible (frottement cinétique).
+Formule. f = μN
+- f. Force de frottement (N).
+- μ. Coefficient de frottement.
+- N. Force normale (N).
+
+!Deuxième loi de Newton
+État de l'objet. Pas en équilibre (ΣF ≠ 0,00N → a 0,00m/s²)
