@@ -1,0 +1,33 @@
+# 2024-05-01 Chemistry Exam
+!Constante d'équilibre
+Constante d'équilibre.
+- Se détermine. Expérimentalement.
+- Par. Mesure des concentrations à l'équilibre.
+Quantités de réactifs et de produits à l'équilibre.
+- Tableau. IVE (Initial, variation, équilibre).
+- Coefficients. Calculer la variation des quantités (destruction et formation).
+
+!Loi de l'équilibre chimique
+Condition. À température donnée (toujours kc avec température).
+Loi de l'équilibre chimique. Rapport constant entre la concentration à l'équilibre:
+1. Des produits;
+2. Des réactifs.
+Formule générale. kc = [P]/[R]
+Avec aA + bB ⇌ cC + dD. kc = ([C]^c [D]^d)/([A]^a [B]^b)
+- [x]. Concentrations molaires (mol/L).
+- ^x. Coefficient molaires.
+Interprétation de la constante d'équilibre.
+- kc > 1. Produits favorisés.
+- kc < 1. Réactifs favorisés.
+- kc = 1. Ni les réactifs ni les produits sont favorisés.
+La constante d'équilibre ne renseigne pas sur. la vitesse d'un système à atteindre l'équilibre.
+
+!Modification de la constante d'équilibre
+Facteur qui modifie la constante d'équilibre.
+1. Température.
+Réaction directe favorisée. ↑kc.
+1. (↑T) R + E ⇌ P
+2. (↓T) R ⇌ P + E
+Réaction inverse favorisée. ↓kc.
+1. (↑T) R ⇌ P + E
+2. (↓T) R + E ⇌ P
