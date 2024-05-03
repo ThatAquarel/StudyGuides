@@ -127,3 +127,23 @@ Formule. f = μN
 
 !Deuxième loi de Newton
 État de l'objet. Pas en équilibre (ΣF ≠ 0,00N → a 0,00m/s²)
+- L'objet subit une. Accélération.
+Accélération.
+- Force. a ∝ F
+- Masse. a ∝ 1/m
+Formule. F = ma, ΣF = ma
+- F. Force résultante (N).
+- m. Masse de l'objet en mouvement (kg).
+- a. Accélération du système (m/s²).
+Convention des signes pour les forces.
+- Positif. Force orientée dans la même sens que le déplacement de l'objet.
+- Négatif. Force orientée dans le sens contraire au déplacement de l'objet.
+Convention des signes pour l'accélération.
+- Positif. Accélération dans la même sens que le déplacement de l'objet.
+- Négatif. Accélération dans le sens contraire au déplacement de l'objet.
+
+!Troisième loi de Newton
+État des objets. Couple action-réaction.
+- A → B. Corps A exerce une force (action) sur un corps B.
+- B → A. Corps B réagit en exerçant la même force sur le corps A (réaction) dans le sens opposé.
+Formule. F(A→B) = -F(B→A)
