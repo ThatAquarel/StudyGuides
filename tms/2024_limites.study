@@ -58,7 +58,10 @@ Asymptote verticale quand. lim x→n f(x)=∞ ou lim x→n f(x)=-∞, où n ∈ 
 
 !Analyse de fonction
 Étapes.
-1. 
-2. 
-3. 
-4. 
+1. Évaluer les discontinuités (démoninateur=0).
+2. Trouver les limites aux extrêmes (asymptotes horizontales). 
+3. Trouver les limites sur les discontinuités (asymptotes verticales).
+4. Dessiner la fonction.
+Suppositions.
+1. Pas traverser l'asymptote horizontale aux extrêmes, sauf au centre.
+2. Évaluer à mi-chemin entre les deux asymptotes.
