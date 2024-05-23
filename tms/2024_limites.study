@@ -50,11 +50,10 @@ Solutions. Briser la forme indéterminée.
 - 0/0 et ∞/∞. Factoriser.
 - ∞-∞ et 0·∞. Mise en évidence de la variable au plus grand degré.
 
-!Asymptotes horizontales
-Asymptote horizontale quand. lim x→-∞ f(x)=a ou lim x→∞ f(x)=a, où a ∈ R
-
-!Asymptotes verticales
-Asymptote verticale quand. lim x→n f(x)=∞ ou lim x→n f(x)=-∞, où n ∈ R
+!Asymptotes
+Asymptote.
+- Horizontale, quand. lim x→-∞ f(x)=a ou lim x→∞ f(x)=a, où a ∈ R
+- Verticale, quand. lim x→n f(x)=∞ ou lim x→n f(x)=-∞, où n ∈ R
 
 !Analyse de fonction
 Étapes.
@@ -65,3 +64,17 @@ Asymptote verticale quand. lim x→n f(x)=∞ ou lim x→n f(x)=-∞, où n ∈ 
 Suppositions.
 1. Pas traverser l'asymptote horizontale aux extrêmes, sauf au centre.
 2. Évaluer à mi-chemin entre les deux asymptotes.
+
+!Dérivée
+Pente.
+- Sécante. Variation moyenne (m = Δy/Δx).
+- Tangente. Variation instantanée (m = dy/dx).
+Dérivée.
+- Points nécessaires. Deux points voisins (distance qui les séparent tend vers zéro).
+- Coordonées. (x, f(x)) et (x+Δx, f(x+Δx))
+- Définition formelle. df/dx = lim Δx→0 (f(x+Δx)-f(x))/Δx
+- Notation de la dérivée de f(x). f'(x)
+Règles.
+1. (x^a)' = ax^(a-1)
+2. (ax)' = a
+3. k = 0
