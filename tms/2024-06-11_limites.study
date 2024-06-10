@@ -1,4 +1,4 @@
-# TMS Exam 2024
+# 2024-06-11 TMS Exam
 !Limites
 Limite. Tendance d'une fonction lorsque la variable indépendante tend vers une valeur.
 Notation.
@@ -77,4 +77,8 @@ Dérivée.
 Règles.
 1. (x^a)' = ax^(a-1)
 2. (ax)' = a
-3. k = 0
+3. (k)' = 0
+4. (f+g)' = f' + g'
+5. (f^a)' = af^(a-1) · f'
+6. (f·g)' = f'g + fg'
+7. (f/g)' = (f'g - fg')/ g²
