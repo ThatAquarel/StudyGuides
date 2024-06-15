@@ -32,6 +32,52 @@ Situations possibles.
 3. Budget déficitaire (revenus < dépenses).
 - Conséquence. Reprendre le contrôle des finances.
 
+!Bilan financier
+Période de temps. Situation actuelle.
+Définition. Document qui dresse un portrait de la valeur nette d'un individu à un moment précis.
+Éléments. Actif (biens de valeur d'une personne) - Passif (dettes et obligations financières) = Avoir (valeur nette).
+Types de bilans. Solvable (bilan positif), Insolvable (bilan négatif).
+Pourquoi solvable. La dette peut être réglée par la vente d'un de ses actifs.
+
+!Types de contrats de crédit
+Catégories de contrats de crédit.
+1. Contrat de prêt d'argent.
+- Définition. Montant fixe à rembourser avec intérêts à date spécifique.
+2. Contrat de crédit variable.
+- Définition. Montant prêté et la durée ne sont pas fixés d'avance.
+3. Contrat de vente à tempérament.
+- Définition. Bien donné en garantie jusqu'au remboursement complet.
+Contrats de prêt d'argent. SVH.
+1. Prêt personnel simple.
+- Qui. Souvent membre de la famille ou amis.
+- Définition. Emprunt d'une somme avec intérêts.
+- Quand. Remboursement à une date convenue.
+2. Prêt personnel à versement constant.
+- Définition. Emprunt d'une somme avec intérêts.
+- Quand. Remboursement graduel par des versements périodiques.
+- Variables. Taux d'intérêt, montant emprunté, période de remboursement.
+- Conséquence longue période. Faible paiement mensuel, intérêts élevés.
+3. Prêt hypothécaire.
+- Garantie. Par le bien qu'il finance (maison, immeuble).
+- Taux d'intérêt. Généralement plus bas que les autres types de prêts.
+- Intérêts. Grosse somme ∵ somme empruntée élevée, longue période.
+Contrats de crédit variable. CM.
+1. Carte de crédit.
+- Qui. Banques, caisses, grandes entreprises et magasins (font crédit aux consommateurs).
+- Avantages. Accessible, facile, assurances, récompenses.
+- Désavantages. Taux d'intérêt élevés, impression qu'on peut dépenser plus.
+- Permet. Faire un achat et de payer plus tard.
+- Intérêts. Aucun durant la période de grâce de 21 jours, intérêts sur les avances de fond.
+2. Marge de crédit.
+- Qui. Institution financière.
+- Définition. Mise de disposition d'un montant à une personne.
+- Intérêts. Dès qu'on utilise les fonds.
+- Taux d'intérêts. Généralement plus faibles que la carte de crédit.
+Contrat de vente à tempérament.
+1. Contrat de vente à tempéramment.
+- Bien acheté. Consommateur possède le bien seulement quand le montant et les intérêts sont payés.
+- Contrat de crédit. Cédé à une institution financière dès l'achat du bien.
+
 !Facteurs de risque du crédit
 Conséquences des risques.
 1. Difficultés à joindre les deux bouts.
@@ -113,12 +159,14 @@ Exemples.
 2-2. Plus de voyages.
 2-3. Déménager.
 3. Faire face aux imprévus.
+Type d'épargne. Fonds d'urgence.
 Exemples.
-3-1. Réparere une voiture.
+3-1. Réparer une voiture.
 3-2. Rétablir d'une maladie.
 3-3. Trouver un nouvel emploi.
 
 !Intérêts
+Capital. Argent placé.
 Types.
 1. Intérêts simples.
 Calcul. Uniquement sur le capital.
@@ -126,12 +174,12 @@ Calcul. Uniquement sur le capital.
 Calcul. Sur le capital et sur les intérêts.
 
 !Stratégies d'épargne
+Pour. Retraite.
 Stratégies d'épargne.
 1. Commencer tôt.
 Raison. Intérêts composés → temps est primordial.
 2. Fixer des objectifs.
 Contexte. But, Temps, Montant, Budget.
-Exemple. Retraite.
 3. Épargner régulièrement.
 Raison. Garder l'habitude.
 Comment. Automatiser.
@@ -139,48 +187,61 @@ Pour diminuer le risque. Diversification.
 - Exemple. Fonds communs de placement
 
 !Choisir le types d'épargne
-Critères qui aident au choix.
-1. Rendement.
-Définition. Revenu que l'argent investi peut générer.
-2. Sécurité.
-Définition. Risque associé → De pas obtenir le rendement prévu, De perdre l'argent investi.
-Relation avec le rendement. Inversement proportionnel.
-Types de placement. Sûr ou volatile.
-Temps pour les placements risqués. Long terme.
-3. Liquidité.
-Définition. Rapidité qu'on peut transformer l'épargne en argent comptant (placement liquide).
-Désavantage des placements liquides. Rendements moins intéressants → incertitude pour les institutions financières.
+Rendement. Revenu que l'argent investi peut générer.
+Diversification. Multiples placements plutôt qu'un seul → diminuer le risque.
+Risque. Pas obtenir le rendement, perdre l'argent investi.
+Volatilité. Placement dont la valeur fluctue grandement dans le temps.
+Sécurité.
+- Garantie. L'argent investie ne sera pas perdu.
+- Relation avec le rendement. Inversement proportionnel.
+- Types de placement. Sûr ou volatile.
+- Temps pour les placements risqués. Long terme.
+Liquidité.
+- Définition. Rapidité qu'on peut transformer l'épargne en argent comptant.
+- Nom. Placement liquide.
+- Désavantage des placements liquides. Rendements moins intéressants → incertitude pour les institutions financières.
 Combinaison des critères. Profil d'investisseur.
 1. Investisseurs prudents (-risque, -rendement).
 2. Investisseurs modérés (~risque).
 3. Investisseurs audacieux (+risque, +rendement).
 
 !Outils d'épargne
-Familles des outils d'épargne.
+Familles.
 1. Comptes bancaires et les placements garantis.
+1-A. Comptes bancaires.
+1-B. Placements garantis.
+2. Valeurs mobilières.
+2-A. Obligations.
+2-B. Actions.
+2-C. Fonds communs de placement.
+3. Valeurs immobilières.
+3-A. Immobilier.
+
+!Comptes bancaires et les placements garantis
 Provenance des rendements. Intérêts versés (faible).
 Avantage. Sûr.
 Situation. Fonds d'urgence, projets à court terme.
-1-1. Comptes bancaires.
+A. Comptes bancaires.
 Définition. Compte bancaire dans lequel l'argent est déposé.
 Types de comptes.
-1-1-1. Compte d'épargne (intérêts <1%) → sauver de l'argent.
-1-1-2. Compte chèques (intérêts souvent Ø) → opérations courantes.
+1. Compte d'épargne (intérêts <1%) → sauver de l'argent.
+2. Compte chèques (intérêts souvent Ø) → opérations courantes.
 Désavantage. Frais bancaires.
-1-2. Placements garantis.
+B. Placements garantis.
 Définition. Capital placé est garanti.
 Par. Institution financière, Société d'assurance-dépôts du Canada (SADC) jusqu'à concurrence de 100 000$.
 Types.
-1-2-1. Rachetable → revendre, -intérêts.
-1-2-2. Non rachetable → conserver jusqu'à l'échéance, +intérêts.
+1. Rachetable → revendre, -intérêts.
+2. Non rachetable → conserver jusqu'à l'échéance, +intérêts.
 Exemples.
-1-2-1. Dépôts à terme.
-1-2-2. Certificats de placement garanti (CPG).
-2. Valeurs mobilières.
+1. Dépôts à terme.
+2. Certificats de placement garanti (CPG).
+
+!Valeurs mobilières
 Définition. Outils d'épargne qu'on peut vendre ou acheter sur le marché des valeurs mobilières.
 Espère. Obtenir un prix supérieur au prix déboursé pour l'acquisition.
 Conséquence. Gain en capital (profit).
-2-1. Obligations.
+A. Obligations.
 Qui. Compagnies et gouvernement.
 Quand. Besoin d'emprunter des sommes importantes.
 Quoi. Émettre des obligations.
@@ -188,40 +249,45 @@ Lors d'un achat. Prêt d'argent → promesse que le capital sera remboursé avec
 Relation du prix de ldes obligations et les taux d'intérêts. Inversement proportionnel.
 Risque. Faillite de la compagnie.
 Garanti. Non.
-2-2. Actions.
+B. Actions.
 Définition. Titre de propriété.
 Lors d'un achat. Propriétaire de la compagnie.
 Sources de revenus.
-2-2-1. Dividendes (partie des bénifices de l'entreprise redistribuée aux détenteurs d'actions).
-2-2-2. Gain en capital potentiel.
-Où. Échanges à la bourse.
+1. Dividendes (partie des bénifices de l'entreprise redistribuée aux détenteurs d'actions).
+2. Gain en capital potentiel.
+Où. Actions des compagnies échangées à la bourse.
 Désavantages.
-2-2-1. Complexité.
-2-2-2. Couteux (frais de transaction).
-2-2-3. Risqué (une seule entreprise).
+1. Complexité.
+2. Couteux (frais de transaction).
+3. Risqué (une seule entreprise).
 Garanti. Non.
-2-3. Fonds communs de placement.
+C. Fonds communs de placement.
 Autre nom. Fonds mutuels.
 Par. Institution financière.
 Définition. Regrouper l'argent de plusieurs épargnants → placer dans divers compagnies.
 Avantages.
-2-3-1. Gestionnaire choisit les placements.
-2-3-2. Épargner sur les frais de transaction.
-2-3-3. Diversifier le portefeuille.
-Risque. Dépend des objectifs (actions, gouvernementale, compagnies émergents, grandes compagnies).
+1. Gestionnaire choisit les placements.
+2. Épargner sur les frais de transaction.
+3. Diversifier le portefeuille.
+Risque. Dépend des objectifs :
+1. Actions.
+2. Gouvernementale.
+3. Compagnies émergents.
+4. Grandes compagnies.
 Garanti. Non.
-3. Valeurs immobilières.
+
+!Valeurs immobilières
 Définition. Investissement dans l'immobilier.
 Exemples.
-3-1. Maison.
-3-2. Immeuble.
-3-3. Terrain.
+1. Maison.
+2. Immeuble.
+3. Terrain.
 Rendement. Gain en capital (élevé).
 Risque. Faible (immeuble conserve sa valeur).
 Désavantages.
-3-1. Entretien.
-3-2. Taxes.
-3-3. Liquidité faible (trouver acheteur).
+1. Entretien.
+2. Taxes.
+3. Liquidité faible (trouver acheteur).
 
 !Régimes enregistrés
 Cotisation. Verser une somme.
@@ -256,3 +322,9 @@ Revenus générés. Abri de l'impôt.
 4. CELIAPP (Compte d'épargne libre d'impôts pour l'achat d'une première propriété).
 Cotisation.
 - Maximale. 8000$/an et 40 000$ à vie.
+
+!Inflation
+Inflation. Augmentation des prix des biens et des services que nous achetons.
+Manque à gagner. Différence entre placement à intérêt composé et biens et services à un taux d'inflation.
+Critère d'investissement. Rendement > Taux d'inflation.
+- Conséquence. Perte du pouvoir d'achat.
