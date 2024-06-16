@@ -1,0 +1,323 @@
+# Physics Exam 2024-06-17
+!Trajectoire
+Trajectoire. Ensemble des points de l'espace associé à la variation de position d'un objet.
+Types de trajectoire.
+1. Trajectoire rectiligne (ligne droite) → train, masses d'air.
+2. Trajectoire curviligne (ligne courbe) → basket, baseball.
+3. Trajectoire circulaire (cercle) → grande roue, essuie-glace, barrières.
+4. Trajectoire quelquonque (aléatoire) → feuilles, oiseau, traffic.
+Vitesse de l'objet de la trajectoire.
+1. Constante.
+2. Diminuée.
+3. Augmentée.
+
+!Mouvement
+Mouvement. Variation de la position d'un object dans l'espace en fonction du temps.
+Perception du mouvement dépend de. L'observateur (immobile ou en mouvement).
+Caractéristique de la trajectoire et de la vitesse. Relative.
+Ce qui permet l'analyse du mouvement d'un objet. Système de référence (point d'origine fixe et coordonnées).
+1. Droite numérique (1 dimension).
+2. Plan cartésien (2 ou 3 dimensions).
+Décrire un mouvement.
+0. Trajectoire.
+1. Déplacement.
+2. Avance (droite) / Recule (gauche).
+3. Accélère / Décélère.
+4. MRU / MRUA.
+
+!Géométrie vectorielle
+Scalaire. Grandeur définie par une valeur et une unité de mesure.
+Vecteur. Grandeur définie par une valeur, une unité de mesure et une orientation (direction et sens).
+Types de coordonées.
+1. Coordonnées polaires (θ ≥ 0,0°).
+2. Coordonnées cartésiennes (composantes).
+3. Points cardinaux (30km [E, 50°, N], 50° au Nord de l'Est).
+
+!Variables de mouvement
+Variables.
+t. Temps (s).
+- Formule. Δt = tf - ti
+x. Position sur l'axe des x (scalaire) (m).
+y. Position sur l'axe des y (scalaire) (m).
+d. Distance parcourue (scalaire) (m).
+Δx. Déplacement sur l'axe des x (≤d) (vecteur) (m).
+- Formule. Δx = xf - xi
+Δy. Déplacement sur l'axe des y (≤d) (vecteur) (m).
+- Formule. Δy = yf - yi
+vmoy. Vitesse moyenne (scalaire) (m/s).
+- Formule. vmoy = d/Δt
+v. Vitesse (vecteur) (m/s).
+- Formule x. vx = Δx/Δt
+- Formule y. vy = Δy/Δt
+a. Accélération (vecteur) (m/s²).
+- Formule x. ax = Δvx/Δt
+- Formule y. ay = Δvy/Δt
+
+!Types de mouvement
+MRU. Mouvement rectiligne uniforme.
+- Graphique de position. Linéaire.
+- Graphique de vitesse. Constante.
+- Formules vitesses. vx = Δx/Δt, vy = Δy/Δt
+- Valeur accélération. a = 0,00 m/s²
+MRUA. Mouvement rectiligne uniformément accéléré.
+- Graphique de position. Quadratique.
+- Graphique de vitesse. Linéaire.
+- Graphique d'accélération. Constante.
+- Formules accélélaration. ax = Δvx/Δt, ay = Δvy/Δt
+
+!Convention de signes
+Signe de la vitesse.
+- Positif. Avance (droite), monte (haut).
+- Négatif. Recule (gauche), descend (bas).
+Valeur de la variation de vitesse.
+- Augmente. Accélère (MRUA).
+- Diminute. Décélère (MRUA).
+- Constante. Vitesse uniforme, immobile (MRU).
+Signe de l'accélération.
+- Positif. Avance et accélère, recule et décélère.
+- Négatif. Avance et décélère, recule et accélère.
+
+!Graphiques
+Position en fonction du temps.
+- Dérivé. Vitesse.
+Vitesse en fonction du temps.
+- Intégral. Variation de position (déplacement).
+- Dérivé. Accélération.
+Accélération en fonction du temps.
+- Intégral. Variation de vitesse.
+
+!Vitesse instantanée
+Vitesse instantanée. Vitesse d'un corps à un Δt qui tend vers 0 (Δt → 0).
+Parallèle à la tangente. Sécante.
+Approximation de la tangente. Pente à l'aide des deux points directement adjacents.
+
+!Formules
+Déplacement. Δx = vi · Δt + ½aΔt
+Différence de vitesses. 2aΔx = vf² - vi² 
+Accélération. a = ½(vf - vi)
+
+!Projectiles
+Projectile. Objet lancé.
+- Avec. Une vitesse ou à partir du repos.
+- Orientation. Quelconque.
+Chute libre. Mouvement d'un corps soumis uniquement à l'effet de la gravité.
+Gravité. Force d'attraction entre deux objets due à
+1. Leur masse (Fg ∝ m1, Fg ∝ m2).
+2. La distance qui les séparent (Fg ∝ 1/d²).
+À la surface d'un astre. Accélération de tout corps en mouvement vertical.
+- Monter. Décélération.
+- Descente. Accélération.
+Type de mouvement. MRUA.
+Orientation de l'accélération gravitationelle. Toujours vers le bas.
+Gravité.
+- Terre. a = -9,80 m/s²
+- Lune. a = -1,60 m/s²
+Chute libre dans le vide.
+- Deux objets de masses différentes. Même vitesse, même temps de chute.
+Chute libre dans l'air.
+- Résistance. Friction de l'air.
+- Objets de même forme et même masse. Résistance est sensiblement la même.
+
+!Mouvement horizontal
+Mouvements horizontal et vertical. Indépendants.
+- Horizontal. MRU.
+- Vertical. MRUA.
+Distances parcourues.
+- Horizontal. Portée. 
+- Vertical. Hauteur.
+
+!Force
+Force. Action physique qui permet:
+1. De modifier l'état de mouvement d'un corps (mise en mouvement, arrêt, accel, décél);
+2. De le faire dévier se sa trajectoire;
+3. De le dévier.
+Force.
+- Grandeur. Vectorielle.
+- Unité. Newtons (N).
+- Instrument de mesure. Dynamomètre.
+Fg. Force gravitationnelle (N).
+- Définition. Force d'attraction qui s'exerce entre deux masses.
+P. Poids (N).
+- Définition. Force d'attraction qui s'exerce entre une masse et un astre.
+Fn ou N. Normale (N).
+- Définition. Force de poussée perpendiculaire exercée sur un objet par la surface où se trouve.
+Ff ou F. Force de frottement (N).
+- Définition. Force entre deux surfaces en contact qui s'exerce dans le sens contraire du mouvement.
+Fm. Force motrice (N).
+- Définition. Force exercée par un moteur, par des muscules, etc.
+T. Tension (N).
+- Définition. Force associée à une corde ou un ressort.
+- Type de force. Traction.
+Frappel. Force de rappel (N).
+- Définition. Force exercée par un resort pour retrouver sa position de repos.
+- À la suite de. Étirement ou compression.
+FR. Force résultante (N).
+- Définition. Somme des forces agissant sur un objet (nette).
+- Symbole. ΣF
+FE. Force équilibrante (N).
+- Définition. Force qui permet d'équilibrer un système de forces.
+
+!Diagramme de corps libre
+Diagramme de corps libre. Représentation de toutes les forces agissant sur un même objet.
+- À l'aide de. Vecteurs.
+Objet. Unique point (origine).
+Plan. Cartésien.
+Flèches. Toutes les forces agissant sur le corps.
+- Verticalement. P et N.
+- Horizontalement. Fm et f.
+
+!Force gravitationnelle
+Force gravitationnelle. Force d'attraction qui s'exerce entre deux masses séparées par une certaine distance.
+- Symbole. Fg (N).
+- Formule. Fg = Gm1m2 / d²
+- G. Constante de Cavendish (G = 6,67x10-11 Nm²/kg²).
+- m. Masse (kg).
+- d. Distance entre les deux masses (m).
+Proportionalité.
+- Directe. Masses (Fg ∝ m1m2).
+- Inverse. Carré de la distance (Fg ∝ 1/d²).
+
+!Intensité du champ gravitationnel
+Intensité du champ gravitationnel.
+- Symbole. g (N/kg).
+- Formule. g = GmA / r²
+- Équivalence. g = a (N/kg = m/s²).
+Terre. gT = 9,80 N/kg, aT = 9,80 m/s²
+Lune. gL = 1,62 N/kg, aL = 1,62 m/s²
+Soleil. gS = 274,00 N/kg, aS = 274,00 m/s²
+
+!Poids
+Poids (N). Force d'attraction qui s'exerce entre une masse (peu massive) et un astre.
+- Cas. Spécifique de la gravitation universelle (Fg).
+- Orientation. Vers le bas (centre de l'astre).
+- Formule. P = mg
+- m. Masse (kg).
+- g. Intensité du champ gravitationnel (N/kg).
+Distinction.
+- Poids. Valeur vectorielle, variable.
+- Masse. Valeur scalaire, invariable.
+
+!Normale
+Normale (N). Force exercée sur un objet par la surface où se trouve.
+- Force de. Résistance de la surface à la suite d'un écrasement.
+- Orientation. Perpendiculaire à la surface.
+Cas.
+1. N=P.
+- Mouvement objet. Immobile, mouvement constant.
+- Verticalement. ΣFy = 0,00N.
+2. N>P.
+- Exemple. Pousser objet.
+- Verticalement. ΣFy = 0,00N.
+- Surface. N>P, car écrasement par force motrice (Fmy).
+3. N<P.
+- Exemple. Tirer objet.
+- Verticalement. ΣFy = 0,00N.
+- Surface. N<P, car réduction de l'écrasement par force motrice (Fmy).
+4. N<P.
+- Exemple. Surface inclinée.
+- Axe des abscisses du DCL. Parallèle à la surface du plan incliné.
+- Orientation du poids. Vers le bas (centre de l'astre).
+- Poids. Décomposition (Px et Py).
+- Surface. N<P, car écrasement par composante verticale du poids (Py).
+Angle d'inclinaison du plan.
+- ↑θ. ↑Px, ↓Py, ↓N.
+- ↓θ. ↓Px, ↑Py, ↑N.
+
+!Inertie
+Inertie.
+1. Résistance d'un objet à subir une variation de sa vitesse.
+2. Tendance naturelle d'un objet de conserver son état de mouvement (immobile ou MRU).
+Facteur. Masse d'un objet (I ∝ m).
+- ↑m. ↑F pour engendrer un changement.
+- ↓m. ↓F pour engendrer un changement.
+
+!Première loi de Newton
+État de l'objet. En équilibre (ΣF = 0,00N → a = 0,00m/s²).
+Nom alternatif. Loi de l'inertie.
+Première loi de Newton.
+1. Tout objet qui est immobile ou en MRU conservera cet état de mouvement.
+2. Tant qu'une force ne le contraigne à changer son état.
+Types de forces. FE = -FR
+1. Force résultante (FR) → somme des forces qui agissent sur un objet.
+2. Force équilibrante (FE) → force qui permet d'équilibrer un système de forces.
+
+!Force de frottement
+Contact entre deux objets. Engendre l'adhérance.
+- Dépend de. Nature des matériaux, irrégularités des surfaces.
+Force de frottement. Force qui apparait au moment du déplacement d'un objet (friction).
+1. Grande au début pour décrocher les surfaces (frottement statique).
+2. Petite par la suite quand le glissement est possible (frottement cinétique).
+Formule. f = μN
+- f. Force de frottement (N).
+- μ. Coefficient de frottement.
+- N. Force normale (N).
+
+!Deuxième loi de Newton
+État de l'objet. Pas en équilibre (ΣF ≠ 0,00N → a 0,00m/s²)
+- L'objet subit une. Accélération.
+Accélération.
+- Force. a ∝ F
+- Masse. a ∝ 1/m
+Formule. F = ma, ΣF = ma
+- F. Force résultante (N).
+- m. Masse de l'objet en mouvement (kg).
+- a. Accélération du système (m/s²).
+Convention des signes pour les forces.
+- Positif. Force orientée dans la même sens que le déplacement de l'objet.
+- Négatif. Force orientée dans le sens contraire au déplacement de l'objet.
+Convention des signes pour l'accélération.
+- Positif. Accélération dans la même sens que le déplacement de l'objet.
+- Négatif. Accélération dans le sens contraire au déplacement de l'objet.
+
+!Troisième loi de Newton
+État des objets. Couple action-réaction.
+- A → B. Corps A exerce une force (action) sur un corps B.
+- B → A. Corps B réagit en exerçant la même force sur le corps A (réaction) dans le sens opposé.
+Formule. F(A→B) = -F(B→A)
+
+!Travail mécanique
+Travail mécanique. Avec une force parallèle au déplacement (efficace).
+Travail total. Avec plusieurs forces.
+Formule. W = FΔx
+- W. Travail (scalaire) (J).
+- F. Force appliquée (vecteur) (N).
+- Δx. Déplacement (vecteur) (m).
+Types de travail.
+1. Travail moteur (force même direction que le déplacement).
+2. Travail réssitant (quand une force agit dans la direction contraire au déplacement).
+3. Travail nul (Force agit selon une orientation différente ou aucun déplacement).
+
+!Énergie
+Transfert d'énergie. Objet qui effectue un travail sur un objet.
+- Objet 1. Perte d'énergie.
+- Objet 2. Gain d'énergie.
+Énergie.
+1. Conserve.
+2. Transfère.
+3. Transforme.
+Formule. W = ΔE
+- W. Travail (scalaire) (J).
+- ΔE. Variation d'énergie (scalaire) (J).
+Énergie potentielle gavitationnelle. Énergie emmagasinée dans un corps associée à sa variation de position.
+Formule. Ep = mgh
+- Ep. Énergie potentielle (scalaire) (J).
+- m. Masse (kg).
+- g. Intensité du champ gravitationnelle (N/kg).
+- h. Hauteur (m).
+Énergie cinétique. Énergique que possède un corps en mouvement.
+Formule. Ec = ½mv²
+- Ec. Énergie cinétique (scalaire) (J).
+- m. Masse (kg).
+- v. Vitesse (m/s).
+Énergie mécanique. Énergie associée à la position et au mouvement.
+Formule. Em = Ep + Ec
+
+!Loi de la conservation de l'énergie
+Énergie totale d'un système. Toujours conservée.
+Système sans frottement. Énergie mécanique identique.
+- Formule énergie. Emi = Emf
+- Formule expansion. Epi + Eci = Epf + Ecf
+Système avec frottement. Énergie initiale perdue sous forme de chaleur dans l'environnement.
+- Formule énergie. Emi = Emf + Q
+- Formule expansion. Epi + Eci = Epf + Ecf + Wf
+

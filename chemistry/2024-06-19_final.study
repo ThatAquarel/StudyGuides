@@ -1,0 +1,1004 @@
+# Chemistry Exam 2024-06-19
+!Phases de la matière
+Phases.
+1. Solide.
+- Forme. Défini.
+- Volume. Défini.
+- Mouvement. Vibration.
+2. Liquide.
+- Forme. Indéfini.
+- Volume. Défini.
+- Mouvement. Rotation, vibration.
+3. Gazeux.
+- Forme. Indéfini.
+- Volume. Indéfini.
+- Mouvement. Translation, rotation, vibration.
+- Attraction entre particules. Nulle.
+
+!Changements de phase
+Changement de phase. Implique de l'énergie thermique.
+1. Gain d'énergie.
+- Mouvements. + mouvements.
+- Liens. Bris des liens intermoléculaires.
+2. Perte d'énergie.
+- Mouvements. - mouvements.
+- Liens. Formation de liens intermoléculaires.
+Changements de phases.
+- Solide → Liquide. (+E) Fusion.
+- Liquide → Solide. (-E) Solidification.
+- Liquide → Gazeux. (+E) Vaporisation.
+- Gazeux → Liquide. (-E) Condensation liquide.
+- Gazeux → Solide. (-E) Condensation solide.
+- Solide → Gazeux. (+E) Sublimation.
+
+!Théorie cinétique des gaz
+Hypothèses de la théorie cinétique des gaz.
+1. Volume individuel des particules → négligeable comparé à la distance.
+2. Continuellement en mouvement.
+3. Aucune force d'attraction et de répulsion.
+4. Énergie cinétique (E(c)) moyenne est ∝ à la T° en Kelvins.
+
+!Effet de la température sur l'énergie cinétique
+Effet de la température sur l'énergie cinétique. ↑T° ∴ ↑E(c) ∵ ↑v
+- Haute T°. +vitesse ∴ +E(c).
+- Basse T°. -vitesse ∴ -E(c).
+Mélange de gaz à température donnée. Toutes les molécules de gaz ont la même E(c).
+Effet de la masse atomique sur la vitesse à une température donnée. ↑m ∴ ↓v.
+- Grand m. -vitesse ∴ E(c) identique à T° fixe.
+- Petit m. +vitesse ∴ E(c) identique à T° fixe.
+
+!Propriétés chimique des gaz
+Raison pour les propriétés chimiques. Réactivité chimique.
+1. Façon d'aquérir la stabilité chimique (selon le nb de e- à gagner ou perdre).
+2. Force des liens unissant les atomes dans les molécules.
+Exemple.
+N2. Triple lien covalent (+stable ∴ -réactif).
+F2. Seul lien covalent (-stable ∴ +réactif).
+Exemple de réactivité chimique. Combustion.
+Facteurs nécessaires à la combustion.
+1. Comburant.
+2. Carburant.
+3. Énergie d'activation.
+Type de gaz combustible. Hydrocarbures C(n)H(2n+2)
+1. Méthane CH(4)
+1-Formule de combustion. CH(4) + 2O(2) → CO(2) + 2H(2)O
+2. Propane C(3)H(8)
+
+!Propriétés physique des gaz
+Raison pour les propriétés physiques.
+1. Mouvement continu des particules.
+2. Grande distance entre les particules.
+Propriétés physique.
+1. Compressibilité.
+- Définition. Capacité d'une substance à diminuer son volume sous l'effet d'une force.
+2. Expansion.
+- Définition. Capacité d'un gaz à se dilater pour occuper tout l'espace disponible.
+3. Diffusion.
+- Définition. Processus par lequel des substances gazeuses se mélangent grâce au mvmt aléatoire des particules.
+4. Effusion.
+- Définition. Processus par lequle un gaz s'échappe d'un contenant par une petite ouverture.
+Exemples.
+1. Seringue.
+1-1. Compressibilité → particules se rapprochent sous l'effet de la force du piston.
+1-2. Expansion → le piston revient grâce à l'expansion du gaz.
+2. Aérosol.
+2-1. Effusion → l'air se faufile par le trou.
+2-2. Diffusion → l'air se mélange.
+
+!Variables qui influencent le volume
+Variables qui influent le volume d'un gaz.
+1. Pression (P), Inversement proportionnel (↑P ∴ ↓V, ↓P ∴ ↑V).
+2. Nombre de particules (n), Proportionnel (↑n ∴ ↑V, ↓n ∴ ↓V).
+3. Température (T), Proportionnel (↑T ∴ ↑V, ↓T ∴ ↓V).
+
+!Pression
+Pression. Force exercée sur une surface donnée.
+1. Pression atmosphérique.
+2. Pression exercée par un gaz ou un mélange.
+Unités. Pascals (1Pa = 1N/m²).
+Conversion. 1atm = 760mmHg = 101,3kPa.
+
+!Pression atmosphérique
+Pression atmosphérique. Force exercée par l'air à la surface des objets.
+Instrument. Baromètre.
+- ↑P(atm). ↑mmHg.
+- ↓P(atm). ↓mmHg.
+Forces qui agissent.
+1. Gravité (vers le bas).
+2. P(atm) (vers le haut).
+Prise de mesure. Mercure cesse de bouger lorsque les forces s'égalisent.
+Relation. P(atm) = h
+
+!Pression exercée par un gaz
+Pression des gaz. Force exercée par les particules d'un gaz lorsqu'elles frappent lles parois d'un contenant.
+Instrument. Manomètres.
+1. Manomètre à bout fermé.
+- Forces qui agissent.
+- 1. P(vide) = 0kPa
+- 2. P(gaz) > P(vide)
+- Prise de mesure. Par comparaison des forces.
+- Relation. P(gaz) = Δh
+1. Manomètre à bout ouvert.
+- Forces qui agissent.
+- 1. P(atm).
+- 2. P(gaz).
+- Prise de mesure. Par comparaison des forces.
+- Relations.
+- 1. P(gaz) = P(atm) ∴ P(gaz) = P(atm)
+- 2. P(gaz) > P(atm) ∴ P(gaz) = P(atm) + Δh
+- 2. P(gaz) < P(atm) ∴ P(gaz) = P(atm) - Δh
+
+!Lois des gaz
+V vs P. Boyle-Mariotte: P(1) · V(1) = P(2) · V(2) si n et T sont constants.
+V vs n. Avogadro: V(1) / n(1) = V(2) / n(2) si P et T sont constants.
+V vs T. Charles: V(1) / T(1) = V(2) / T(2) si n et P sont constants.
+
+!Déplacement des gaz
+Déplacement. Haute vers basse pression, forte concentration vers faible.
+
+!Bonbonnes
+Début. P(int) > P(ext).
+Fin. P(int) = P(text).
+
+!Échelle de température absolue
+Permet. Relation directement proportionelle entre V et T.
+Intervalle des valeurs. Positive.
+Minimum. 0K.
+Volume d'un gaz à zéro absolue. Nul selon la théorie cinétique.
+Conversions.
+- Celsius à Kelvin. T(K) = T(C) + 273
+- Kelvin à Celsius. T(C) = T(K) - 273
+
+!Hypothèse d'Avogadro
+Hypothèse d'Avogadro. V ∝ n
+Conditions supplémentaires V vs n.
+1. Même gaz dont la situation évolue.
+2. Deux gaz différents comparés l'un à l'autre.
+Volume d'un gaz n'est pas influencée par.
+1. Nature du gaz.
+2. Grosseur des particules.
+3. Masse molaire.
+
+!Loi des combinaisons gazeuses
+Définition. 
+1. Rapport des volumes de gaz impliqués dans une réaction.
+2. Équivalent au rapport des coefficients molaires.
+Unités de stoechimétrie supplémentaire. En volume.
+Condition. Seulement pour les espèces à l'état gazeux d'une réaction donnée.
+
+!Volume molaire
+Définition. Volume qu'occupe une mole de gaz, peu importe sa nature à une P et T donnée.
+Formule. V(m) = V/n
+Unité. L/mol
+Conditions standards.
+TPN.
+- Définition. Température et pression normale.
+- Température. O°C = 273K
+- Pression. 101,3kPa
+- Volume molaire. 22,4L/mol
+TAPN.
+- Définition. Température ambiante et pression normale.
+- Température. 25°C = 298K
+- Pression. 101,3kPa
+- Volume molaire. 24,5L/mol
+
+!Loi générale des gaz
+Variables mis en évidence. P, V, n et T
+Permet. Prévoir les conditions finales de 1 ou 2 gaz à partir de ses conditions générales.
+Formule. (P(1) · V(1)) / (n(1) · T(1)) = (P(2) · V(2))/(n(2) · T(2))
+Si une variable est constante. Enlève de la formule → restriction.
+
+!Loi des gaz parfaits
+Variables mis en évidence. P, V, n et T
+Permet. Prévoir les conditions sans effectuer de comparaison.
+Gaz parfait. Gaz hypothétique (théorie cinétique).
+- Comportements. Selon les lois simples.
+- Gaz réels. Équivaut aux gaz parfaits sous certaines conditions.
+- Conditions. Faible pression (P≈101,3kPa), Haute température (T≈0°C ou T≈25°C)
+Relation de la loi des gaz parfaits. PV = nRT
+Constante absolue. R=8,31 (kPa · L) / (mol · K)
+Données expérimentales. Considérer R avec marge de ±10%
+
+!Lois simples associés à la pression
+P vs T. P(1) / T(1) = P(2) / T(2) si n et V constant.
+- Relation. P ∝ T (↑T, +agitation, +chocs, ↑P).
+P vs V. P(1) · V(1) = P(2) · V(2) si n et T constant.
+- Relation. P ∝ 1/V (↑V, +surface, -chocs, ↓P).
+P vs n. P(1) / n(1) = P(2) / n(2) si V et T constant.
+- Relation. P ∝ n (↑n, +particules, +chocs, ↑P).
+Augmentation de n dans un ballon extensible. Augmentation du volume jusqu'à équilibre des pressions interne et externe.
+
+!Loi de Dalton
+Énoncé. À température donnée, la pression totale exercée par un mélange de gaz = somme des pressions partielles exercées par cahcun des gaz.
+Pression partielle. Pression exercée par un seul gaz dans le mélange (indépendante des autres pressions partielles).
+Formule. P(T) = P(1) + P(2) + ... + P(k)
+Formule avec n. P(T) / n(T) = (P(1) + P(2) + ... + P(k)) / (n(1) + n(2) + ... + n(k))
+Vapeur d'eau. Exerce une pression partielle.
+
+!Loi de la diffusion
+Énergie cinétique à même température. Identique pour tous les gaz.
+Vitesse des gaz à même température. Gaz à petite M se déplacement plus rapidement que les gaz à grand M.
+Énoncé. À température donnée, la vitesse de diffusion d'un gaz des inversement proportionelle à la racine carrée de sa masse molaire.
+Formule. V(1) / V(2) = sqrt(M(2) / M(1))
+Particule plus massive.
+- Masse molaire. ↑M
+- Vitesse. ↓v
+- Distance (à temps constant). ↓d
+- Temps (à distance constant). ↑t
+Particule moins massive.
+- Masse molaire. ↓M
+- Vitesse. ↑v
+- Distance (à temps constant). ↑d
+- Temps (à distance constant). ↓t
+Formule complète. sqrt(M(2) / M(1)) = V(1) / V(2) = D(1) / D(2) = T(2) / T(1)
+
+!Énergie
+Énergie.
+1. Capacité de faire un travail et à provoquer un changement.
+2. Transférable, transformable.
+Énergie d'un système. Toujours conservée (Loi de la conservation de l'énergie).
+Formule. E(totale initiale) = E(totale finale).
+
+!Transferts d'énergie
+Énergie thermique. Forme d'énergie associée à l'agitation des particules.
+Température. T ≠ E.
+1. Mesure du niveau d'agitation.
+2. Indice du niveau d'énergie.
+Facteurs de la quantité d'énergie thermique.
+1. Masse (↑m ∴ ↑E).
+2. Nature (↑c ∴ ↑E).
+3. Température (↑ΔT ∴ ↑E).
+Capacité thermique massique.
+1. Énergie associée à une variation de température de ±1°C par gramme de matière.
+2. Capacité à résister à une variation de température (↑c ∴ ↑R).
+Valeurs théoriques
+- Eau. 4.19 J/g°C
+- Cuivre. 0.39 J/g°C
+Chaleur. Quantité d'énergie gagnée ou perdue par un corps (variation).
+- Symbole. Q (J).
+- Direction de transfert. Corps le plus chaud → Corps le plus froid.
+- Arrêt de transfert. Lorsque la température est égale.
+- Variation d'énergie. Équivalente, mais de signe contraires (Q1 = -Q2).
+Formule. Q = mcΔT
+- Q. Variation d'énergie (J).
+- m. Masse (g).
+- c. Capacité massique thermique (J/g°C).
+- ΔT. Variation de température (°C).
+
+!Enthalpie
+Enthalpie. Énergie totale que renforme une substance ou que possède un système.
+- Symbole. H (kJ).
+- Formule des facteurs. E(t) = E(c) + E(p)
+- Facteurs. Énergie cinétique (mouvements) + Énergie potentielle (liens).
+- Quantification. ØQuantifiable.
+Variation d'enthalpie. Chaleur de réaction → Énergie gagnée ou perdue au cours d'une transformation (physique ou chimique).
+- Quantification. Quantifiable.
+- Formule. ΔH = H(P) - H(R)
+Types de transformations.
+1. Exothermique.
+- Effet sur l'enthalpie. ↓ΔH
+- Graphique d'enthalpie. Décroissant (H(R) > H(P)).
+- Formule thermochimique générale. Réactifs → Produits + E
+- Exemple eau. Synthèse de l'eau: 2H2(g) + O2(g) → 2H2O(l) + 586kJ
+2. Endothermique.
+- Effet sur l'enthalpie. ↑ΔH
+- Graphique d'enthalpie. Croissant (H(R) < H(P)).
+- Formule thermochimique générale. Réactifs + E → Produits
+- Exemple eau. Fusion: H2O(s) + 6kJ → H2O(l)
+Graphique d'enthalpie.
+- Axe des abscisses. Temps.
+- Axe des ordonnées. H(kJ) ou H(kJ/mol).
+- Quantités à identifier. H(R), H(P) et ΔH.
+- Formule à identifier. Réactifs et produits.
+
+!Transformations
+Types de transformations.
+A. Physique (Nature ne change pas, propriétés conservées).
+B. Chimique (Nature change, propriétés modifiées).
+1. Endothermique (Réaction qui absorbe de l'énergie pour se produire → ↓T(milieu)).
+2. Exothermique (Réaction qui dégage de l'énergie pour se produire → ↑T(milieU)).
+Déterminer expérimentalement. ΔT du milieu indique si la transformation est endothermique ou exothermique.
+Phénomènes physiques.
+- Endothermique. Changements de phase (fusion, vaporisation, sublimation), dissolutions, dilutions.
+- Exothermique. Changements de phase (condensation liquide, solidification, condensation solide)), dissolutions, dilutions.
+Phénomènes chimiques.
+- Endothermique. Analyse, photosynthèse, carbonisation.
+- Exothermique. Synthèse, respiration cellulaire, neutralisations, combustions, oxydations.
+Étapes d'une transformation.
+1. Absorption d'énergie (bris de liens).
+2. Dégagement d'énrgie (formation de nouveaux liens).
+3. Bilan des 2 processus (identique si exothermique ou endothermique).
+Énergie des transformations physiques et chimiques. Généralement, l'énergie des transformations physiques < l'énergie des transformations chimiques.
+
+!Phénomènes physiques
+Changements de phases. Endothermique ou exothermique.
+- Solide → Liquide. (Endo, +E) Fusion.
+- Liquide → Gazeux. (Endo, +E) Vaporisation.
+- Solide → Gazeux. (Endo, +E) Sublimation.
+- Gazeux → Liquide. (Exo, -E) Condensation liquide.
+- Liquide → Solide. (Exo, -E) Solidification.
+- Gazeux → Solide. (Exo, -E) Condensation solide.
+Dissolutions. Endothermique ou exothermique.
+- Exemple endothermique (chlorure d'ammonium). NH4Cl(s) + E → NH4+(aq) + Cl-(aq)
+- Exemple exothermique (hydroxyde de sodium). NaOH(s) → Na+(aq) + OH-(aq) + E
+Dilutions. Endothermique ou exothermique.
+- Exemple exothermique. Alcool et eau.
+
+!Phénomènes chimiques
+Neutralisations. Exothermique.
+1. Acidobasique: acide + base → sel + H2O + E
+2. Carbonate: acide + carbonate → sel + H2O + CO2 + E
+3. Métal: acide + métal → sel + H2 + E
+Analyse. Endothermique (décomposition de complexe à simple).
+- Exemple analyse d'eau. H2O + E → H2 + 1/2 O2
+Synthèse. Exothermique (formation de simple à complexe).
+- Exemple oxyde de fer. 4Fe + 3O2 → 2Fe2O3 + E
+- Exemple oxyde de magnésium. 2Mg + O2 → 2MgO + E
+Oxydation. Exothermique.
+- Exemple oxyde de cuivre. 2Cu(s) + O2(g) → 2CuO(s) + E
+Combustion. Exothermique.
+- Exemple méthane. CH4(g) + 2O2(g) → CO2(g) + 2H2O(g) + E
+Photosynthèse. Endothermique.
+- Formule. 6CO2 + 6H2O + E → C6H12O6 + 6O2
+Respiration cellulaire. Exothermique.
+- Formule. C6H12O6 + 6O2 → 6CO2 + 6H2O + E
+
+!Chaleur molaire de réaction
+Chaleur molaire de réaction. Variation d'enthalpie lors d'une transformation exprimée pour:
+1. Une mole de réaction qui se transforme.
+2. Une mole de produit qui se forme.
+Symbole. ΔH
+Expression de la chaleur molaire.
+1. Signe (+endothermique, -exothermique).
+2. Unité (kJ/mol).
+3. Référence à l'une des espèces himiques de la transformation.
+Exemples.
+- Dissolution NaCl. ΔH = +3.9kJ/mol NaCl
+- Synthèse NH3. ΔH = -46kJ/mol NH3
+
+!Équations thermiques
+Endothermique.
+- Position de l'énergie dans l'équation. Réactifs (R + E → P).
+- Signe du ΔH. Positif.
+- Exemple fusion de la glace. H2O(s) + 6kJ → H2O(l), H2O(s) → H2O(l) ΔH = +6kJ/mol H2O
+Exothermique.
+- Position de l'énergie dans l'équation. Produits (R → P + E).
+- Signe du ΔH. Négatif.
+- Exemple synthèse de l'ammoniac. 3H2(g) + N2(g) → 2NH3(g) + 92kJ, 3H2(g) + N2(g) → 2NH3(g) ΔH = -46kJ/mol NH3
+
+!Chaleur de réaction et stoechiométrie
+Chaleur de réaction. Propotionnelle aux quantités de matière impliqués.
+Possible d'établir. Des rapports stoechiométriques entre la chaleur de réaction.
+
+!Calorimétrie
+Calorimétrie. Étude des transferts d'énergie entre
+1. Un milieu.
+2. Une transformation.
+À l'aide d'un. Calorimètre (système isolé).
+Pour permettre. Déterminer la chaleur de réaction.
+Étapes.
+1. Chaleur perdue ou gagnée par le milieu (Q = mcΔT).
+2. Chaleur associée à la transformation (Q1 = -Q2).
+3. Chaleur pour une mole de l'une des substances impliqués (ΔH = Q/n).
+Températures.
+- ↑T. ↑ΔT ∴ exothermique.
+- ↓T. ↓ΔT ∴ endothermique.
+
+!Chaleur de dissolution
+Types de dissolutions.
+1. Ionique.
+2. Moléculaire.
+Exemples.
+- NaCl. NaCl(s) → Na+(aq) Cl-(aq)
+- C12H22O11. C12H22O11(s) → C12H22O11(aq)
+Températures.
+- ↑T(eau). ↑ΔT(eau) ∴ dissolution exothermique.
+- ↓T(eau). ↓ΔT(eau) ∴ dissolution endothermique.
+Chaleur molaire de dissolution. ΔH = Q(dissolution)/n(sel) (kJ/mol de sel).
+
+!Chaleur de neutralisation
+Neutralisation entre. Deux solution aqueuses qui ont une concentration (C = n/V).
+Majorité constituées. Eau (p = m/V = 1g/mL) (c = 4,19J/g°C).
+Formule générale. A + B → Sel + H2O + E
+Exemple.
+- NaCl. HCl(aq) + NaOH(aq) → NaCl(aq) + H2O(l).
+Température.
+- ↑T(eau). ↑ΔT(eau) ∴ neutralisation exothermique.
+Chaleur molaire de neutralisation. ΔH = Q(neutralisation)/n(acide/base) (kJ/mol d'acide ou base).
+
+!Chaleur de combustion
+Combustion. Combustile brûle.
+Énergie dégagée. Réchauffe l'eau du calorimètre.
+Formule générale. Combustible + O2 → CO2 + H2O
+Exemple.
+- Méthane. CH4 + 2O2 → CO2 + 2H2O + E
+Masse de combustible. Δm = mi - mf
+Chaleur molaire de combustion. ΔH = Q(combustion)/n(combustible) (kJ/mol de combustible).
+
+!Loi de Hess
+Loi de Hess synonyme. Loi d'additivité des enthalpies.
+Application. Loi pour déterminer la chaleur de réaction.
+Quand. Réaction ne peut pas être évaluée par la calorimétrie classique.
+1. Complexe.
+2. Rapide.
+3. Dangereuse.
+4. PLusieurs étapes.
+Énoncé.
+- Lorsque. Réaction s'obtient par la somme de ses réactions intermédiaires:
+- Chaleur de réaction. Équivaut à la somme des chaleurs des étapes intermédiaires.
+Formule. ΔH(globale) = ΔH(1) + ΔH(2) + ΔH(n)
+Règles pour faire une somme algébrique d'équations.
+1. Termes identiques, de côtés opposés des flèches → simplifient (soustraient).
+2. Termes identiques, de même côtés des flèches → regroupent (additionnent).
+Termes identiques.
+1. Même formule.
+2. Même état.
+Énergie impliquée dans les changements de phase complets.
+1. Énergie du changement.
+2. Énergie changement de température.
+
+!Liens
+Types de liens.
+1. Intermoléculaires.
+2. Intramoléculaires.
+Intermoléculaires. Entre les molécules.
+1. Solide (compact et ordonné).
+Énergie de transformation. +6kJ/mol H2O.
+2. Liquide (désordonnée et fluide).
+Énergie de transformation. +44kJ/mol H2O.
+3. Gaz (très désordonnée).
+Intramoléculaires.
+1. Entre les atomes dans les molécules.
+2. Entre les électrons et le noyau.
+3. Entre les protons et les neutrons.
+Liens en ordre croissant de force. En ordre croissant d'énergie nécessaire pour les briser.
+1. Liens entre particules de solide.
+2. Liens entre particules de liquide.
+3. Liens entre les atomes dans les molécules.
+4. Liens entre les électrons et le noyau.
+5. Liens entre les protons et les neutrons.
+État avec les liens les plus forts. Liquide ∵ nécessite le plus d'énergie pour les bris de liens.
+Types d'énergie.
+1. E(c) → énergie cinétique (mouvements), à T variable.
+2. E(p) → énergie potentielle (liens), à T constant.
+Grandeur d'énergie impliquée dans les transformations.
+1. 10^1 kJ (fusion, vaporisation).
+2. 10^3 kJ (atomisation, ionisation).
+3. 10^6 kJ (fission, bris de p+ et n0).
+
+!Bilan énergétique
+Bilan énergétique. Déterminer la chaleur de réaction par les énergies de liaison.
+Stabilité de la molécule. Plus stable que les atomes qui la composent seuls.
+- Pour rompre la liaison AB. Fournir de l'énergie (AB + E → A + B).
+- Si la liaison est reformée. Énergie est dégagée (A + B → AB + E).
+- Énergie. Équivalente pour rompre et former.
+Étapes d'une transformation.
+1. Bris de liens (nécessite de l'énergie → endo+) → atomes libres instables.
+2. Formation de liens (dégage de l'énergie → endo-) → plus de stabilité.
+3. Bilan → comparaison entre l'énergie absorbée (bris) et l'énergie dégagée (formation).
+Formule. Bilan = E(bris) + E(formation)
+- E(bris). Positif.
+- E(formation). Négatif.
+- Bilan positif. Réaction globale endothermique.
+- Bilan négatif. Réaction globale exothermique.
+Complexe activé. Moment de transition hautement énergétique et de très courte durée (atomes séparés).
+
+!Énergie de liaisons
+Énergie de liaisons. Énergie associée au bris ou à a formation d'une mole de liens.
+Lien (liaison). Ce qui unit deux atomes.
+1. Simple (H-H).
+2. Double (O=O).
+3. Triple (N≡N).
+Cas spécifiques.
+- O3. 3 liens simples (O-O).
+- BrCl3. 3 liens simples (Br-Cl).
+
+!Graphiques
+Enthalpie des réactifs. H(R) = 0kJ.
+Signe de l'enthalpie des produits.
+- Négatif. Exothermique.
+- Positif. Endothermique.
+Graphiques.
+- Axe des abscisses. Temps (s).
+- Axe des ordonnées. H (kJ).
+- Formule à identifier. Réactifs et produits.
+- Titre. Diagramme X de la réaction Y.
+Graphique d'enthalpie.
+- Dessin. ↑ΔH.
+- Quantités à identifier. H(R), H(P), ΔH.
+- ΔH. H(P) - H(R)
+Graphique du bilan énergétique.
+- Dessin. ↑E(bris), ↓E(formation), ↑ΔH.
+- Quantités à identifier. H(R), H(P), E(bris), E(formation), ΔH.
+- Bilan. E(bris) + E(formation)
+Graphique énergétique.
+- Dessin. ↑E(a), ↑E(i), ↑ΔH.
+- Quantités à identifier. H(R), H(P), H(CA), E(a), E(i), ΔH.
+- E(a). H(CA) - H(R)
+- E(i). H(CA) - H(P)
+
+!Vitesse des réactions
+Plus vite si. ↓E(a).
+Quand E(a)≈0kJ. Réaction spontanée.
+
+!Réversibilité des réactions
+Réaction inverse. Inverser le nom.
+Réaction réversible. Si dans certaines conditions les produits peuvent redevenir réactifs.
+Plupart des situations. Irréversible (combustion).
+Plus réversible si. ↓ΔH, ↓E(i).
+
+!Classement relatif des vitesse de réaction
+Durée des transformations. Permet un classement et une comparaison des réactions.
+Classement.
+- Ordre croissant de vitesse. Lent → Vite.
+- Ordre décroissant de vitesse. Vite → Lent.
+Durées possibles en ordre croissant de vitesse.
+1. Siècle.
+2. Décennie.
+3. Année.
+4. Mois.
+5. Semaine.
+6. Jour.
+7. Heure.
+8. Minute.
+9. Seconde.
+
+!Vitesse de réaction
+Vitesse de réaction. Pendant un intervalle de temps, une quantité de:
+1. Produits formés.
+2. Réactifs consommés.
+Associée à. Une espèce chimique de la réaction.
+Formule générale. v = |Δqté|/Δt
+- Masse. v = Δv/Δt
+- Quantité de matière. v = Δn/Δt
+- Volume. v = ΔV/Δt
+- Concentration. v = Δ[]/Δt = Δc/Δt
+- Pression. v = ΔP/Δt
+Variation des quantités au cours d'une réaction.
+- Abscisses. t (s).
+- Ordonnées. n (mol).
+- Réactifs. Décroissant.
+- Produits. Croissant.
+- Fin de la réaction. Réactifs s'épuise, produits cessent d'augmenter (plateau).
+
+!Vitesse générale
+Vitesse générale. Vitesse unique qui caractérise une réaction.
+Formule. Avec aA + bB → cC, vg = VA/a = VB/b = VC/c
+
+!Vitesse en graphique
+Vitesse moyenne. Vitesse évaluée par un intervalle de temps plus ou moins long.
+- Calcul impliqué. Pente de la sécante.
+Vitesse instantané. Vitesse évaluée à un intervalle de temps précis.
+- Calcul impliqué. Pente de la tangente.
+Formule. v = Δn/Δt = (n2 - n1)/(t2 - t1)
+
+!Mécanisme réactionnel
+Mécanisme réactionnel. Plusieurs étapes nécessaires pour la transformation des réactifs aux produits.
+- Écriture. Omettre les complexes activés.
+Étape intermédiaire. Étapes progressives pour transformer les réactifs en produits.
+Produit intermédiaire. Apparaît toujours du côté des réactifs la 1e fois et ensuite au côté des réactifs.
+Avec le mécanisme réactionnel. Déterminer la vitesse de réaction.
+Vitesse de réaction globale. Étape la plus lente (étape déterminante).
+Étape déterminante.
+1. Complexe activé possède le plus haut niveau d'enthalpie.
+2. Énergie d'activation est la plus grande par rapport aux réactifs.
+
+!Théorie des collisions
+Conditions pour une réaction. Particules entrent en collision.
+1. Particules des réactifs doivent se rapprocher et se rencontrer selon une orientation spécifique.
+2. Particules doivent avoir une énergie suffisante (≥Ea).
+Types de collisions. Peu des collisions sont efficaces.
+1. Élastique → Pas de nouvelles substances (A2 + B2 → A2 + B2).
+2. Efficace → Formation de nouvelles substances (A2 + B2 → 2AB).
+Distribution de l'énergie cinétique d'un échantillon de réactifs.
+- Courbe. Distribution normale.
+- Aire. Totalité de l'échantillon étudié à un instant t.
+- Barrière. Énergétique.
+- Gauche. Particules de réactifs faisant seulement des collisions élastiques.
+- Droite. Particules de réactifs faisant des collisions efficaces (transformations).
+- Au fil du temps. Nombre de particules baissent → Vitesse baisse.
+Vitesse de réaction dépend. v ∝ Collisions / Δt
+- ↓Collisions / Δt. ↓v
+- ↑Collisions / Δt. ↑v
+
+!Facteurs influençant la vitesse des réactions
+Facteurs.
+1. Nature et phase des réactifs.
+2. Surfaces de contact.
+3. Concentration des réactifs.
+4. Pression.
+5. Température.
+6. Ajout d'un catalyseur.
+
+!Nature et phase des réactifs
+Nature.
+1. Nombre de liens.
+2. Force des liens.
+Nombre de liens.
+- ↑liens. ↓v
+- ↓liens. ↑v
+Force des liens.
+- ↑force. ↓v
+- ↓force. ↑v
+Phases (vitesse croissante).
+1. Solide.
+2. Liquide.
+3. Gaz.
+4. Ions en solution aqueuse.
+États (vitesse croissante).
+1. S+S.
+2. S+L.
+3. S+G.
+4. L+L.
+5. L+G.
+6. G+G.
+7. AQ+AQ.
+Ions en solution aqueuse.
+- Particules avec. Charge électrique.
+- Faciliter. Réaction (attraction).
+Si un seul réactif. 2 du même état.
+Si un seul aqueux. Considéré liquide.
+Si deux réactions ont des réactifs de même états. Compte le nombre d'atomes.
+
+!Surfaces de contact
+Surface de contact. v ∝ A
+- ↑A. ↑v
+- ↓A. ↓v
+Aire. Interface où se rencontre les réactifs.
+Exemples.
+1. Agiter.
+2. Mastiquer.
+3. Déplier.
+Formule. v2/v1 = A2/A1
+Restrictions.
+- S'applique. Mélanges hétérogènes.
+- Ne s'applique pas. Aux mélanges homogènes.
+
+!Concentration des réactifs
+Concentration. v ∝ c
+- ↑c. ↑v
+- ↓c. ↓v
+Concentration. Quantité de matière par unité de volume.
+- Concentration variable. Soluté, Gaz.
+- Concentration invariable. Solide pur, Liquide pur.
+Concentration liée aux. Collisions.
+Formule. v2/v1 = c2/c1
+Restrictions.
+- S'applique. Ajout ou retrait de gaz ou de soluté.
+- Ne s'applique pas. Ajout ou retrait de matière (change le temps de réaction).
+Effet sur le graphique d'énergie cinétique. Modifier l'amplitude de la courbe.
+
+!Pression
+Pression. v ∝ P
+- ↑P. ↑v
+- ↓P. ↓v
+Pression liée aux. Concentrations → Collisions.
+Formule. v2/v1 = P2/P1
+Restrictions.
+- S'applique. Gaz.
+
+!Température
+Température.
+- ↑T. ↑v
+- ↓T. ↓v
+Température liée à. L'énergie cinétique → Collisions.
+Exemples.
+1. Réfrigération.
+2. Cuisson.
+Formule. v2 = 2^(ΔT/10°C) · v1
+- Loi. De Van't Hoff.
+- Énonce. Chaque variation de ±10°C double la vitesse ou la divise par 2.
+Restrictions.
+- S'applique. Toutes les réactions.
+Effet sur le graphique d'énergie cinétique. Décaler la courbe horizontalement.
+
+!Ajout d'un catalyseur
+Catalyseur. Substance qui, ajoutée à un mécanisme réactionnel, modifie la vitesse de la réaction globale.
+- Sans. Subir de modifications elle-même.
+- Modifie. Énergie d'activation.
+Types de catalyseurs.
+1. Positif.
+2. Négatif (inhibiteur).
+Notation. Catalyseur sur la flèche.
+Dans un mécanisme réactionnel.
+- Produit intermédiare. Produits, réactifs.
+- Catalyseur. Réactifs, produits.
+Effet sur le graphique d'énergie cinétique. Décaler la barrière énergétique.
+
+!Effet sur la vitesse
+Déterminer l'effet sur la vitesse. Comparaison d'aire du graphique d'énergie cinétique.
+- Relation. v ∝ A
+
+!Loi des vitesses de réaction
+Vitesse proportionnelle aux. Quantités de réactifs A et B par unité de volume.
+Vitesse.
+- Au début. Plus grande.
+- Au fur et à mesure. Diminue → Diminution de concentration.
+Formule. v = k[A]^a[B]^b
+- v. Vitesse instantanée (mol/L · s).
+- k. Constante de vitesse (unique à réaction et température) (mol/L · s).
+- [A] et [B]. Concentrations molaires des réactifs (g et aq) (mol/L).
+- a et b. Ordre de réaction (coefficients molaires dans l'équation balancée).
+
+!Équilibre
+Types d'équilibres.
+- Statique. Aucun changement.
+- Dynamique. Changements continuels qui s'annulent les uns les autres.
+Étapes d'un équilibre.
+- Début. Réaction directe favorisée.
+- Milieu. Réaction directe et inverse (prend de l'importance).
+- Équilibre. Réaction directe et indirecte (les deux favorisés).
+Vitesse. Échange de matière par unité de temps est identique entre les réactions directe et indirecte.
+- Formule. vd = ΔqtéA/Δt = vi = ΔqtéB/Δt
+Réactions. Réactions opposés se produisant simultanément à la même vitesse.
+Conditions nécessaires à un état d'équilibre.
+1. Système fermé (avec ou sans couvercle).
+2. Conservation des propriétés macroscopiques (pH, manomètre, temp., couleur, volum, conc., masse)
+3. Certitude que deux réactions coexistent (présence de R et P en même temps).
+Réactions en équilibre. Ne cesse jamais → toujours compensée.
+Exemple CO2.
+1. CO2(aq) → CO2(g) ∴ ↑P
+2. ↑P ∴ CO2(g) → CO2(aq)
+
+!Révsersibilité des réactions
+Irréversible.
+- Graphique. Réactifs s'épuisent.
+- Réaction. Complète.
+- Équilibre. Aucun.
+- Favorise. Réaction directe (R → P).
+Réversible.
+- Graphique. Réactifs et produits forment un plateau.
+- Réaction. Incomplète.
+- Équilibre. Début au plateau.
+- Favorise. Réaction directe (R → P) et indirecte (P → R).
+
+!Types de systèmes
+Isolé.
+- Énergie. Aucun échange.
+- Matière. Aucun échange.
+Fermé.
+- Énergie. Échange avec le mlieu.
+- Matière. Aucun échange.
+Ouvert.
+- Énergie. Échange avec le milieu.
+- Matière. Échange avec le milieu.
+
+!Bécher
+Vaporisation de l'eau. Pas en équilibre.
+Solution saturée (nécessaire d'avoir un dépot). Fermé → En équilibre.
+
+!Types d'équilibres
+Types d'équilibres physiques.
+1. Équilibre de phase.
+Substances. 1 (plusieurs phases).
+2. Équilibre de solubilité.
+Substances. 2 (soluté (excès), solvant).
+Types d'équilibres chimiques.
+3. Équilibre chimique.
+
+!Équilibre en graphique
+Graphique.
+- Abscisses. t (s).
+- Ordonnées. n (mol).
+- Plateau. Début de l'équilibre ou fin de réaction.
+Réactions.
+1. Produits favorisés.
+Courbe réactifs. Décroissant (R < P).
+Courbe produits. Croissant (P > R).
+2. Réactifs favorisés.
+Courbe réactifs. Décroissant (R > P).
+Courbe produits. Croissant (P < R).
+3. Produits et réactifs également favorisés.
+Courbe réactifs. Décroissant (R = P).
+Courbe produits. Croissant (P = R).
+4. Réaction irréversible complète.
+Courbe réactifs. Décroissant (R = 0).
+Courbe prouits. Croissant (P > R).
+
+!Modification de l'équilibre
+Facteurs qui modifient l'équilibre.
+1. Concentration.
+2. Température.
+3. Pression.
+Principe de. Le Chatelier.
+- Situation. Système équilibré qui subit un changement.
+- Résultat. Le système s'y oppose en partie.
+- Comment. Une des réactions sera momentanément favorisée jusqu'à retrouver un nouvel équililbre.
+Réaction favorisée. Réaction dont les produits augmentent.
+1. Réaction directe (↑P).
+2. Réaction indirecte (↑R).
+3. Réaction endothermique.
+3-1. Réaction directe (R + E ⇌ P).
+3-2. Réaction indirecte (R ⇌ P + E).
+4. Réaction exothermique.
+4-1. Réaction directe (R ⇌ P + E).
+4-2. Réaction indirecte (R + E ⇌ P).
+Équilibre. Déplace vers:
+1. La gauche (↑R).
+2. La droite (↑P).
+Application du principe. Prédire comment un système évoluera vers un nouvel équilibre à la suite d'une modification.
+- Début. R ⇌ P
+- Modification. R ⇌→ P, R ←⇌ P
+- Fin. R ⇌ P
+Restriction. Seul les substances dont la concentration peut varier.
+
+!Changement de concentration
+Changement concentration.
+- ↑[]. Favoriser la réaction qui lui permettra de diminuer cette concentration.
+- ↓[]. Favoriser la réaction qui lui permettra d'augmenter cette concentration.
+
+!Changement de température
+Changement de température.
+- ↑T. Favoriser la réaction endothermique.
+- ↓T. Favoriser la réaction exothermique.
+
+!Changement de pression
+Changement de pression.
+- ↑P. Favoriser la réaction qui produit le moins de molécules gazeuses.
+- ↓P. Favoriser la réaction qui produit le plus de molécules gazeuses.
+
+!Facteurs qui n'influencent pas l'équilibre
+Facteurs.
+1. Nature des réactifs → changer la réaction.
+2. Surfaces de contact → vitesses modifiées dans un même rapport.
+3. Catalyseur → vitesses modifiées dans un même rapport.
+
+!Procédés industriels
+Plus de production. Toutes sauf retrait.
+Plus de profit. Toutes.
+
+!Constante d'équilibre
+Constante d'équilibre.
+- Se détermine. Expérimentalement.
+- Par. Mesure des concentrations à l'équilibre.
+Quantités de réactifs et de produits à l'équilibre.
+- Tableau. IVE (Initial, variation, équilibre).
+- Coefficients. Calculer la variation des quantités (destruction et formation).
+
+!Loi de l'équilibre chimique
+Condition. À température donnée (toujours kc avec température).
+Loi de l'équilibre chimique. Rapport constant entre la concentration à l'équilibre:
+1. Des produits;
+2. Des réactifs.
+Formule générale. kc = [P]/[R]
+Avec aA + bB ⇌ cC + dD. kc = ([C]^c [D]^d)/([A]^a [B]^b)
+- [x]. Concentrations molaires (mol/L).
+- ^x. Coefficient molaires.
+Interprétation de la constante d'équilibre.
+- kc > 1. Produits favorisés.
+- kc < 1. Réactifs favorisés.
+- kc = 1. Ni les réactifs ni les produits sont favorisés.
+La constante d'équilibre ne renseigne pas sur. la vitesse d'un système à atteindre l'équilibre.
+
+!Modification de la constante d'équilibre
+Facteur qui modifie la constante d'équilibre.
+1. Température.
+Réaction directe favorisée. ↑kc.
+1. (↑T) R + E ⇌ P
+2. (↓T) R ⇌ P + E
+Réaction inverse favorisée. ↓kc.
+1. (↑T) R ⇌ P + E
+2. (↓T) R + E ⇌ P
+
+!Équilibre de solubilité
+Réaction de. Précipitation.
+- Traces de. Ions en solution.
+- Formation. Équilibre entre le précipité solide et les ions qui se précipitent.
+Solubilité. Quantité maximale de soluté qu'il est possible de dissoudre.
+-. Dans un certain volume d'eau.
+-. À une température donnée.
+Unité. g/100mL, g/L.
+Température. Augmentation de la solubilité.
+Propriété. Caractéristique.
+Solubilité molaire. Quantité de soluté dans un certain volume de solution.
+Unité. mol/L.
+Pour trouver.
+- Valeur. Concentrations maximales d'ions formés.
+- Solution. Saturée.
+- Système. Équilibre de solubilité.
+Ajout progressif du sel.
+- Quantité de sel inférieure à la solubilité. Ø Équilibre.
+- Quantité de sel égale à la solubilité. Équilibre.
+- Quantité de sel supérieure à la solubilité. Équilibre.
+Équilibre.
+- Réaction directe. Dissolution.
+- Réaction inverse. Recristallisation.
+
+!Constante de solubilité
+Constante de solubilité. Constante d'équilibre.
+- Associée à. Dissolution des composés ioniques peu solubles.
+Avec XmYn(s) ⇌ mX^n+(aq) + nY^m-(aq). kps = [X^n+]^m [Y^m-]^n
+Relation avec solubilité. Kps ≠ s, Kps ∝ s
+
+!Interprétation de la constante de solubilité
+↑Kps.
+- Ions. ↑
+- Solubilité. ↑s
+↓Kps.
+- Ions. ↓
+- Solubilité. ↓s
+
+!Constante d'équilibre de l'eau
+Constante d'équilibre de l'eau.
+- Nom alternatif. Constante d'ionisation de l'eau.
+Ionisation de l'eau. Faible.
+Arrhenius.
+- Équilibre. H2O(l) ⇌ H+(aq) + OH-(aq)
+- Constante d'équilibre. keau = [H+][OH-]
+Bronsted-Lowry.
+- Équilibre. H2O(l) + H2O(l) ⇌ H3O+(aq) + OH-(aq)
+- Constante d'équilibre. keau = [H3O-][OH-]
+Modification de l'équilibre. Change pas la constante d'équilibre.
+1. Ajout d'une substance acide ↑[H+]
+2. Ajout d'une substance basique ↓[OH-]
+
+!Modification de la consante d'équilibre de l'eau
+Facteur qui modifie la consante d'équilibre.
+1. Température.
+Équilibre. H2O(l) + E ⇌ H+(aq) + OH-(aq)
+- ↑T. ↑Endothermique, ↑keau
+- ↓T. ↑Exothermique, ↓keau
+
+!Échelle pH
+Concentrations [H+] et [OH-]. Complémentaires.
+Échelle pH. Échelle de 0 à 14 qui indique le degré d'acidité d'une solution.
+0. [H+] = 1x10^0 mol/L
+7. [H+] = 1x10^-7 mol/L
+14. [H+] = 1x10^-14 mol/L
+Formule.
+- pH. pH = -log[H+]
+- [H+]. [H+] = 10^-pH
+Échelle pOH. Échelle de 0 à 14 qui indique le degré de basicité d'une solution.
+14. [OH-] = 1x10^-14 mol/L
+7. [OH-] = 1x10-7 mol/L
+0. [OH-] = 1x10^0 mol/L
+Formule.
+- pOH. pOH = -log[OH-]
+- [OH-]. [OH-] = 10^-pOH
+À 25°C.
+- pH + pOH. 14
+- keau. 1x10^-14 mol/L
+- [H+]. 1x10^-7 mol/L
+- [OH-]. 1x10^-7 mol/L
+
+!Neutralisation acido-basique
+Neutralisation acido-basique. Mélange d'acide et de base qui rend la solution neutre.
+- Nom alternatif. Titrage.
+Quantités d'ions. nH+ = nOH- (équivalence).
+Après la neutralisation. Équilibre de l'eau.
+Formule. CaVa = CbVb
+
+!Équilibre acidobasique
+Réaction de. Dissociation.
+- Formation. Équilibre entre les molécules d'acides ou de base indissociées et les ions formés
+Acides et bases. Faibles.
+Théorie d'Arrhenius.
+- Acide. Substance qui libère des ions H+ en solution.
+- Base. Substance qui libère des ions OH- en solution.
+- Formule neutralisation. A + B → Sel + H2O
+- Neutre. H+ et OH- qui rend la solution neutre.
+Théorie de Bronsted-Lowry.
+- Acide. Substance qui cède un proton (donneur de H+).
+- Base. Substance qui acquiert un proton (receveur de H+).
+- Proton. H+
+- Formule dissociation. A + B → B + A
+- Eau. Acide ou base selon l'espèce (dualité → amphotère).
+- Espèces chimiques aux formules chimiques semblabes. Paire acide-base conjugé.
+Commun. Acide.
+Différence. Base.
+Amphotère.
+- En présence d'une base. Libérer un ion H+
+- En présence d'un acide. Capter un ion H+
+Acide.
+1. Débute par H.
+2. Termine par COOH.
+Base.
+1. Termine par OH.
+2. Ions négatifs (F-, CO3 2-, CN-).
+3. Renferme un groupe (NH, NH2).
+Amphotères.
+1. H2O.
+2. Ions négatifs débutant par H (HCO3-).
+
+!Constantes d'acidité et de basicité
+
