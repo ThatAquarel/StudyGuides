@@ -20,7 +20,7 @@ def new_class(name, location, weekday, hour, minute, hour_d, minute_d, count):
     event.add("dtend", event_end_time)
     event.add("location", location)
     event.add("uid", str(uuid.uuid4()))
-    event.add("rrule", {"freq": "weekly", "byday": "MO", "count": count})
+    event.add("rrule", {"freq": "weekly", "count": count})
 
     return event
 
